@@ -1,0 +1,3041 @@
+,date,homeTeam,homeScore,awayScore,awayTeam,season
+0,2014-08-16,Arsenal,2,1,Crystal Palace,2014
+1,2014-08-16,Leicester City,2,2,Everton,2014
+2,2014-08-16,Manchester United,1,2,Swansea City,2014
+3,2014-08-16,Queens Park Rangers,0,1,Hull City,2014
+4,2014-08-16,Stoke City,0,1,Aston Villa,2014
+5,2014-08-16,West Bromwich Albion,2,2,Sunderland,2014
+6,2014-08-16,West Ham United,0,1,Tottenham Hotspur,2014
+7,2014-08-17,Liverpool,2,1,Southampton,2014
+8,2014-08-17,Newcastle United,0,2,Manchester City,2014
+9,2014-08-18,Burnley,1,3,Chelsea,2014
+10,2014-08-23,Aston Villa,0,0,Newcastle United,2014
+11,2014-08-23,Chelsea,2,0,Leicester City,2014
+12,2014-08-23,Crystal Palace,1,3,West Ham United,2014
+13,2014-08-23,Everton,2,2,Arsenal,2014
+14,2014-08-23,Southampton,0,0,West Bromwich Albion,2014
+15,2014-08-23,Swansea City,1,0,Burnley,2014
+16,2014-08-24,Hull City,1,1,Stoke City,2014
+17,2014-08-24,Sunderland,1,1,Manchester United,2014
+18,2014-08-24,Tottenham Hotspur,4,0,Queens Park Rangers,2014
+19,2014-08-25,Manchester City,3,1,Liverpool,2014
+20,2014-08-30,Burnley,0,0,Manchester United,2014
+21,2014-08-30,Everton,3,6,Chelsea,2014
+22,2014-08-30,Manchester City,0,1,Stoke City,2014
+23,2014-08-30,Newcastle United,3,3,Crystal Palace,2014
+24,2014-08-30,Queens Park Rangers,1,0,Sunderland,2014
+25,2014-08-30,Swansea City,3,0,West Bromwich Albion,2014
+26,2014-08-30,West Ham United,1,3,Southampton,2014
+27,2014-08-31,Aston Villa,2,1,Hull City,2014
+28,2014-08-31,Leicester City,1,1,Arsenal,2014
+29,2014-08-31,Tottenham Hotspur,0,3,Liverpool,2014
+30,2014-09-13,Arsenal,2,2,Manchester City,2014
+31,2014-09-13,Chelsea,4,2,Swansea City,2014
+32,2014-09-13,Crystal Palace,0,0,Burnley,2014
+33,2014-09-13,Liverpool,0,1,Aston Villa,2014
+34,2014-09-13,Southampton,4,0,Newcastle United,2014
+35,2014-09-13,Stoke City,0,1,Leicester City,2014
+36,2014-09-13,Sunderland,2,2,Tottenham Hotspur,2014
+37,2014-09-13,West Bromwich Albion,0,2,Everton,2014
+38,2014-09-14,Manchester United,4,0,Queens Park Rangers,2014
+39,2014-09-15,Hull City,2,2,West Ham United,2014
+40,2014-09-20,Aston Villa,0,3,Arsenal,2014
+41,2014-09-20,Burnley,0,0,Sunderland,2014
+42,2014-09-20,Newcastle United,2,2,Hull City,2014
+43,2014-09-20,Queens Park Rangers,2,2,Stoke City,2014
+44,2014-09-20,Swansea City,0,1,Southampton,2014
+45,2014-09-20,West Ham United,3,1,Liverpool,2014
+46,2014-09-21,Everton,2,3,Crystal Palace,2014
+47,2014-09-21,Leicester City,5,3,Manchester United,2014
+48,2014-09-21,Manchester City,1,1,Chelsea,2014
+49,2014-09-21,Tottenham Hotspur,0,1,West Bromwich Albion,2014
+50,2014-09-27,Arsenal,1,1,Tottenham Hotspur,2014
+51,2014-09-27,Chelsea,3,0,Aston Villa,2014
+52,2014-09-27,Crystal Palace,2,0,Leicester City,2014
+53,2014-09-27,Hull City,2,4,Manchester City,2014
+54,2014-09-27,Liverpool,1,1,Everton,2014
+55,2014-09-27,Manchester United,2,1,West Ham United,2014
+56,2014-09-27,Southampton,2,1,Queens Park Rangers,2014
+57,2014-09-27,Sunderland,0,0,Swansea City,2014
+58,2014-09-28,West Bromwich Albion,4,0,Burnley,2014
+59,2014-09-29,Stoke City,1,0,Newcastle United,2014
+60,2014-10-04,Aston Villa,0,2,Manchester City,2014
+61,2014-10-04,Hull City,2,0,Crystal Palace,2014
+62,2014-10-04,Leicester City,2,2,Burnley,2014
+63,2014-10-04,Liverpool,2,1,West Bromwich Albion,2014
+64,2014-10-04,Sunderland,3,1,Stoke City,2014
+65,2014-10-04,Swansea City,2,2,Newcastle United,2014
+66,2014-10-05,Chelsea,2,0,Arsenal,2014
+67,2014-10-05,Manchester United,2,1,Everton,2014
+68,2014-10-05,Tottenham Hotspur,1,0,Southampton,2014
+69,2014-10-05,West Ham United,2,0,Queens Park Rangers,2014
+70,2014-10-18,Arsenal,2,2,Hull City,2014
+71,2014-10-18,Burnley,1,3,West Ham United,2014
+72,2014-10-18,Crystal Palace,1,2,Chelsea,2014
+73,2014-10-18,Everton,3,0,Aston Villa,2014
+74,2014-10-18,Manchester City,4,1,Tottenham Hotspur,2014
+75,2014-10-18,Newcastle United,1,0,Leicester City,2014
+76,2014-10-18,Southampton,8,0,Sunderland,2014
+77,2014-10-19,Queens Park Rangers,2,3,Liverpool,2014
+78,2014-10-19,Stoke City,2,1,Swansea City,2014
+79,2014-10-20,West Bromwich Albion,2,2,Manchester United,2014
+80,2014-10-25,Liverpool,0,0,Hull City,2014
+81,2014-10-25,Southampton,1,0,Stoke City,2014
+82,2014-10-25,Sunderland,0,2,Arsenal,2014
+83,2014-10-25,Swansea City,2,0,Leicester City,2014
+84,2014-10-25,West Bromwich Albion,2,2,Crystal Palace,2014
+85,2014-10-25,West Ham United,2,1,Manchester City,2014
+86,2014-10-26,Burnley,1,3,Everton,2014
+87,2014-10-26,Manchester United,1,1,Chelsea,2014
+88,2014-10-26,Tottenham Hotspur,1,2,Newcastle United,2014
+89,2014-10-27,Queens Park Rangers,2,0,Aston Villa,2014
+90,2014-11-01,Arsenal,3,0,Burnley,2014
+91,2014-11-01,Chelsea,2,1,Queens Park Rangers,2014
+92,2014-11-01,Everton,0,0,Swansea City,2014
+93,2014-11-01,Hull City,0,1,Southampton,2014
+94,2014-11-01,Leicester City,0,1,West Bromwich Albion,2014
+95,2014-11-01,Newcastle United,1,0,Liverpool,2014
+96,2014-11-01,Stoke City,2,2,West Ham United,2014
+97,2014-11-02,Aston Villa,1,2,Tottenham Hotspur,2014
+98,2014-11-02,Manchester City,1,0,Manchester United,2014
+99,2014-11-03,Crystal Palace,1,3,Sunderland,2014
+100,2014-11-08,Burnley,1,0,Hull City,2014
+101,2014-11-08,Liverpool,1,2,Chelsea,2014
+102,2014-11-08,Manchester United,1,0,Crystal Palace,2014
+103,2014-11-08,Queens Park Rangers,2,2,Manchester City,2014
+104,2014-11-08,Southampton,2,0,Leicester City,2014
+105,2014-11-08,West Ham United,0,0,Aston Villa,2014
+106,2014-11-09,Sunderland,1,1,Everton,2014
+107,2014-11-09,Swansea City,2,1,Arsenal,2014
+108,2014-11-09,Tottenham Hotspur,1,2,Stoke City,2014
+109,2014-11-09,West Bromwich Albion,0,2,Newcastle United,2014
+110,2014-11-22,Arsenal,1,2,Manchester United,2014
+111,2014-11-22,Chelsea,2,0,West Bromwich Albion,2014
+112,2014-11-22,Everton,2,1,West Ham United,2014
+113,2014-11-22,Leicester City,0,0,Sunderland,2014
+114,2014-11-22,Manchester City,2,1,Swansea City,2014
+115,2014-11-22,Newcastle United,1,0,Queens Park Rangers,2014
+116,2014-11-22,Stoke City,1,2,Burnley,2014
+117,2014-11-23,Crystal Palace,3,1,Liverpool,2014
+118,2014-11-23,Hull City,1,2,Tottenham Hotspur,2014
+119,2014-11-24,Aston Villa,1,1,Southampton,2014
+120,2014-11-29,Burnley,1,1,Aston Villa,2014
+121,2014-11-29,Liverpool,1,0,Stoke City,2014
+122,2014-11-29,Manchester United,3,0,Hull City,2014
+123,2014-11-29,Queens Park Rangers,3,2,Leicester City,2014
+124,2014-11-29,Sunderland,0,0,Chelsea,2014
+125,2014-11-29,Swansea City,1,1,Crystal Palace,2014
+126,2014-11-29,West Bromwich Albion,0,1,Arsenal,2014
+127,2014-11-29,West Ham United,1,0,Newcastle United,2014
+128,2014-11-30,Southampton,0,3,Manchester City,2014
+129,2014-11-30,Tottenham Hotspur,2,1,Everton,2014
+130,2014-12-02,Burnley,1,1,Newcastle United,2014
+131,2014-12-02,Crystal Palace,0,1,Aston Villa,2014
+132,2014-12-02,Leicester City,1,3,Liverpool,2014
+133,2014-12-02,Manchester United,2,1,Stoke City,2014
+134,2014-12-02,Swansea City,2,0,Queens Park Rangers,2014
+135,2014-12-02,West Bromwich Albion,1,2,West Ham United,2014
+136,2014-12-03,Arsenal,1,0,Southampton,2014
+137,2014-12-03,Chelsea,3,0,Tottenham Hotspur,2014
+138,2014-12-03,Everton,1,1,Hull City,2014
+139,2014-12-03,Sunderland,1,4,Manchester City,2014
+140,2014-12-06,Hull City,0,0,West Bromwich Albion,2014
+141,2014-12-06,Liverpool,0,0,Sunderland,2014
+142,2014-12-06,Manchester City,1,0,Everton,2014
+143,2014-12-06,Newcastle United,2,1,Chelsea,2014
+144,2014-12-06,Queens Park Rangers,2,0,Burnley,2014
+145,2014-12-06,Stoke City,3,2,Arsenal,2014
+146,2014-12-06,Tottenham Hotspur,0,0,Crystal Palace,2014
+147,2014-12-07,Aston Villa,2,1,Leicester City,2014
+148,2014-12-07,West Ham United,3,1,Swansea City,2014
+149,2014-12-08,Southampton,1,2,Manchester United,2014
+150,2014-12-13,Arsenal,4,1,Newcastle United,2014
+151,2014-12-13,Burnley,1,0,Southampton,2014
+152,2014-12-13,Chelsea,2,0,Hull City,2014
+153,2014-12-13,Crystal Palace,1,1,Stoke City,2014
+154,2014-12-13,Leicester City,0,1,Manchester City,2014
+155,2014-12-13,Sunderland,1,1,West Ham United,2014
+156,2014-12-13,West Bromwich Albion,1,0,Aston Villa,2014
+157,2014-12-14,Manchester United,3,0,Liverpool,2014
+158,2014-12-14,Swansea City,1,2,Tottenham Hotspur,2014
+159,2014-12-15,Everton,3,1,Queens Park Rangers,2014
+160,2014-12-20,Aston Villa,1,1,Manchester United,2014
+161,2014-12-20,Hull City,0,1,Swansea City,2014
+162,2014-12-20,Manchester City,3,0,Crystal Palace,2014
+163,2014-12-20,Queens Park Rangers,3,2,West Bromwich Albion,2014
+164,2014-12-20,Southampton,3,0,Everton,2014
+165,2014-12-20,Tottenham Hotspur,2,1,Burnley,2014
+166,2014-12-20,West Ham United,2,0,Leicester City,2014
+167,2014-12-21,Liverpool,2,2,Arsenal,2014
+168,2014-12-21,Newcastle United,0,1,Sunderland,2014
+169,2014-12-22,Stoke City,0,2,Chelsea,2014
+170,2014-12-26,Arsenal,2,1,Queens Park Rangers,2014
+171,2014-12-26,Burnley,0,1,Liverpool,2014
+172,2014-12-26,Chelsea,2,0,West Ham United,2014
+173,2014-12-26,Crystal Palace,1,3,Southampton,2014
+174,2014-12-26,Everton,0,1,Stoke City,2014
+175,2014-12-26,Leicester City,1,2,Tottenham Hotspur,2014
+176,2014-12-26,Manchester United,3,1,Newcastle United,2014
+177,2014-12-26,Sunderland,1,3,Hull City,2014
+178,2014-12-26,Swansea City,1,0,Aston Villa,2014
+179,2014-12-26,West Bromwich Albion,1,3,Manchester City,2014
+180,2014-12-28,Aston Villa,0,0,Sunderland,2014
+181,2014-12-28,Hull City,0,1,Leicester City,2014
+182,2014-12-28,Manchester City,2,2,Burnley,2014
+183,2014-12-28,Newcastle United,3,2,Everton,2014
+184,2014-12-28,Queens Park Rangers,0,0,Crystal Palace,2014
+185,2014-12-28,Southampton,1,1,Chelsea,2014
+186,2014-12-28,Stoke City,2,0,West Bromwich Albion,2014
+187,2014-12-28,Tottenham Hotspur,0,0,Manchester United,2014
+188,2014-12-28,West Ham United,1,2,Arsenal,2014
+189,2014-12-29,Liverpool,4,1,Swansea City,2014
+190,2015-01-01,Aston Villa,0,0,Crystal Palace,2014
+191,2015-01-01,Hull City,2,0,Everton,2014
+192,2015-01-01,Liverpool,2,2,Leicester City,2014
+193,2015-01-01,Manchester City,3,2,Sunderland,2014
+194,2015-01-01,Newcastle United,3,3,Burnley,2014
+195,2015-01-01,Queens Park Rangers,1,1,Swansea City,2014
+196,2015-01-01,Southampton,2,0,Arsenal,2014
+197,2015-01-01,Stoke City,1,1,Manchester United,2014
+198,2015-01-01,Tottenham Hotspur,5,3,Chelsea,2014
+199,2015-01-01,West Ham United,1,1,West Bromwich Albion,2014
+200,2015-01-10,Burnley,2,1,Queens Park Rangers,2014
+201,2015-01-10,Chelsea,2,0,Newcastle United,2014
+202,2015-01-10,Crystal Palace,2,1,Tottenham Hotspur,2014
+203,2015-01-10,Everton,1,1,Manchester City,2014
+204,2015-01-10,Leicester City,1,0,Aston Villa,2014
+205,2015-01-10,Sunderland,0,1,Liverpool,2014
+206,2015-01-10,Swansea City,1,1,West Ham United,2014
+207,2015-01-10,West Bromwich Albion,1,0,Hull City,2014
+208,2015-01-11,Arsenal,3,0,Stoke City,2014
+209,2015-01-11,Manchester United,0,1,Southampton,2014
+210,2015-01-17,Aston Villa,0,2,Liverpool,2014
+211,2015-01-17,Burnley,2,3,Crystal Palace,2014
+212,2015-01-17,Leicester City,0,1,Stoke City,2014
+213,2015-01-17,Newcastle United,1,2,Southampton,2014
+214,2015-01-17,Queens Park Rangers,0,2,Manchester United,2014
+215,2015-01-17,Swansea City,0,5,Chelsea,2014
+216,2015-01-17,Tottenham Hotspur,2,1,Sunderland,2014
+217,2015-01-18,Manchester City,0,2,Arsenal,2014
+218,2015-01-18,West Ham United,3,0,Hull City,2014
+219,2015-01-19,Everton,0,0,West Bromwich Albion,2014
+220,2015-01-31,Chelsea,1,1,Manchester City,2014
+221,2015-01-31,Crystal Palace,0,1,Everton,2014
+222,2015-01-31,Hull City,0,3,Newcastle United,2014
+223,2015-01-31,Liverpool,2,0,West Ham United,2014
+224,2015-01-31,Manchester United,3,1,Leicester City,2014
+225,2015-01-31,Stoke City,3,1,Queens Park Rangers,2014
+226,2015-01-31,Sunderland,2,0,Burnley,2014
+227,2015-01-31,West Bromwich Albion,0,3,Tottenham Hotspur,2014
+228,2015-02-01,Arsenal,5,0,Aston Villa,2014
+229,2015-02-01,Southampton,0,1,Swansea City,2014
+230,2015-02-07,Aston Villa,1,2,Chelsea,2014
+231,2015-02-07,Everton,0,0,Liverpool,2014
+232,2015-02-07,Leicester City,0,1,Crystal Palace,2014
+233,2015-02-07,Manchester City,1,1,Hull City,2014
+234,2015-02-07,Queens Park Rangers,0,1,Southampton,2014
+235,2015-02-07,Swansea City,1,1,Sunderland,2014
+236,2015-02-07,Tottenham Hotspur,2,1,Arsenal,2014
+237,2015-02-08,Burnley,2,2,West Bromwich Albion,2014
+238,2015-02-08,Newcastle United,1,1,Stoke City,2014
+239,2015-02-08,West Ham United,1,1,Manchester United,2014
+240,2015-02-10,Arsenal,2,1,Leicester City,2014
+241,2015-02-10,Hull City,2,0,Aston Villa,2014
+242,2015-02-10,Liverpool,3,2,Tottenham Hotspur,2014
+243,2015-02-10,Sunderland,0,2,Queens Park Rangers,2014
+244,2015-02-11,Chelsea,1,0,Everton,2014
+245,2015-02-11,Crystal Palace,1,1,Newcastle United,2014
+246,2015-02-11,Manchester United,3,1,Burnley,2014
+247,2015-02-11,Southampton,0,0,West Ham United,2014
+248,2015-02-11,Stoke City,1,4,Manchester City,2014
+249,2015-02-11,West Bromwich Albion,2,0,Swansea City,2014
+250,2015-02-21,Aston Villa,1,2,Stoke City,2014
+251,2015-02-21,Chelsea,1,1,Burnley,2014
+252,2015-02-21,Crystal Palace,1,2,Arsenal,2014
+253,2015-02-21,Hull City,2,1,Queens Park Rangers,2014
+254,2015-02-21,Manchester City,5,0,Newcastle United,2014
+255,2015-02-21,Sunderland,0,0,West Bromwich Albion,2014
+256,2015-02-21,Swansea City,2,1,Manchester United,2014
+257,2015-02-22,Everton,2,2,Leicester City,2014
+258,2015-02-22,Southampton,0,2,Liverpool,2014
+259,2015-02-22,Tottenham Hotspur,2,2,West Ham United,2014
+260,2015-02-28,Burnley,0,1,Swansea City,2014
+261,2015-02-28,Manchester United,2,0,Sunderland,2014
+262,2015-02-28,Newcastle United,1,0,Aston Villa,2014
+263,2015-02-28,Stoke City,1,0,Hull City,2014
+264,2015-02-28,West Bromwich Albion,1,0,Southampton,2014
+265,2015-02-28,West Ham United,1,3,Crystal Palace,2014
+266,2015-03-01,Arsenal,2,0,Everton,2014
+267,2015-03-01,Liverpool,2,1,Manchester City,2014
+268,2015-03-03,Aston Villa,2,1,West Bromwich Albion,2014
+269,2015-03-03,Hull City,1,1,Sunderland,2014
+270,2015-03-03,Southampton,1,0,Crystal Palace,2014
+271,2015-03-04,Liverpool,2,0,Burnley,2014
+272,2015-03-04,Manchester City,2,0,Leicester City,2014
+273,2015-03-04,Newcastle United,0,1,Manchester United,2014
+274,2015-03-04,Queens Park Rangers,1,2,Arsenal,2014
+275,2015-03-04,Stoke City,2,0,Everton,2014
+276,2015-03-04,Tottenham Hotspur,3,2,Swansea City,2014
+277,2015-03-04,West Ham United,0,1,Chelsea,2014
+278,2015-03-07,Queens Park Rangers,1,2,Tottenham Hotspur,2014
+279,2015-03-14,Arsenal,3,0,West Ham United,2014
+280,2015-03-14,Burnley,1,0,Manchester City,2014
+281,2015-03-14,Crystal Palace,3,1,Queens Park Rangers,2014
+282,2015-03-14,Leicester City,0,0,Hull City,2014
+283,2015-03-14,Sunderland,0,4,Aston Villa,2014
+284,2015-03-14,West Bromwich Albion,1,0,Stoke City,2014
+285,2015-03-15,Chelsea,1,1,Southampton,2014
+286,2015-03-15,Everton,3,0,Newcastle United,2014
+287,2015-03-15,Manchester United,3,0,Tottenham Hotspur,2014
+288,2015-03-16,Swansea City,0,1,Liverpool,2014
+289,2015-03-21,Aston Villa,0,1,Swansea City,2014
+290,2015-03-21,Manchester City,3,0,West Bromwich Albion,2014
+291,2015-03-21,Newcastle United,1,2,Arsenal,2014
+292,2015-03-21,Southampton,2,0,Burnley,2014
+293,2015-03-21,Stoke City,1,2,Crystal Palace,2014
+294,2015-03-21,Tottenham Hotspur,4,3,Leicester City,2014
+295,2015-03-21,West Ham United,1,0,Sunderland,2014
+296,2015-03-22,Hull City,2,3,Chelsea,2014
+297,2015-03-22,Liverpool,1,2,Manchester United,2014
+298,2015-03-22,Queens Park Rangers,1,2,Everton,2014
+299,2015-04-04,Arsenal,4,1,Liverpool,2014
+300,2015-04-04,Chelsea,2,1,Stoke City,2014
+301,2015-04-04,Everton,1,0,Southampton,2014
+302,2015-04-04,Leicester City,2,1,West Ham United,2014
+303,2015-04-04,Manchester United,3,1,Aston Villa,2014
+304,2015-04-04,Swansea City,3,1,Hull City,2014
+305,2015-04-04,West Bromwich Albion,1,4,Queens Park Rangers,2014
+306,2015-04-05,Burnley,0,0,Tottenham Hotspur,2014
+307,2015-04-05,Sunderland,1,0,Newcastle United,2014
+308,2015-04-06,Crystal Palace,2,1,Manchester City,2014
+309,2015-04-07,Aston Villa,3,3,Queens Park Rangers,2014
+310,2015-04-11,Burnley,0,1,Arsenal,2014
+311,2015-04-11,Southampton,2,0,Hull City,2014
+312,2015-04-11,Sunderland,1,4,Crystal Palace,2014
+313,2015-04-11,Swansea City,1,1,Everton,2014
+314,2015-04-11,Tottenham Hotspur,0,1,Aston Villa,2014
+315,2015-04-11,West Bromwich Albion,2,3,Leicester City,2014
+316,2015-04-11,West Ham United,1,1,Stoke City,2014
+317,2015-04-12,Manchester United,4,2,Manchester City,2014
+318,2015-04-12,Queens Park Rangers,0,1,Chelsea,2014
+319,2015-04-13,Liverpool,2,0,Newcastle United,2014
+320,2015-04-18,Chelsea,1,0,Manchester United,2014
+321,2015-04-18,Crystal Palace,0,2,West Bromwich Albion,2014
+322,2015-04-18,Everton,1,0,Burnley,2014
+323,2015-04-18,Leicester City,2,0,Swansea City,2014
+324,2015-04-18,Stoke City,2,1,Southampton,2014
+325,2015-04-19,Manchester City,2,0,West Ham United,2014
+326,2015-04-19,Newcastle United,1,3,Tottenham Hotspur,2014
+327,2015-04-25,Burnley,0,1,Leicester City,2014
+328,2015-04-25,Crystal Palace,0,2,Hull City,2014
+329,2015-04-25,Manchester City,3,2,Aston Villa,2014
+330,2015-04-25,Newcastle United,2,3,Swansea City,2014
+331,2015-04-25,Queens Park Rangers,0,0,West Ham United,2014
+332,2015-04-25,Southampton,2,2,Tottenham Hotspur,2014
+333,2015-04-25,Stoke City,1,1,Sunderland,2014
+334,2015-04-25,West Bromwich Albion,0,0,Liverpool,2014
+335,2015-04-26,Arsenal,0,0,Chelsea,2014
+336,2015-04-26,Everton,3,0,Manchester United,2014
+337,2015-04-28,Hull City,1,0,Liverpool,2014
+338,2015-04-29,Leicester City,1,3,Chelsea,2014
+339,2015-05-02,Aston Villa,3,2,Everton,2014
+340,2015-05-02,Leicester City,3,0,Newcastle United,2014
+341,2015-05-02,Liverpool,2,1,Queens Park Rangers,2014
+342,2015-05-02,Manchester United,0,1,West Bromwich Albion,2014
+343,2015-05-02,Sunderland,2,1,Southampton,2014
+344,2015-05-02,Swansea City,2,0,Stoke City,2014
+345,2015-05-02,West Ham United,1,0,Burnley,2014
+346,2015-05-03,Chelsea,1,0,Crystal Palace,2014
+347,2015-05-03,Tottenham Hotspur,0,1,Manchester City,2014
+348,2015-05-04,Hull City,1,3,Arsenal,2014
+349,2015-05-09,Aston Villa,1,0,West Ham United,2014
+350,2015-05-09,Crystal Palace,1,2,Manchester United,2014
+351,2015-05-09,Everton,0,2,Sunderland,2014
+352,2015-05-09,Hull City,0,1,Burnley,2014
+353,2015-05-09,Leicester City,2,0,Southampton,2014
+354,2015-05-09,Newcastle United,1,1,West Bromwich Albion,2014
+355,2015-05-09,Stoke City,3,0,Tottenham Hotspur,2014
+356,2015-05-10,Chelsea,1,1,Liverpool,2014
+357,2015-05-10,Manchester City,6,0,Queens Park Rangers,2014
+358,2015-05-11,Arsenal,0,1,Swansea City,2014
+359,2015-05-16,Burnley,0,0,Stoke City,2014
+360,2015-05-16,Liverpool,1,3,Crystal Palace,2014
+361,2015-05-16,Queens Park Rangers,2,1,Newcastle United,2014
+362,2015-05-16,Southampton,6,1,Aston Villa,2014
+363,2015-05-16,Sunderland,0,0,Leicester City,2014
+364,2015-05-16,Tottenham Hotspur,2,0,Hull City,2014
+365,2015-05-16,West Ham United,1,2,Everton,2014
+366,2015-05-17,Manchester United,1,1,Arsenal,2014
+367,2015-05-17,Swansea City,2,4,Manchester City,2014
+368,2015-05-18,West Bromwich Albion,3,0,Chelsea,2014
+369,2015-05-20,Arsenal,0,0,Sunderland,2014
+370,2015-05-24,Arsenal,4,1,West Bromwich Albion,2014
+371,2015-05-24,Aston Villa,0,1,Burnley,2014
+372,2015-05-24,Chelsea,3,1,Sunderland,2014
+373,2015-05-24,Crystal Palace,1,0,Swansea City,2014
+374,2015-05-24,Everton,0,1,Tottenham Hotspur,2014
+375,2015-05-24,Hull City,0,0,Manchester United,2014
+376,2015-05-24,Leicester City,5,1,Queens Park Rangers,2014
+377,2015-05-24,Manchester City,2,0,Southampton,2014
+378,2015-05-24,Newcastle United,2,0,West Ham United,2014
+379,2015-05-24,Stoke City,6,1,Liverpool,2014
+380,2015-08-08,AFC Bournemouth,0,1,Aston Villa,2015
+381,2015-08-08,Chelsea,2,2,Swansea City,2015
+382,2015-08-08,Everton,2,2,Watford,2015
+383,2015-08-08,Leicester City,4,2,Sunderland,2015
+384,2015-08-08,Manchester United,1,0,Tottenham Hotspur,2015
+385,2015-08-08,Norwich City,1,3,Crystal Palace,2015
+386,2015-08-09,Arsenal,0,2,West Ham United,2015
+387,2015-08-09,Newcastle United,2,2,Southampton,2015
+388,2015-08-09,Stoke City,0,1,Liverpool,2015
+389,2015-08-10,West Bromwich Albion,0,3,Manchester City,2015
+390,2015-08-14,Aston Villa,0,1,Manchester United,2015
+391,2015-08-15,Southampton,0,3,Everton,2015
+392,2015-08-15,Sunderland,1,3,Norwich City,2015
+393,2015-08-15,Swansea City,2,0,Newcastle United,2015
+394,2015-08-15,Tottenham Hotspur,2,2,Stoke City,2015
+395,2015-08-15,Watford,0,0,West Bromwich Albion,2015
+396,2015-08-15,West Ham United,1,2,Leicester City,2015
+397,2015-08-16,Crystal Palace,1,2,Arsenal,2015
+398,2015-08-16,Manchester City,3,0,Chelsea,2015
+399,2015-08-17,Liverpool,1,0,AFC Bournemouth,2015
+400,2015-08-22,Crystal Palace,2,1,Aston Villa,2015
+401,2015-08-22,Leicester City,1,1,Tottenham Hotspur,2015
+402,2015-08-22,Manchester United,0,0,Newcastle United,2015
+403,2015-08-22,Norwich City,1,1,Stoke City,2015
+404,2015-08-22,Sunderland,1,1,Swansea City,2015
+405,2015-08-22,West Ham United,3,4,AFC Bournemouth,2015
+406,2015-08-23,Everton,0,2,Manchester City,2015
+407,2015-08-23,Watford,0,0,Southampton,2015
+408,2015-08-23,West Bromwich Albion,2,3,Chelsea,2015
+409,2015-08-24,Arsenal,0,0,Liverpool,2015
+410,2015-08-29,AFC Bournemouth,1,1,Leicester City,2015
+411,2015-08-29,Aston Villa,2,2,Sunderland,2015
+412,2015-08-29,Chelsea,1,2,Crystal Palace,2015
+413,2015-08-29,Liverpool,0,3,West Ham United,2015
+414,2015-08-29,Manchester City,2,0,Watford,2015
+415,2015-08-29,Newcastle United,0,1,Arsenal,2015
+416,2015-08-29,Stoke City,0,1,West Bromwich Albion,2015
+417,2015-08-29,Tottenham Hotspur,0,0,Everton,2015
+418,2015-08-30,Southampton,3,0,Norwich City,2015
+419,2015-08-30,Swansea City,2,1,Manchester United,2015
+420,2015-09-12,Arsenal,2,0,Stoke City,2015
+421,2015-09-12,Crystal Palace,0,1,Manchester City,2015
+422,2015-09-12,Everton,3,1,Chelsea,2015
+423,2015-09-12,Manchester United,3,1,Liverpool,2015
+424,2015-09-12,Norwich City,3,1,AFC Bournemouth,2015
+425,2015-09-12,Watford,1,0,Swansea City,2015
+426,2015-09-12,West Bromwich Albion,0,0,Southampton,2015
+427,2015-09-13,Leicester City,3,2,Aston Villa,2015
+428,2015-09-13,Sunderland,0,1,Tottenham Hotspur,2015
+429,2015-09-14,West Ham United,2,0,Newcastle United,2015
+430,2015-09-19,AFC Bournemouth,2,0,Sunderland,2015
+431,2015-09-19,Aston Villa,0,1,West Bromwich Albion,2015
+432,2015-09-19,Chelsea,2,0,Arsenal,2015
+433,2015-09-19,Manchester City,1,2,West Ham United,2015
+434,2015-09-19,Newcastle United,1,2,Watford,2015
+435,2015-09-19,Stoke City,2,2,Leicester City,2015
+436,2015-09-19,Swansea City,0,0,Everton,2015
+437,2015-09-20,Liverpool,1,1,Norwich City,2015
+438,2015-09-20,Southampton,2,3,Manchester United,2015
+439,2015-09-20,Tottenham Hotspur,1,0,Crystal Palace,2015
+440,2015-09-26,Leicester City,2,5,Arsenal,2015
+441,2015-09-26,Liverpool,3,2,Aston Villa,2015
+442,2015-09-26,Manchester United,3,0,Sunderland,2015
+443,2015-09-26,Newcastle United,2,2,Chelsea,2015
+444,2015-09-26,Southampton,3,1,Swansea City,2015
+445,2015-09-26,Stoke City,2,1,AFC Bournemouth,2015
+446,2015-09-26,Tottenham Hotspur,4,1,Manchester City,2015
+447,2015-09-26,West Ham United,2,2,Norwich City,2015
+448,2015-09-27,Watford,0,1,Crystal Palace,2015
+449,2015-09-28,West Bromwich Albion,2,3,Everton,2015
+450,2015-10-03,AFC Bournemouth,1,1,Watford,2015
+451,2015-10-03,Aston Villa,0,1,Stoke City,2015
+452,2015-10-03,Chelsea,1,3,Southampton,2015
+453,2015-10-03,Crystal Palace,2,0,West Bromwich Albion,2015
+454,2015-10-03,Manchester City,6,1,Newcastle United,2015
+455,2015-10-03,Norwich City,1,2,Leicester City,2015
+456,2015-10-03,Sunderland,2,2,West Ham United,2015
+457,2015-10-04,Arsenal,3,0,Manchester United,2015
+458,2015-10-04,Everton,1,1,Liverpool,2015
+459,2015-10-04,Swansea City,2,2,Tottenham Hotspur,2015
+460,2015-10-17,Chelsea,2,0,Aston Villa,2015
+461,2015-10-17,Crystal Palace,1,3,West Ham United,2015
+462,2015-10-17,Everton,0,3,Manchester United,2015
+463,2015-10-17,Manchester City,5,1,AFC Bournemouth,2015
+464,2015-10-17,Southampton,2,2,Leicester City,2015
+465,2015-10-17,Tottenham Hotspur,0,0,Liverpool,2015
+466,2015-10-17,Watford,0,3,Arsenal,2015
+467,2015-10-17,West Bromwich Albion,1,0,Sunderland,2015
+468,2015-10-18,Newcastle United,6,2,Norwich City,2015
+469,2015-10-19,Swansea City,0,1,Stoke City,2015
+470,2015-10-24,Arsenal,2,1,Everton,2015
+471,2015-10-24,Aston Villa,1,2,Swansea City,2015
+472,2015-10-24,Leicester City,1,0,Crystal Palace,2015
+473,2015-10-24,Norwich City,0,1,West Bromwich Albion,2015
+474,2015-10-24,Stoke City,0,2,Watford,2015
+475,2015-10-24,West Ham United,2,1,Chelsea,2015
+476,2015-10-25,AFC Bournemouth,1,5,Tottenham Hotspur,2015
+477,2015-10-25,Liverpool,1,1,Southampton,2015
+478,2015-10-25,Manchester United,0,0,Manchester City,2015
+479,2015-10-25,Sunderland,3,0,Newcastle United,2015
+480,2015-10-31,Chelsea,1,3,Liverpool,2015
+481,2015-10-31,Crystal Palace,0,0,Manchester United,2015
+482,2015-10-31,Manchester City,2,1,Norwich City,2015
+483,2015-10-31,Newcastle United,0,0,Stoke City,2015
+484,2015-10-31,Swansea City,0,3,Arsenal,2015
+485,2015-10-31,Watford,2,0,West Ham United,2015
+486,2015-10-31,West Bromwich Albion,2,3,Leicester City,2015
+487,2015-11-01,Everton,6,2,Sunderland,2015
+488,2015-11-01,Southampton,2,0,AFC Bournemouth,2015
+489,2015-11-02,Tottenham Hotspur,3,1,Aston Villa,2015
+490,2015-11-07,AFC Bournemouth,0,1,Newcastle United,2015
+491,2015-11-07,Leicester City,2,1,Watford,2015
+492,2015-11-07,Manchester United,2,0,West Bromwich Albion,2015
+493,2015-11-07,Norwich City,1,0,Swansea City,2015
+494,2015-11-07,Stoke City,1,0,Chelsea,2015
+495,2015-11-07,Sunderland,0,1,Southampton,2015
+496,2015-11-07,West Ham United,1,1,Everton,2015
+497,2015-11-08,Arsenal,1,1,Tottenham Hotspur,2015
+498,2015-11-08,Aston Villa,0,0,Manchester City,2015
+499,2015-11-08,Liverpool,1,2,Crystal Palace,2015
+500,2015-11-21,Chelsea,1,0,Norwich City,2015
+501,2015-11-21,Everton,4,0,Aston Villa,2015
+502,2015-11-21,Manchester City,1,4,Liverpool,2015
+503,2015-11-21,Newcastle United,0,3,Leicester City,2015
+504,2015-11-21,Southampton,0,1,Stoke City,2015
+505,2015-11-21,Swansea City,2,2,AFC Bournemouth,2015
+506,2015-11-21,Watford,1,2,Manchester United,2015
+507,2015-11-21,West Bromwich Albion,2,1,Arsenal,2015
+508,2015-11-22,Tottenham Hotspur,4,1,West Ham United,2015
+509,2015-11-23,Crystal Palace,0,1,Sunderland,2015
+510,2015-11-28,AFC Bournemouth,3,3,Everton,2015
+511,2015-11-28,Aston Villa,2,3,Watford,2015
+512,2015-11-28,Crystal Palace,5,1,Newcastle United,2015
+513,2015-11-28,Leicester City,1,1,Manchester United,2015
+514,2015-11-28,Manchester City,3,1,Southampton,2015
+515,2015-11-28,Sunderland,2,0,Stoke City,2015
+516,2015-11-29,Liverpool,1,0,Swansea City,2015
+517,2015-11-29,Norwich City,1,1,Arsenal,2015
+518,2015-11-29,Tottenham Hotspur,0,0,Chelsea,2015
+519,2015-11-29,West Ham United,1,1,West Bromwich Albion,2015
+520,2015-12-05,Arsenal,3,1,Sunderland,2015
+521,2015-12-05,Chelsea,0,1,AFC Bournemouth,2015
+522,2015-12-05,Manchester United,0,0,West Ham United,2015
+523,2015-12-05,Southampton,1,1,Aston Villa,2015
+524,2015-12-05,Stoke City,2,0,Manchester City,2015
+525,2015-12-05,Swansea City,0,3,Leicester City,2015
+526,2015-12-05,Watford,2,0,Norwich City,2015
+527,2015-12-05,West Bromwich Albion,1,1,Tottenham Hotspur,2015
+528,2015-12-06,Newcastle United,2,0,Liverpool,2015
+529,2015-12-07,Everton,1,1,Crystal Palace,2015
+530,2015-12-12,AFC Bournemouth,2,1,Manchester United,2015
+531,2015-12-12,Crystal Palace,1,0,Southampton,2015
+532,2015-12-12,Manchester City,2,1,Swansea City,2015
+533,2015-12-12,Norwich City,1,1,Everton,2015
+534,2015-12-12,Sunderland,0,1,Watford,2015
+535,2015-12-12,West Ham United,0,0,Stoke City,2015
+536,2015-12-13,Aston Villa,0,2,Arsenal,2015
+537,2015-12-13,Liverpool,2,2,West Bromwich Albion,2015
+538,2015-12-13,Tottenham Hotspur,1,2,Newcastle United,2015
+539,2015-12-14,Leicester City,2,1,Chelsea,2015
+540,2015-12-19,Chelsea,3,1,Sunderland,2015
+541,2015-12-19,Everton,2,3,Leicester City,2015
+542,2015-12-19,Manchester United,1,2,Norwich City,2015
+543,2015-12-19,Newcastle United,1,1,Aston Villa,2015
+544,2015-12-19,Southampton,0,2,Tottenham Hotspur,2015
+545,2015-12-19,Stoke City,1,2,Crystal Palace,2015
+546,2015-12-19,West Bromwich Albion,1,2,AFC Bournemouth,2015
+547,2015-12-20,Swansea City,0,0,West Ham United,2015
+548,2015-12-20,Watford,3,0,Liverpool,2015
+549,2015-12-21,Arsenal,2,1,Manchester City,2015
+550,2015-12-26,AFC Bournemouth,0,0,Crystal Palace,2015
+551,2015-12-26,Aston Villa,1,1,West Ham United,2015
+552,2015-12-26,Chelsea,2,2,Watford,2015
+553,2015-12-26,Liverpool,1,0,Leicester City,2015
+554,2015-12-26,Manchester City,4,1,Sunderland,2015
+555,2015-12-26,Newcastle United,0,1,Everton,2015
+556,2015-12-26,Southampton,4,0,Arsenal,2015
+557,2015-12-26,Stoke City,2,0,Manchester United,2015
+558,2015-12-26,Swansea City,1,0,West Bromwich Albion,2015
+559,2015-12-26,Tottenham Hotspur,3,0,Norwich City,2015
+560,2015-12-28,Arsenal,2,0,AFC Bournemouth,2015
+561,2015-12-28,Crystal Palace,0,0,Swansea City,2015
+562,2015-12-28,Everton,3,4,Stoke City,2015
+563,2015-12-28,Manchester United,0,0,Chelsea,2015
+564,2015-12-28,Norwich City,2,0,Aston Villa,2015
+565,2015-12-28,Watford,1,2,Tottenham Hotspur,2015
+566,2015-12-28,West Bromwich Albion,1,0,Newcastle United,2015
+567,2015-12-28,West Ham United,2,1,Southampton,2015
+568,2015-12-29,Leicester City,0,0,Manchester City,2015
+569,2015-12-30,Sunderland,0,1,Liverpool,2015
+570,2016-01-02,Arsenal,1,0,Newcastle United,2015
+571,2016-01-02,Leicester City,0,0,AFC Bournemouth,2015
+572,2016-01-02,Manchester United,2,1,Swansea City,2015
+573,2016-01-02,Norwich City,1,0,Southampton,2015
+574,2016-01-02,Sunderland,3,1,Aston Villa,2015
+575,2016-01-02,Watford,1,2,Manchester City,2015
+576,2016-01-02,West Bromwich Albion,2,1,Stoke City,2015
+577,2016-01-02,West Ham United,2,0,Liverpool,2015
+578,2016-01-03,Crystal Palace,0,3,Chelsea,2015
+579,2016-01-03,Everton,1,1,Tottenham Hotspur,2015
+580,2016-01-12,AFC Bournemouth,1,3,West Ham United,2015
+581,2016-01-12,Aston Villa,1,0,Crystal Palace,2015
+582,2016-01-12,Newcastle United,3,3,Manchester United,2015
+583,2016-01-13,Chelsea,2,2,West Bromwich Albion,2015
+584,2016-01-13,Liverpool,3,3,Arsenal,2015
+585,2016-01-13,Manchester City,0,0,Everton,2015
+586,2016-01-13,Southampton,2,0,Watford,2015
+587,2016-01-13,Stoke City,3,1,Norwich City,2015
+588,2016-01-13,Swansea City,2,4,Sunderland,2015
+589,2016-01-13,Tottenham Hotspur,0,1,Leicester City,2015
+590,2016-01-16,AFC Bournemouth,3,0,Norwich City,2015
+591,2016-01-16,Aston Villa,1,1,Leicester City,2015
+592,2016-01-16,Chelsea,3,3,Everton,2015
+593,2016-01-16,Manchester City,4,0,Crystal Palace,2015
+594,2016-01-16,Newcastle United,2,1,West Ham United,2015
+595,2016-01-16,Southampton,3,0,West Bromwich Albion,2015
+596,2016-01-16,Tottenham Hotspur,4,1,Sunderland,2015
+597,2016-01-17,Liverpool,0,1,Manchester United,2015
+598,2016-01-17,Stoke City,0,0,Arsenal,2015
+599,2016-01-18,Swansea City,1,0,Watford,2015
+600,2016-01-23,Crystal Palace,1,3,Tottenham Hotspur,2015
+601,2016-01-23,Leicester City,3,0,Stoke City,2015
+602,2016-01-23,Manchester United,0,1,Southampton,2015
+603,2016-01-23,Norwich City,4,5,Liverpool,2015
+604,2016-01-23,Sunderland,1,1,AFC Bournemouth,2015
+605,2016-01-23,Watford,2,1,Newcastle United,2015
+606,2016-01-23,West Bromwich Albion,0,0,Aston Villa,2015
+607,2016-01-23,West Ham United,2,2,Manchester City,2015
+608,2016-01-24,Arsenal,0,1,Chelsea,2015
+609,2016-01-24,Everton,1,2,Swansea City,2015
+610,2016-02-02,Arsenal,0,0,Southampton,2015
+611,2016-02-02,Crystal Palace,1,2,AFC Bournemouth,2015
+612,2016-02-02,Leicester City,2,0,Liverpool,2015
+613,2016-02-02,Manchester United,3,0,Stoke City,2015
+614,2016-02-02,Norwich City,0,3,Tottenham Hotspur,2015
+615,2016-02-02,Sunderland,0,1,Manchester City,2015
+616,2016-02-02,West Bromwich Albion,1,1,Swansea City,2015
+617,2016-02-02,West Ham United,2,0,Aston Villa,2015
+618,2016-02-03,Everton,3,0,Newcastle United,2015
+619,2016-02-03,Watford,0,0,Chelsea,2015
+620,2016-02-06,Aston Villa,2,0,Norwich City,2015
+621,2016-02-06,Liverpool,2,2,Sunderland,2015
+622,2016-02-06,Manchester City,1,3,Leicester City,2015
+623,2016-02-06,Newcastle United,1,0,West Bromwich Albion,2015
+624,2016-02-06,Southampton,1,0,West Ham United,2015
+625,2016-02-06,Stoke City,0,3,Everton,2015
+626,2016-02-06,Swansea City,1,1,Crystal Palace,2015
+627,2016-02-06,Tottenham Hotspur,1,0,Watford,2015
+628,2016-02-07,AFC Bournemouth,0,2,Arsenal,2015
+629,2016-02-07,Chelsea,1,1,Manchester United,2015
+630,2016-02-13,AFC Bournemouth,1,3,Stoke City,2015
+631,2016-02-13,Chelsea,5,1,Newcastle United,2015
+632,2016-02-13,Crystal Palace,1,2,Watford,2015
+633,2016-02-13,Everton,0,1,West Bromwich Albion,2015
+634,2016-02-13,Norwich City,2,2,West Ham United,2015
+635,2016-02-13,Sunderland,2,1,Manchester United,2015
+636,2016-02-13,Swansea City,0,1,Southampton,2015
+637,2016-02-14,Arsenal,2,1,Leicester City,2015
+638,2016-02-14,Aston Villa,0,6,Liverpool,2015
+639,2016-02-14,Manchester City,1,2,Tottenham Hotspur,2015
+640,2016-02-27,Leicester City,1,0,Norwich City,2015
+641,2016-02-27,Southampton,1,2,Chelsea,2015
+642,2016-02-27,Stoke City,2,1,Aston Villa,2015
+643,2016-02-27,Watford,0,0,AFC Bournemouth,2015
+644,2016-02-27,West Bromwich Albion,3,2,Crystal Palace,2015
+645,2016-02-27,West Ham United,1,0,Sunderland,2015
+646,2016-02-28,Manchester United,3,2,Arsenal,2015
+647,2016-02-28,Tottenham Hotspur,2,1,Swansea City,2015
+648,2016-03-01,AFC Bournemouth,2,0,Southampton,2015
+649,2016-03-01,Aston Villa,1,3,Everton,2015
+650,2016-03-01,Leicester City,2,2,West Bromwich Albion,2015
+651,2016-03-01,Norwich City,1,2,Chelsea,2015
+652,2016-03-01,Sunderland,2,2,Crystal Palace,2015
+653,2016-03-02,Arsenal,1,2,Swansea City,2015
+654,2016-03-02,Liverpool,3,0,Manchester City,2015
+655,2016-03-02,Manchester United,1,0,Watford,2015
+656,2016-03-02,Stoke City,1,0,Newcastle United,2015
+657,2016-03-02,West Ham United,1,0,Tottenham Hotspur,2015
+658,2016-03-05,Chelsea,1,1,Stoke City,2015
+659,2016-03-05,Everton,2,3,West Ham United,2015
+660,2016-03-05,Manchester City,4,0,Aston Villa,2015
+661,2016-03-05,Newcastle United,1,3,AFC Bournemouth,2015
+662,2016-03-05,Southampton,1,1,Sunderland,2015
+663,2016-03-05,Swansea City,1,0,Norwich City,2015
+664,2016-03-05,Tottenham Hotspur,2,2,Arsenal,2015
+665,2016-03-05,Watford,0,1,Leicester City,2015
+666,2016-03-06,Crystal Palace,1,2,Liverpool,2015
+667,2016-03-06,West Bromwich Albion,1,0,Manchester United,2015
+668,2016-03-12,AFC Bournemouth,3,2,Swansea City,2015
+669,2016-03-12,Norwich City,0,0,Manchester City,2015
+670,2016-03-12,Stoke City,1,2,Southampton,2015
+671,2016-03-13,Aston Villa,0,2,Tottenham Hotspur,2015
+672,2016-03-14,Leicester City,1,0,Newcastle United,2015
+673,2016-03-19,Chelsea,2,2,West Ham United,2015
+674,2016-03-19,Crystal Palace,0,1,Leicester City,2015
+675,2016-03-19,Everton,0,2,Arsenal,2015
+676,2016-03-19,Swansea City,1,0,Aston Villa,2015
+677,2016-03-19,Watford,1,2,Stoke City,2015
+678,2016-03-19,West Bromwich Albion,0,1,Norwich City,2015
+679,2016-03-20,Manchester City,0,1,Manchester United,2015
+680,2016-03-20,Newcastle United,1,1,Sunderland,2015
+681,2016-03-20,Southampton,3,2,Liverpool,2015
+682,2016-03-20,Tottenham Hotspur,3,0,AFC Bournemouth,2015
+683,2016-04-02,AFC Bournemouth,0,4,Manchester City,2015
+684,2016-04-02,Arsenal,4,0,Watford,2015
+685,2016-04-02,Aston Villa,0,4,Chelsea,2015
+686,2016-04-02,Liverpool,1,1,Tottenham Hotspur,2015
+687,2016-04-02,Norwich City,3,2,Newcastle United,2015
+688,2016-04-02,Stoke City,2,2,Swansea City,2015
+689,2016-04-02,Sunderland,0,0,West Bromwich Albion,2015
+690,2016-04-02,West Ham United,2,2,Crystal Palace,2015
+691,2016-04-03,Leicester City,1,0,Southampton,2015
+692,2016-04-03,Manchester United,1,0,Everton,2015
+693,2016-04-09,Aston Villa,1,2,AFC Bournemouth,2015
+694,2016-04-09,Crystal Palace,1,0,Norwich City,2015
+695,2016-04-09,Manchester City,2,1,West Bromwich Albion,2015
+696,2016-04-09,Southampton,3,1,Newcastle United,2015
+697,2016-04-09,Swansea City,1,0,Chelsea,2015
+698,2016-04-09,Watford,1,1,Everton,2015
+699,2016-04-09,West Ham United,3,3,Arsenal,2015
+700,2016-04-10,Liverpool,4,1,Stoke City,2015
+701,2016-04-10,Sunderland,0,2,Leicester City,2015
+702,2016-04-10,Tottenham Hotspur,3,0,Manchester United,2015
+703,2016-04-13,Crystal Palace,0,0,Everton,2015
+704,2016-04-16,Chelsea,0,3,Manchester City,2015
+705,2016-04-16,Everton,1,1,Southampton,2015
+706,2016-04-16,Manchester United,1,0,Aston Villa,2015
+707,2016-04-16,Newcastle United,3,0,Swansea City,2015
+708,2016-04-16,Norwich City,0,3,Sunderland,2015
+709,2016-04-16,West Bromwich Albion,0,1,Watford,2015
+710,2016-04-17,AFC Bournemouth,1,2,Liverpool,2015
+711,2016-04-17,Arsenal,1,1,Crystal Palace,2015
+712,2016-04-17,Leicester City,2,2,West Ham United,2015
+713,2016-04-18,Stoke City,0,4,Tottenham Hotspur,2015
+714,2016-04-19,Newcastle United,1,1,Manchester City,2015
+715,2016-04-20,Liverpool,4,0,Everton,2015
+716,2016-04-20,Manchester United,2,0,Crystal Palace,2015
+717,2016-04-20,West Ham United,3,1,Watford,2015
+718,2016-04-21,Arsenal,2,0,West Bromwich Albion,2015
+719,2016-04-23,AFC Bournemouth,1,4,Chelsea,2015
+720,2016-04-23,Aston Villa,2,4,Southampton,2015
+721,2016-04-23,Liverpool,2,2,Newcastle United,2015
+722,2016-04-23,Manchester City,4,0,Stoke City,2015
+723,2016-04-24,Leicester City,4,0,Swansea City,2015
+724,2016-04-24,Sunderland,0,0,Arsenal,2015
+725,2016-04-25,Tottenham Hotspur,1,1,West Bromwich Albion,2015
+726,2016-04-30,Arsenal,1,0,Norwich City,2015
+727,2016-04-30,Everton,2,1,AFC Bournemouth,2015
+728,2016-04-30,Newcastle United,1,0,Crystal Palace,2015
+729,2016-04-30,Stoke City,1,1,Sunderland,2015
+730,2016-04-30,Watford,3,2,Aston Villa,2015
+731,2016-04-30,West Bromwich Albion,0,3,West Ham United,2015
+732,2016-05-01,Manchester United,1,1,Leicester City,2015
+733,2016-05-01,Southampton,4,2,Manchester City,2015
+734,2016-05-01,Swansea City,3,1,Liverpool,2015
+735,2016-05-02,Chelsea,2,2,Tottenham Hotspur,2015
+736,2016-05-07,AFC Bournemouth,1,1,West Bromwich Albion,2015
+737,2016-05-07,Aston Villa,0,0,Newcastle United,2015
+738,2016-05-07,Crystal Palace,2,1,Stoke City,2015
+739,2016-05-07,Leicester City,3,1,Everton,2015
+740,2016-05-07,Norwich City,0,1,Manchester United,2015
+741,2016-05-07,Sunderland,3,2,Chelsea,2015
+742,2016-05-07,West Ham United,1,4,Swansea City,2015
+743,2016-05-08,Liverpool,2,0,Watford,2015
+744,2016-05-08,Manchester City,2,2,Arsenal,2015
+745,2016-05-08,Tottenham Hotspur,1,2,Southampton,2015
+746,2016-05-10,West Ham United,3,2,Manchester United,2015
+747,2016-05-11,Liverpool,1,1,Chelsea,2015
+748,2016-05-11,Norwich City,4,2,Watford,2015
+749,2016-05-11,Sunderland,3,0,Everton,2015
+750,2016-05-15,Arsenal,4,0,Aston Villa,2015
+751,2016-05-15,Chelsea,1,1,Leicester City,2015
+752,2016-05-15,Everton,3,0,Norwich City,2015
+753,2016-05-15,Newcastle United,5,1,Tottenham Hotspur,2015
+754,2016-05-15,Southampton,4,1,Crystal Palace,2015
+755,2016-05-15,Stoke City,2,1,West Ham United,2015
+756,2016-05-15,Swansea City,1,1,Manchester City,2015
+757,2016-05-15,Watford,2,2,Sunderland,2015
+758,2016-05-15,West Bromwich Albion,1,1,Liverpool,2015
+759,2016-05-17,Manchester United,3,1,AFC Bournemouth,2015
+760,2016-08-13,Burnley,0,1,Swansea City,2016
+761,2016-08-13,Crystal Palace,0,1,West Bromwich Albion,2016
+762,2016-08-13,Everton,1,1,Tottenham Hotspur,2016
+763,2016-08-13,Hull City,2,1,Leicester City,2016
+764,2016-08-13,Manchester City,2,1,Sunderland,2016
+765,2016-08-13,Middlesbrough,1,1,Stoke City,2016
+766,2016-08-13,Southampton,1,1,Watford,2016
+767,2016-08-14,AFC Bournemouth,1,3,Manchester United,2016
+768,2016-08-14,Arsenal,3,4,Liverpool,2016
+769,2016-08-15,Chelsea,2,1,West Ham United,2016
+770,2016-08-19,Manchester United,2,0,Southampton,2016
+771,2016-08-20,Burnley,2,0,Liverpool,2016
+772,2016-08-20,Leicester City,0,0,Arsenal,2016
+773,2016-08-20,Stoke City,1,4,Manchester City,2016
+774,2016-08-20,Swansea City,0,2,Hull City,2016
+775,2016-08-20,Tottenham Hotspur,1,0,Crystal Palace,2016
+776,2016-08-20,Watford,1,2,Chelsea,2016
+777,2016-08-20,West Bromwich Albion,1,2,Everton,2016
+778,2016-08-21,Sunderland,1,2,Middlesbrough,2016
+779,2016-08-21,West Ham United,1,0,AFC Bournemouth,2016
+780,2016-08-27,Chelsea,3,0,Burnley,2016
+781,2016-08-27,Crystal Palace,1,1,AFC Bournemouth,2016
+782,2016-08-27,Everton,1,0,Stoke City,2016
+783,2016-08-27,Hull City,0,1,Manchester United,2016
+784,2016-08-27,Leicester City,2,1,Swansea City,2016
+785,2016-08-27,Southampton,1,1,Sunderland,2016
+786,2016-08-27,Tottenham Hotspur,1,1,Liverpool,2016
+787,2016-08-27,Watford,1,3,Arsenal,2016
+788,2016-08-28,Manchester City,3,1,West Ham United,2016
+789,2016-08-28,West Bromwich Albion,0,0,Middlesbrough,2016
+790,2016-09-10,AFC Bournemouth,1,0,West Bromwich Albion,2016
+791,2016-09-10,Arsenal,2,1,Southampton,2016
+792,2016-09-10,Burnley,1,1,Hull City,2016
+793,2016-09-10,Liverpool,4,1,Leicester City,2016
+794,2016-09-10,Manchester United,1,2,Manchester City,2016
+795,2016-09-10,Middlesbrough,1,2,Crystal Palace,2016
+796,2016-09-10,Stoke City,0,4,Tottenham Hotspur,2016
+797,2016-09-10,West Ham United,2,4,Watford,2016
+798,2016-09-11,Swansea City,2,2,Chelsea,2016
+799,2016-09-12,Sunderland,0,3,Everton,2016
+800,2016-09-16,Chelsea,1,2,Liverpool,2016
+801,2016-09-17,Everton,3,1,Middlesbrough,2016
+802,2016-09-17,Hull City,1,4,Arsenal,2016
+803,2016-09-17,Leicester City,3,0,Burnley,2016
+804,2016-09-17,Manchester City,4,0,AFC Bournemouth,2016
+805,2016-09-17,West Bromwich Albion,4,2,West Ham United,2016
+806,2016-09-18,Crystal Palace,4,1,Stoke City,2016
+807,2016-09-18,Southampton,1,0,Swansea City,2016
+808,2016-09-18,Tottenham Hotspur,1,0,Sunderland,2016
+809,2016-09-18,Watford,3,1,Manchester United,2016
+810,2016-09-24,AFC Bournemouth,1,0,Everton,2016
+811,2016-09-24,Arsenal,3,0,Chelsea,2016
+812,2016-09-24,Liverpool,5,1,Hull City,2016
+813,2016-09-24,Manchester United,4,1,Leicester City,2016
+814,2016-09-24,Middlesbrough,1,2,Tottenham Hotspur,2016
+815,2016-09-24,Stoke City,1,1,West Bromwich Albion,2016
+816,2016-09-24,Sunderland,2,3,Crystal Palace,2016
+817,2016-09-24,Swansea City,1,3,Manchester City,2016
+818,2016-09-25,West Ham United,0,3,Southampton,2016
+819,2016-09-26,Burnley,2,0,Watford,2016
+820,2016-09-30,Everton,1,1,Crystal Palace,2016
+821,2016-10-01,Hull City,0,2,Chelsea,2016
+822,2016-10-01,Sunderland,1,1,West Bromwich Albion,2016
+823,2016-10-01,Swansea City,1,2,Liverpool,2016
+824,2016-10-01,Watford,2,2,AFC Bournemouth,2016
+825,2016-10-01,West Ham United,1,1,Middlesbrough,2016
+826,2016-10-02,Burnley,0,1,Arsenal,2016
+827,2016-10-02,Leicester City,0,0,Southampton,2016
+828,2016-10-02,Manchester United,1,1,Stoke City,2016
+829,2016-10-02,Tottenham Hotspur,2,0,Manchester City,2016
+830,2016-10-15,AFC Bournemouth,6,1,Hull City,2016
+831,2016-10-15,Arsenal,3,2,Swansea City,2016
+832,2016-10-15,Chelsea,3,0,Leicester City,2016
+833,2016-10-15,Crystal Palace,0,1,West Ham United,2016
+834,2016-10-15,Manchester City,1,1,Everton,2016
+835,2016-10-15,Stoke City,2,0,Sunderland,2016
+836,2016-10-15,West Bromwich Albion,1,1,Tottenham Hotspur,2016
+837,2016-10-16,Middlesbrough,0,1,Watford,2016
+838,2016-10-16,Southampton,3,1,Burnley,2016
+839,2016-10-17,Liverpool,0,0,Manchester United,2016
+840,2016-10-22,AFC Bournemouth,0,0,Tottenham Hotspur,2016
+841,2016-10-22,Arsenal,0,0,Middlesbrough,2016
+842,2016-10-22,Burnley,2,1,Everton,2016
+843,2016-10-22,Hull City,0,2,Stoke City,2016
+844,2016-10-22,Leicester City,3,1,Crystal Palace,2016
+845,2016-10-22,Liverpool,2,1,West Bromwich Albion,2016
+846,2016-10-22,Swansea City,0,0,Watford,2016
+847,2016-10-22,West Ham United,1,0,Sunderland,2016
+848,2016-10-23,Chelsea,4,0,Manchester United,2016
+849,2016-10-23,Manchester City,1,1,Southampton,2016
+850,2016-10-29,Crystal Palace,2,4,Liverpool,2016
+851,2016-10-29,Manchester United,0,0,Burnley,2016
+852,2016-10-29,Middlesbrough,2,0,AFC Bournemouth,2016
+853,2016-10-29,Sunderland,1,4,Arsenal,2016
+854,2016-10-29,Tottenham Hotspur,1,1,Leicester City,2016
+855,2016-10-29,Watford,1,0,Hull City,2016
+856,2016-10-29,West Bromwich Albion,0,4,Manchester City,2016
+857,2016-10-30,Everton,2,0,West Ham United,2016
+858,2016-10-30,Southampton,0,2,Chelsea,2016
+859,2016-10-31,Stoke City,3,1,Swansea City,2016
+860,2016-11-05,AFC Bournemouth,1,2,Sunderland,2016
+861,2016-11-05,Burnley,3,2,Crystal Palace,2016
+862,2016-11-05,Chelsea,5,0,Everton,2016
+863,2016-11-05,Manchester City,1,1,Middlesbrough,2016
+864,2016-11-05,West Ham United,1,1,Stoke City,2016
+865,2016-11-06,Arsenal,1,1,Tottenham Hotspur,2016
+866,2016-11-06,Hull City,2,1,Southampton,2016
+867,2016-11-06,Leicester City,1,2,West Bromwich Albion,2016
+868,2016-11-06,Liverpool,6,1,Watford,2016
+869,2016-11-06,Swansea City,1,3,Manchester United,2016
+870,2016-11-19,Crystal Palace,1,2,Manchester City,2016
+871,2016-11-19,Everton,1,1,Swansea City,2016
+872,2016-11-19,Manchester United,1,1,Arsenal,2016
+873,2016-11-19,Southampton,0,0,Liverpool,2016
+874,2016-11-19,Stoke City,0,1,AFC Bournemouth,2016
+875,2016-11-19,Sunderland,3,0,Hull City,2016
+876,2016-11-19,Tottenham Hotspur,3,2,West Ham United,2016
+877,2016-11-19,Watford,2,1,Leicester City,2016
+878,2016-11-20,Middlesbrough,0,1,Chelsea,2016
+879,2016-11-21,West Bromwich Albion,4,0,Burnley,2016
+880,2016-11-26,Burnley,1,2,Manchester City,2016
+881,2016-11-26,Chelsea,2,1,Tottenham Hotspur,2016
+882,2016-11-26,Hull City,1,1,West Bromwich Albion,2016
+883,2016-11-26,Leicester City,2,2,Middlesbrough,2016
+884,2016-11-26,Liverpool,2,0,Sunderland,2016
+885,2016-11-26,Swansea City,5,4,Crystal Palace,2016
+886,2016-11-27,Arsenal,3,1,AFC Bournemouth,2016
+887,2016-11-27,Manchester United,1,1,West Ham United,2016
+888,2016-11-27,Southampton,1,0,Everton,2016
+889,2016-11-27,Watford,0,1,Stoke City,2016
+890,2016-12-03,Crystal Palace,3,0,Southampton,2016
+891,2016-12-03,Manchester City,1,3,Chelsea,2016
+892,2016-12-03,Stoke City,2,0,Burnley,2016
+893,2016-12-03,Sunderland,2,1,Leicester City,2016
+894,2016-12-03,Tottenham Hotspur,5,0,Swansea City,2016
+895,2016-12-03,West Bromwich Albion,3,1,Watford,2016
+896,2016-12-03,West Ham United,1,5,Arsenal,2016
+897,2016-12-04,AFC Bournemouth,4,3,Liverpool,2016
+898,2016-12-04,Everton,1,1,Manchester United,2016
+899,2016-12-05,Middlesbrough,1,0,Hull City,2016
+900,2016-12-10,Arsenal,3,1,Stoke City,2016
+901,2016-12-10,Burnley,3,2,AFC Bournemouth,2016
+902,2016-12-10,Hull City,3,3,Crystal Palace,2016
+903,2016-12-10,Leicester City,4,2,Manchester City,2016
+904,2016-12-10,Swansea City,3,0,Sunderland,2016
+905,2016-12-10,Watford,3,2,Everton,2016
+906,2016-12-11,Chelsea,1,0,West Bromwich Albion,2016
+907,2016-12-11,Liverpool,2,2,West Ham United,2016
+908,2016-12-11,Manchester United,1,0,Tottenham Hotspur,2016
+909,2016-12-11,Southampton,1,0,Middlesbrough,2016
+910,2016-12-13,AFC Bournemouth,1,0,Leicester City,2016
+911,2016-12-13,Everton,2,1,Arsenal,2016
+912,2016-12-14,Crystal Palace,1,2,Manchester United,2016
+913,2016-12-14,Manchester City,2,0,Watford,2016
+914,2016-12-14,Middlesbrough,0,3,Liverpool,2016
+915,2016-12-14,Stoke City,0,0,Southampton,2016
+916,2016-12-14,Sunderland,0,1,Chelsea,2016
+917,2016-12-14,Tottenham Hotspur,3,0,Hull City,2016
+918,2016-12-14,West Bromwich Albion,3,1,Swansea City,2016
+919,2016-12-14,West Ham United,1,0,Burnley,2016
+920,2016-12-17,Crystal Palace,0,1,Chelsea,2016
+921,2016-12-17,Middlesbrough,3,0,Swansea City,2016
+922,2016-12-17,Stoke City,2,2,Leicester City,2016
+923,2016-12-17,Sunderland,1,0,Watford,2016
+924,2016-12-17,West Bromwich Albion,0,2,Manchester United,2016
+925,2016-12-17,West Ham United,1,0,Hull City,2016
+926,2016-12-18,AFC Bournemouth,1,3,Southampton,2016
+927,2016-12-18,Manchester City,2,1,Arsenal,2016
+928,2016-12-18,Tottenham Hotspur,2,1,Burnley,2016
+929,2016-12-19,Everton,0,1,Liverpool,2016
+930,2016-12-26,Arsenal,1,0,West Bromwich Albion,2016
+931,2016-12-26,Burnley,1,0,Middlesbrough,2016
+932,2016-12-26,Chelsea,3,0,AFC Bournemouth,2016
+933,2016-12-26,Hull City,0,3,Manchester City,2016
+934,2016-12-26,Leicester City,0,2,Everton,2016
+935,2016-12-26,Manchester United,3,1,Sunderland,2016
+936,2016-12-26,Swansea City,1,4,West Ham United,2016
+937,2016-12-26,Watford,1,1,Crystal Palace,2016
+938,2016-12-27,Liverpool,4,1,Stoke City,2016
+939,2016-12-28,Southampton,1,4,Tottenham Hotspur,2016
+940,2016-12-30,Hull City,2,2,Everton,2016
+941,2016-12-31,Burnley,4,1,Sunderland,2016
+942,2016-12-31,Chelsea,4,2,Stoke City,2016
+943,2016-12-31,Leicester City,1,0,West Ham United,2016
+944,2016-12-31,Liverpool,1,0,Manchester City,2016
+945,2016-12-31,Manchester United,2,1,Middlesbrough,2016
+946,2016-12-31,Southampton,1,2,West Bromwich Albion,2016
+947,2016-12-31,Swansea City,0,3,AFC Bournemouth,2016
+948,2017-01-01,Arsenal,2,0,Crystal Palace,2016
+949,2017-01-01,Watford,1,4,Tottenham Hotspur,2016
+950,2017-01-02,Everton,3,0,Southampton,2016
+951,2017-01-02,Manchester City,2,1,Burnley,2016
+952,2017-01-02,Middlesbrough,0,0,Leicester City,2016
+953,2017-01-02,Sunderland,2,2,Liverpool,2016
+954,2017-01-02,West Bromwich Albion,3,1,Hull City,2016
+955,2017-01-02,West Ham United,0,2,Manchester United,2016
+956,2017-01-03,AFC Bournemouth,3,3,Arsenal,2016
+957,2017-01-03,Crystal Palace,1,2,Swansea City,2016
+958,2017-01-03,Stoke City,2,0,Watford,2016
+959,2017-01-04,Tottenham Hotspur,2,0,Chelsea,2016
+960,2017-01-14,Burnley,1,0,Southampton,2016
+961,2017-01-14,Hull City,3,1,AFC Bournemouth,2016
+962,2017-01-14,Leicester City,0,3,Chelsea,2016
+963,2017-01-14,Sunderland,1,3,Stoke City,2016
+964,2017-01-14,Swansea City,0,4,Arsenal,2016
+965,2017-01-14,Tottenham Hotspur,4,0,West Bromwich Albion,2016
+966,2017-01-14,Watford,0,0,Middlesbrough,2016
+967,2017-01-14,West Ham United,3,0,Crystal Palace,2016
+968,2017-01-15,Everton,4,0,Manchester City,2016
+969,2017-01-15,Manchester United,1,1,Liverpool,2016
+970,2017-01-21,AFC Bournemouth,2,2,Watford,2016
+971,2017-01-21,Crystal Palace,0,1,Everton,2016
+972,2017-01-21,Liverpool,2,3,Swansea City,2016
+973,2017-01-21,Manchester City,2,2,Tottenham Hotspur,2016
+974,2017-01-21,Middlesbrough,1,3,West Ham United,2016
+975,2017-01-21,Stoke City,1,1,Manchester United,2016
+976,2017-01-21,West Bromwich Albion,2,0,Sunderland,2016
+977,2017-01-22,Arsenal,2,1,Burnley,2016
+978,2017-01-22,Chelsea,2,0,Hull City,2016
+979,2017-01-22,Southampton,3,0,Leicester City,2016
+980,2017-01-31,AFC Bournemouth,0,2,Crystal Palace,2016
+981,2017-01-31,Arsenal,1,2,Watford,2016
+982,2017-01-31,Burnley,1,0,Leicester City,2016
+983,2017-01-31,Liverpool,1,1,Chelsea,2016
+984,2017-01-31,Middlesbrough,1,1,West Bromwich Albion,2016
+985,2017-01-31,Sunderland,0,0,Tottenham Hotspur,2016
+986,2017-01-31,Swansea City,2,1,Southampton,2016
+987,2017-02-01,Manchester United,0,0,Hull City,2016
+988,2017-02-01,Stoke City,1,1,Everton,2016
+989,2017-02-01,West Ham United,0,4,Manchester City,2016
+990,2017-02-04,Chelsea,3,1,Arsenal,2016
+991,2017-02-04,Crystal Palace,0,4,Sunderland,2016
+992,2017-02-04,Everton,6,3,AFC Bournemouth,2016
+993,2017-02-04,Hull City,2,0,Liverpool,2016
+994,2017-02-04,Southampton,1,3,West Ham United,2016
+995,2017-02-04,Tottenham Hotspur,1,0,Middlesbrough,2016
+996,2017-02-04,Watford,2,1,Burnley,2016
+997,2017-02-04,West Bromwich Albion,1,0,Stoke City,2016
+998,2017-02-05,Leicester City,0,3,Manchester United,2016
+999,2017-02-05,Manchester City,2,1,Swansea City,2016
+1000,2017-02-11,Arsenal,2,0,Hull City,2016
+1001,2017-02-11,Liverpool,2,0,Tottenham Hotspur,2016
+1002,2017-02-11,Manchester United,2,0,Watford,2016
+1003,2017-02-11,Middlesbrough,0,0,Everton,2016
+1004,2017-02-11,Stoke City,1,0,Crystal Palace,2016
+1005,2017-02-11,Sunderland,0,4,Southampton,2016
+1006,2017-02-11,West Ham United,2,2,West Bromwich Albion,2016
+1007,2017-02-12,Burnley,1,1,Chelsea,2016
+1008,2017-02-12,Swansea City,2,0,Leicester City,2016
+1009,2017-02-13,AFC Bournemouth,0,2,Manchester City,2016
+1010,2017-02-25,Chelsea,3,1,Swansea City,2016
+1011,2017-02-25,Crystal Palace,1,0,Middlesbrough,2016
+1012,2017-02-25,Everton,2,0,Sunderland,2016
+1013,2017-02-25,Hull City,1,1,Burnley,2016
+1014,2017-02-25,Watford,1,1,West Ham United,2016
+1015,2017-02-25,West Bromwich Albion,2,1,AFC Bournemouth,2016
+1016,2017-02-26,Tottenham Hotspur,4,0,Stoke City,2016
+1017,2017-02-27,Leicester City,3,1,Liverpool,2016
+1018,2017-03-04,Leicester City,3,1,Hull City,2016
+1019,2017-03-04,Liverpool,3,1,Arsenal,2016
+1020,2017-03-04,Manchester United,1,1,AFC Bournemouth,2016
+1021,2017-03-04,Stoke City,2,0,Middlesbrough,2016
+1022,2017-03-04,Swansea City,3,2,Burnley,2016
+1023,2017-03-04,Watford,3,4,Southampton,2016
+1024,2017-03-04,West Bromwich Albion,0,2,Crystal Palace,2016
+1025,2017-03-05,Sunderland,0,2,Manchester City,2016
+1026,2017-03-05,Tottenham Hotspur,3,2,Everton,2016
+1027,2017-03-06,West Ham United,1,2,Chelsea,2016
+1028,2017-03-08,Manchester City,0,0,Stoke City,2016
+1029,2017-03-11,AFC Bournemouth,3,2,West Ham United,2016
+1030,2017-03-11,Everton,3,0,West Bromwich Albion,2016
+1031,2017-03-11,Hull City,2,1,Swansea City,2016
+1032,2017-03-12,Liverpool,2,1,Burnley,2016
+1033,2017-03-18,AFC Bournemouth,2,0,Swansea City,2016
+1034,2017-03-18,Crystal Palace,1,0,Watford,2016
+1035,2017-03-18,Everton,4,0,Hull City,2016
+1036,2017-03-18,Stoke City,1,2,Chelsea,2016
+1037,2017-03-18,Sunderland,0,0,Burnley,2016
+1038,2017-03-18,West Bromwich Albion,3,1,Arsenal,2016
+1039,2017-03-18,West Ham United,2,3,Leicester City,2016
+1040,2017-03-19,Manchester City,1,1,Liverpool,2016
+1041,2017-03-19,Middlesbrough,1,3,Manchester United,2016
+1042,2017-03-19,Tottenham Hotspur,2,1,Southampton,2016
+1043,2017-04-01,Burnley,0,2,Tottenham Hotspur,2016
+1044,2017-04-01,Chelsea,1,2,Crystal Palace,2016
+1045,2017-04-01,Hull City,2,1,West Ham United,2016
+1046,2017-04-01,Leicester City,2,0,Stoke City,2016
+1047,2017-04-01,Liverpool,3,1,Everton,2016
+1048,2017-04-01,Manchester United,0,0,West Bromwich Albion,2016
+1049,2017-04-01,Southampton,0,0,AFC Bournemouth,2016
+1050,2017-04-01,Watford,1,0,Sunderland,2016
+1051,2017-04-02,Arsenal,2,2,Manchester City,2016
+1052,2017-04-02,Swansea City,0,0,Middlesbrough,2016
+1053,2017-04-04,Burnley,1,0,Stoke City,2016
+1054,2017-04-04,Leicester City,2,0,Sunderland,2016
+1055,2017-04-04,Manchester United,1,1,Everton,2016
+1056,2017-04-04,Watford,2,0,West Bromwich Albion,2016
+1057,2017-04-05,Arsenal,3,0,West Ham United,2016
+1058,2017-04-05,Chelsea,2,1,Manchester City,2016
+1059,2017-04-05,Hull City,4,2,Middlesbrough,2016
+1060,2017-04-05,Liverpool,2,2,AFC Bournemouth,2016
+1061,2017-04-05,Southampton,3,1,Crystal Palace,2016
+1062,2017-04-05,Swansea City,1,3,Tottenham Hotspur,2016
+1063,2017-04-08,AFC Bournemouth,1,3,Chelsea,2016
+1064,2017-04-08,Manchester City,3,1,Hull City,2016
+1065,2017-04-08,Middlesbrough,0,0,Burnley,2016
+1066,2017-04-08,Stoke City,1,2,Liverpool,2016
+1067,2017-04-08,Tottenham Hotspur,4,0,Watford,2016
+1068,2017-04-08,West Bromwich Albion,0,1,Southampton,2016
+1069,2017-04-08,West Ham United,1,0,Swansea City,2016
+1070,2017-04-09,Everton,4,2,Leicester City,2016
+1071,2017-04-09,Sunderland,0,3,Manchester United,2016
+1072,2017-04-10,Crystal Palace,3,0,Arsenal,2016
+1073,2017-04-15,Crystal Palace,2,2,Leicester City,2016
+1074,2017-04-15,Everton,3,1,Burnley,2016
+1075,2017-04-15,Southampton,0,3,Manchester City,2016
+1076,2017-04-15,Stoke City,3,1,Hull City,2016
+1077,2017-04-15,Sunderland,2,2,West Ham United,2016
+1078,2017-04-15,Tottenham Hotspur,4,0,AFC Bournemouth,2016
+1079,2017-04-15,Watford,1,0,Swansea City,2016
+1080,2017-04-16,Manchester United,2,0,Chelsea,2016
+1081,2017-04-16,West Bromwich Albion,0,1,Liverpool,2016
+1082,2017-04-17,Middlesbrough,1,2,Arsenal,2016
+1083,2017-04-22,AFC Bournemouth,4,0,Middlesbrough,2016
+1084,2017-04-22,Hull City,2,0,Watford,2016
+1085,2017-04-22,Swansea City,2,0,Stoke City,2016
+1086,2017-04-22,West Ham United,0,0,Everton,2016
+1087,2017-04-23,Burnley,0,2,Manchester United,2016
+1088,2017-04-23,Liverpool,1,2,Crystal Palace,2016
+1089,2017-04-25,Chelsea,4,2,Southampton,2016
+1090,2017-04-26,Arsenal,1,0,Leicester City,2016
+1091,2017-04-26,Crystal Palace,0,1,Tottenham Hotspur,2016
+1092,2017-04-26,Middlesbrough,1,0,Sunderland,2016
+1093,2017-04-27,Manchester City,0,0,Manchester United,2016
+1094,2017-04-29,Crystal Palace,0,2,Burnley,2016
+1095,2017-04-29,Southampton,0,0,Hull City,2016
+1096,2017-04-29,Stoke City,0,0,West Ham United,2016
+1097,2017-04-29,Sunderland,0,1,AFC Bournemouth,2016
+1098,2017-04-29,West Bromwich Albion,0,1,Leicester City,2016
+1099,2017-04-30,Everton,0,3,Chelsea,2016
+1100,2017-04-30,Manchester United,1,1,Swansea City,2016
+1101,2017-04-30,Middlesbrough,2,2,Manchester City,2016
+1102,2017-04-30,Tottenham Hotspur,2,0,Arsenal,2016
+1103,2017-05-01,Watford,0,1,Liverpool,2016
+1104,2017-05-05,West Ham United,1,0,Tottenham Hotspur,2016
+1105,2017-05-06,AFC Bournemouth,2,2,Stoke City,2016
+1106,2017-05-06,Burnley,2,2,West Bromwich Albion,2016
+1107,2017-05-06,Hull City,0,2,Sunderland,2016
+1108,2017-05-06,Leicester City,3,0,Watford,2016
+1109,2017-05-06,Manchester City,5,0,Crystal Palace,2016
+1110,2017-05-06,Swansea City,1,0,Everton,2016
+1111,2017-05-07,Arsenal,2,0,Manchester United,2016
+1112,2017-05-07,Liverpool,0,0,Southampton,2016
+1113,2017-05-08,Chelsea,3,0,Middlesbrough,2016
+1114,2017-05-10,Southampton,0,2,Arsenal,2016
+1115,2017-05-12,Everton,1,0,Watford,2016
+1116,2017-05-12,West Bromwich Albion,0,1,Chelsea,2016
+1117,2017-05-13,AFC Bournemouth,2,1,Burnley,2016
+1118,2017-05-13,Manchester City,2,1,Leicester City,2016
+1119,2017-05-13,Middlesbrough,1,2,Southampton,2016
+1120,2017-05-13,Stoke City,1,4,Arsenal,2016
+1121,2017-05-13,Sunderland,0,2,Swansea City,2016
+1122,2017-05-14,Crystal Palace,4,0,Hull City,2016
+1123,2017-05-14,Tottenham Hotspur,2,1,Manchester United,2016
+1124,2017-05-14,West Ham United,0,4,Liverpool,2016
+1125,2017-05-15,Chelsea,4,3,Watford,2016
+1126,2017-05-16,Arsenal,2,0,Sunderland,2016
+1127,2017-05-16,Manchester City,3,1,West Bromwich Albion,2016
+1128,2017-05-17,Southampton,0,0,Manchester United,2016
+1129,2017-05-18,Leicester City,1,6,Tottenham Hotspur,2016
+1130,2017-05-21,Arsenal,3,1,Everton,2016
+1131,2017-05-21,Burnley,1,2,West Ham United,2016
+1132,2017-05-21,Chelsea,5,1,Sunderland,2016
+1133,2017-05-21,Hull City,1,7,Tottenham Hotspur,2016
+1134,2017-05-21,Leicester City,1,1,AFC Bournemouth,2016
+1135,2017-05-21,Liverpool,3,0,Middlesbrough,2016
+1136,2017-05-21,Manchester United,2,0,Crystal Palace,2016
+1137,2017-05-21,Southampton,0,1,Stoke City,2016
+1138,2017-05-21,Swansea City,2,1,West Bromwich Albion,2016
+1139,2017-05-21,Watford,0,5,Manchester City,2016
+1140,2017-08-11,Arsenal,4,3,Leicester City,2017
+1141,2017-08-12,Brighton & Hove Albion,0,2,Manchester City,2017
+1142,2017-08-12,Chelsea,2,3,Burnley,2017
+1143,2017-08-12,Crystal Palace,0,3,Huddersfield Town,2017
+1144,2017-08-12,Everton,1,0,Stoke City,2017
+1145,2017-08-12,Southampton,0,0,Swansea City,2017
+1146,2017-08-12,Watford,3,3,Liverpool,2017
+1147,2017-08-12,West Bromwich Albion,1,0,AFC Bournemouth,2017
+1148,2017-08-13,Manchester United,4,0,West Ham United,2017
+1149,2017-08-13,Newcastle United,0,2,Tottenham Hotspur,2017
+1150,2017-08-19,AFC Bournemouth,0,2,Watford,2017
+1151,2017-08-19,Burnley,0,1,West Bromwich Albion,2017
+1152,2017-08-19,Leicester City,2,0,Brighton & Hove Albion,2017
+1153,2017-08-19,Liverpool,1,0,Crystal Palace,2017
+1154,2017-08-19,Southampton,3,2,West Ham United,2017
+1155,2017-08-19,Stoke City,1,0,Arsenal,2017
+1156,2017-08-19,Swansea City,0,4,Manchester United,2017
+1157,2017-08-20,Huddersfield Town,1,0,Newcastle United,2017
+1158,2017-08-20,Tottenham Hotspur,1,2,Chelsea,2017
+1159,2017-08-21,Manchester City,1,1,Everton,2017
+1160,2017-08-26,AFC Bournemouth,1,2,Manchester City,2017
+1161,2017-08-26,Crystal Palace,0,2,Swansea City,2017
+1162,2017-08-26,Huddersfield Town,0,0,Southampton,2017
+1163,2017-08-26,Manchester United,2,0,Leicester City,2017
+1164,2017-08-26,Newcastle United,3,0,West Ham United,2017
+1165,2017-08-26,Watford,0,0,Brighton & Hove Albion,2017
+1166,2017-08-27,Chelsea,2,0,Everton,2017
+1167,2017-08-27,Liverpool,4,0,Arsenal,2017
+1168,2017-08-27,Tottenham Hotspur,1,1,Burnley,2017
+1169,2017-08-27,West Bromwich Albion,1,1,Stoke City,2017
+1170,2017-09-09,Arsenal,3,0,AFC Bournemouth,2017
+1171,2017-09-09,Brighton & Hove Albion,3,1,West Bromwich Albion,2017
+1172,2017-09-09,Everton,0,3,Tottenham Hotspur,2017
+1173,2017-09-09,Leicester City,1,2,Chelsea,2017
+1174,2017-09-09,Manchester City,5,0,Liverpool,2017
+1175,2017-09-09,Southampton,0,2,Watford,2017
+1176,2017-09-09,Stoke City,2,2,Manchester United,2017
+1177,2017-09-10,Burnley,1,0,Crystal Palace,2017
+1178,2017-09-10,Swansea City,0,1,Newcastle United,2017
+1179,2017-09-11,West Ham United,2,0,Huddersfield Town,2017
+1180,2017-09-15,AFC Bournemouth,2,1,Brighton & Hove Albion,2017
+1181,2017-09-16,Crystal Palace,0,1,Southampton,2017
+1182,2017-09-16,Huddersfield Town,1,1,Leicester City,2017
+1183,2017-09-16,Liverpool,1,1,Burnley,2017
+1184,2017-09-16,Newcastle United,2,1,Stoke City,2017
+1185,2017-09-16,Tottenham Hotspur,0,0,Swansea City,2017
+1186,2017-09-16,Watford,0,6,Manchester City,2017
+1187,2017-09-16,West Bromwich Albion,0,0,West Ham United,2017
+1188,2017-09-17,Chelsea,0,0,Arsenal,2017
+1189,2017-09-17,Manchester United,4,0,Everton,2017
+1190,2017-09-23,Burnley,0,0,Huddersfield Town,2017
+1191,2017-09-23,Everton,2,1,AFC Bournemouth,2017
+1192,2017-09-23,Leicester City,2,3,Liverpool,2017
+1193,2017-09-23,Manchester City,5,0,Crystal Palace,2017
+1194,2017-09-23,Southampton,0,1,Manchester United,2017
+1195,2017-09-23,Stoke City,0,4,Chelsea,2017
+1196,2017-09-23,Swansea City,1,2,Watford,2017
+1197,2017-09-23,West Ham United,2,3,Tottenham Hotspur,2017
+1198,2017-09-24,Brighton & Hove Albion,1,0,Newcastle United,2017
+1199,2017-09-25,Arsenal,2,0,West Bromwich Albion,2017
+1200,2017-09-30,AFC Bournemouth,0,0,Leicester City,2017
+1201,2017-09-30,Chelsea,0,1,Manchester City,2017
+1202,2017-09-30,Huddersfield Town,0,4,Tottenham Hotspur,2017
+1203,2017-09-30,Manchester United,4,0,Crystal Palace,2017
+1204,2017-09-30,Stoke City,2,1,Southampton,2017
+1205,2017-09-30,West Bromwich Albion,2,2,Watford,2017
+1206,2017-09-30,West Ham United,1,0,Swansea City,2017
+1207,2017-10-01,Arsenal,2,0,Brighton & Hove Albion,2017
+1208,2017-10-01,Everton,0,1,Burnley,2017
+1209,2017-10-01,Newcastle United,1,1,Liverpool,2017
+1210,2017-10-14,Burnley,1,1,West Ham United,2017
+1211,2017-10-14,Crystal Palace,2,1,Chelsea,2017
+1212,2017-10-14,Liverpool,0,0,Manchester United,2017
+1213,2017-10-14,Manchester City,7,2,Stoke City,2017
+1214,2017-10-14,Swansea City,2,0,Huddersfield Town,2017
+1215,2017-10-14,Tottenham Hotspur,1,0,AFC Bournemouth,2017
+1216,2017-10-14,Watford,2,1,Arsenal,2017
+1217,2017-10-15,Brighton & Hove Albion,1,1,Everton,2017
+1218,2017-10-15,Southampton,2,2,Newcastle United,2017
+1219,2017-10-16,Leicester City,1,1,West Bromwich Albion,2017
+1220,2017-10-20,West Ham United,0,3,Brighton & Hove Albion,2017
+1221,2017-10-21,Chelsea,4,2,Watford,2017
+1222,2017-10-21,Huddersfield Town,2,1,Manchester United,2017
+1223,2017-10-21,Manchester City,3,0,Burnley,2017
+1224,2017-10-21,Newcastle United,1,0,Crystal Palace,2017
+1225,2017-10-21,Southampton,1,0,West Bromwich Albion,2017
+1226,2017-10-21,Stoke City,1,2,AFC Bournemouth,2017
+1227,2017-10-21,Swansea City,1,2,Leicester City,2017
+1228,2017-10-22,Everton,2,5,Arsenal,2017
+1229,2017-10-22,Tottenham Hotspur,4,1,Liverpool,2017
+1230,2017-10-28,AFC Bournemouth,0,1,Chelsea,2017
+1231,2017-10-28,Arsenal,2,1,Swansea City,2017
+1232,2017-10-28,Crystal Palace,2,2,West Ham United,2017
+1233,2017-10-28,Liverpool,3,0,Huddersfield Town,2017
+1234,2017-10-28,Manchester United,1,0,Tottenham Hotspur,2017
+1235,2017-10-28,Watford,0,1,Stoke City,2017
+1236,2017-10-28,West Bromwich Albion,2,3,Manchester City,2017
+1237,2017-10-29,Brighton & Hove Albion,1,1,Southampton,2017
+1238,2017-10-29,Leicester City,2,0,Everton,2017
+1239,2017-10-30,Burnley,1,0,Newcastle United,2017
+1240,2017-11-04,Huddersfield Town,1,0,West Bromwich Albion,2017
+1241,2017-11-04,Newcastle United,0,1,AFC Bournemouth,2017
+1242,2017-11-04,Southampton,0,1,Burnley,2017
+1243,2017-11-04,Stoke City,2,2,Leicester City,2017
+1244,2017-11-04,Swansea City,0,1,Brighton & Hove Albion,2017
+1245,2017-11-04,West Ham United,1,4,Liverpool,2017
+1246,2017-11-05,Chelsea,1,0,Manchester United,2017
+1247,2017-11-05,Everton,3,2,Watford,2017
+1248,2017-11-05,Manchester City,3,1,Arsenal,2017
+1249,2017-11-05,Tottenham Hotspur,1,0,Crystal Palace,2017
+1250,2017-11-18,AFC Bournemouth,4,0,Huddersfield Town,2017
+1251,2017-11-18,Arsenal,2,0,Tottenham Hotspur,2017
+1252,2017-11-18,Burnley,2,0,Swansea City,2017
+1253,2017-11-18,Crystal Palace,2,2,Everton,2017
+1254,2017-11-18,Leicester City,0,2,Manchester City,2017
+1255,2017-11-18,Liverpool,3,0,Southampton,2017
+1256,2017-11-18,Manchester United,4,1,Newcastle United,2017
+1257,2017-11-18,West Bromwich Albion,0,4,Chelsea,2017
+1258,2017-11-19,Watford,2,0,West Ham United,2017
+1259,2017-11-20,Brighton & Hove Albion,2,2,Stoke City,2017
+1260,2017-11-24,West Ham United,1,1,Leicester City,2017
+1261,2017-11-25,Crystal Palace,2,1,Stoke City,2017
+1262,2017-11-25,Liverpool,1,1,Chelsea,2017
+1263,2017-11-25,Manchester United,1,0,Brighton & Hove Albion,2017
+1264,2017-11-25,Newcastle United,0,3,Watford,2017
+1265,2017-11-25,Swansea City,0,0,AFC Bournemouth,2017
+1266,2017-11-25,Tottenham Hotspur,1,1,West Bromwich Albion,2017
+1267,2017-11-26,Burnley,0,1,Arsenal,2017
+1268,2017-11-26,Huddersfield Town,1,2,Manchester City,2017
+1269,2017-11-26,Southampton,4,1,Everton,2017
+1270,2017-11-28,Brighton & Hove Albion,0,0,Crystal Palace,2017
+1271,2017-11-28,Leicester City,2,1,Tottenham Hotspur,2017
+1272,2017-11-28,Watford,2,4,Manchester United,2017
+1273,2017-11-28,West Bromwich Albion,2,2,Newcastle United,2017
+1274,2017-11-29,AFC Bournemouth,1,2,Burnley,2017
+1275,2017-11-29,Arsenal,5,0,Huddersfield Town,2017
+1276,2017-11-29,Chelsea,1,0,Swansea City,2017
+1277,2017-11-29,Everton,4,0,West Ham United,2017
+1278,2017-11-29,Manchester City,2,1,Southampton,2017
+1279,2017-11-29,Stoke City,0,3,Liverpool,2017
+1280,2017-12-02,Arsenal,1,3,Manchester United,2017
+1281,2017-12-02,Brighton & Hove Albion,1,5,Liverpool,2017
+1282,2017-12-02,Chelsea,3,1,Newcastle United,2017
+1283,2017-12-02,Everton,2,0,Huddersfield Town,2017
+1284,2017-12-02,Leicester City,1,0,Burnley,2017
+1285,2017-12-02,Stoke City,2,1,Swansea City,2017
+1286,2017-12-02,Watford,1,1,Tottenham Hotspur,2017
+1287,2017-12-02,West Bromwich Albion,0,0,Crystal Palace,2017
+1288,2017-12-03,AFC Bournemouth,1,1,Southampton,2017
+1289,2017-12-03,Manchester City,2,1,West Ham United,2017
+1290,2017-12-09,Burnley,1,0,Watford,2017
+1291,2017-12-09,Crystal Palace,2,2,AFC Bournemouth,2017
+1292,2017-12-09,Huddersfield Town,2,0,Brighton & Hove Albion,2017
+1293,2017-12-09,Newcastle United,2,3,Leicester City,2017
+1294,2017-12-09,Swansea City,1,0,West Bromwich Albion,2017
+1295,2017-12-09,Tottenham Hotspur,5,1,Stoke City,2017
+1296,2017-12-09,West Ham United,1,0,Chelsea,2017
+1297,2017-12-10,Liverpool,1,1,Everton,2017
+1298,2017-12-10,Manchester United,1,2,Manchester City,2017
+1299,2017-12-10,Southampton,1,1,Arsenal,2017
+1300,2017-12-12,Burnley,1,0,Stoke City,2017
+1301,2017-12-12,Crystal Palace,2,1,Watford,2017
+1302,2017-12-12,Huddersfield Town,1,3,Chelsea,2017
+1303,2017-12-13,Liverpool,0,0,West Bromwich Albion,2017
+1304,2017-12-13,Manchester United,1,0,AFC Bournemouth,2017
+1305,2017-12-13,Newcastle United,0,1,Everton,2017
+1306,2017-12-13,Southampton,1,4,Leicester City,2017
+1307,2017-12-13,Swansea City,0,4,Manchester City,2017
+1308,2017-12-13,Tottenham Hotspur,2,0,Brighton & Hove Albion,2017
+1309,2017-12-13,West Ham United,0,0,Arsenal,2017
+1310,2017-12-16,Arsenal,1,0,Newcastle United,2017
+1311,2017-12-16,Brighton & Hove Albion,0,0,Burnley,2017
+1312,2017-12-16,Chelsea,1,0,Southampton,2017
+1313,2017-12-16,Leicester City,0,3,Crystal Palace,2017
+1314,2017-12-16,Manchester City,4,1,Tottenham Hotspur,2017
+1315,2017-12-16,Stoke City,0,3,West Ham United,2017
+1316,2017-12-16,Watford,1,4,Huddersfield Town,2017
+1317,2017-12-17,AFC Bournemouth,0,4,Liverpool,2017
+1318,2017-12-17,West Bromwich Albion,1,2,Manchester United,2017
+1319,2017-12-18,Everton,3,1,Swansea City,2017
+1320,2017-12-22,Arsenal,3,3,Liverpool,2017
+1321,2017-12-23,Brighton & Hove Albion,1,0,Watford,2017
+1322,2017-12-23,Burnley,0,3,Tottenham Hotspur,2017
+1323,2017-12-23,Everton,0,0,Chelsea,2017
+1324,2017-12-23,Leicester City,2,2,Manchester United,2017
+1325,2017-12-23,Manchester City,4,0,AFC Bournemouth,2017
+1326,2017-12-23,Southampton,1,1,Huddersfield Town,2017
+1327,2017-12-23,Stoke City,3,1,West Bromwich Albion,2017
+1328,2017-12-23,Swansea City,1,1,Crystal Palace,2017
+1329,2017-12-23,West Ham United,2,3,Newcastle United,2017
+1330,2017-12-26,AFC Bournemouth,3,3,West Ham United,2017
+1331,2017-12-26,Chelsea,2,0,Brighton & Hove Albion,2017
+1332,2017-12-26,Huddersfield Town,1,1,Stoke City,2017
+1333,2017-12-26,Liverpool,5,0,Swansea City,2017
+1334,2017-12-26,Manchester United,2,2,Burnley,2017
+1335,2017-12-26,Tottenham Hotspur,5,2,Southampton,2017
+1336,2017-12-26,Watford,2,1,Leicester City,2017
+1337,2017-12-26,West Bromwich Albion,0,0,Everton,2017
+1338,2017-12-27,Newcastle United,0,1,Manchester City,2017
+1339,2017-12-28,Crystal Palace,2,3,Arsenal,2017
+1340,2017-12-30,AFC Bournemouth,2,1,Everton,2017
+1341,2017-12-30,Chelsea,5,0,Stoke City,2017
+1342,2017-12-30,Huddersfield Town,0,0,Burnley,2017
+1343,2017-12-30,Liverpool,2,1,Leicester City,2017
+1344,2017-12-30,Manchester United,0,0,Southampton,2017
+1345,2017-12-30,Newcastle United,0,0,Brighton & Hove Albion,2017
+1346,2017-12-30,Watford,1,2,Swansea City,2017
+1347,2017-12-31,Crystal Palace,0,0,Manchester City,2017
+1348,2017-12-31,West Bromwich Albion,1,1,Arsenal,2017
+1349,2018-01-01,Brighton & Hove Albion,2,2,AFC Bournemouth,2017
+1350,2018-01-01,Burnley,1,2,Liverpool,2017
+1351,2018-01-01,Everton,0,2,Manchester United,2017
+1352,2018-01-01,Leicester City,3,0,Huddersfield Town,2017
+1353,2018-01-01,Stoke City,0,1,Newcastle United,2017
+1354,2018-01-02,Manchester City,3,1,Watford,2017
+1355,2018-01-02,Southampton,1,2,Crystal Palace,2017
+1356,2018-01-02,Swansea City,0,2,Tottenham Hotspur,2017
+1357,2018-01-02,West Ham United,2,1,West Bromwich Albion,2017
+1358,2018-01-03,Arsenal,2,2,Chelsea,2017
+1359,2018-01-04,Tottenham Hotspur,1,1,West Ham United,2017
+1360,2018-01-13,Chelsea,0,0,Leicester City,2017
+1361,2018-01-13,Crystal Palace,1,0,Burnley,2017
+1362,2018-01-13,Huddersfield Town,1,4,West Ham United,2017
+1363,2018-01-13,Newcastle United,1,1,Swansea City,2017
+1364,2018-01-13,Tottenham Hotspur,4,0,Everton,2017
+1365,2018-01-13,Watford,2,2,Southampton,2017
+1366,2018-01-13,West Bromwich Albion,2,0,Brighton & Hove Albion,2017
+1367,2018-01-14,AFC Bournemouth,2,1,Arsenal,2017
+1368,2018-01-14,Liverpool,4,3,Manchester City,2017
+1369,2018-01-15,Manchester United,3,0,Stoke City,2017
+1370,2018-01-20,Arsenal,4,1,Crystal Palace,2017
+1371,2018-01-20,Brighton & Hove Albion,0,4,Chelsea,2017
+1372,2018-01-20,Burnley,0,1,Manchester United,2017
+1373,2018-01-20,Everton,1,1,West Bromwich Albion,2017
+1374,2018-01-20,Leicester City,2,0,Watford,2017
+1375,2018-01-20,Manchester City,3,1,Newcastle United,2017
+1376,2018-01-20,Stoke City,2,0,Huddersfield Town,2017
+1377,2018-01-20,West Ham United,1,1,AFC Bournemouth,2017
+1378,2018-01-21,Southampton,1,1,Tottenham Hotspur,2017
+1379,2018-01-22,Swansea City,1,0,Liverpool,2017
+1380,2018-01-30,Huddersfield Town,0,3,Liverpool,2017
+1381,2018-01-30,Swansea City,3,1,Arsenal,2017
+1382,2018-01-30,West Ham United,1,1,Crystal Palace,2017
+1383,2018-01-31,Chelsea,0,3,AFC Bournemouth,2017
+1384,2018-01-31,Everton,2,1,Leicester City,2017
+1385,2018-01-31,Manchester City,3,0,West Bromwich Albion,2017
+1386,2018-01-31,Newcastle United,1,1,Burnley,2017
+1387,2018-01-31,Southampton,1,1,Brighton & Hove Albion,2017
+1388,2018-01-31,Stoke City,0,0,Watford,2017
+1389,2018-01-31,Tottenham Hotspur,2,0,Manchester United,2017
+1390,2018-02-03,AFC Bournemouth,2,1,Stoke City,2017
+1391,2018-02-03,Arsenal,5,1,Everton,2017
+1392,2018-02-03,Brighton & Hove Albion,3,1,West Ham United,2017
+1393,2018-02-03,Burnley,1,1,Manchester City,2017
+1394,2018-02-03,Leicester City,1,1,Swansea City,2017
+1395,2018-02-03,Manchester United,2,0,Huddersfield Town,2017
+1396,2018-02-03,West Bromwich Albion,2,3,Southampton,2017
+1397,2018-02-04,Crystal Palace,1,1,Newcastle United,2017
+1398,2018-02-04,Liverpool,2,2,Tottenham Hotspur,2017
+1399,2018-02-05,Watford,4,1,Chelsea,2017
+1400,2018-02-10,Everton,3,1,Crystal Palace,2017
+1401,2018-02-10,Manchester City,5,1,Leicester City,2017
+1402,2018-02-10,Stoke City,1,1,Brighton & Hove Albion,2017
+1403,2018-02-10,Swansea City,1,0,Burnley,2017
+1404,2018-02-10,Tottenham Hotspur,1,0,Arsenal,2017
+1405,2018-02-10,West Ham United,2,0,Watford,2017
+1406,2018-02-11,Huddersfield Town,4,1,AFC Bournemouth,2017
+1407,2018-02-11,Newcastle United,1,0,Manchester United,2017
+1408,2018-02-11,Southampton,0,2,Liverpool,2017
+1409,2018-02-12,Chelsea,3,0,West Bromwich Albion,2017
+1410,2018-02-24,AFC Bournemouth,2,2,Newcastle United,2017
+1411,2018-02-24,Brighton & Hove Albion,4,1,Swansea City,2017
+1412,2018-02-24,Burnley,1,1,Southampton,2017
+1413,2018-02-24,Leicester City,1,1,Stoke City,2017
+1414,2018-02-24,Liverpool,4,1,West Ham United,2017
+1415,2018-02-24,Watford,1,0,Everton,2017
+1416,2018-02-24,West Bromwich Albion,1,2,Huddersfield Town,2017
+1417,2018-02-25,Crystal Palace,0,1,Tottenham Hotspur,2017
+1418,2018-02-25,Manchester United,2,1,Chelsea,2017
+1419,2018-03-01,Arsenal,0,3,Manchester City,2017
+1420,2018-03-03,Burnley,2,1,Everton,2017
+1421,2018-03-03,Leicester City,1,1,AFC Bournemouth,2017
+1422,2018-03-03,Liverpool,2,0,Newcastle United,2017
+1423,2018-03-03,Southampton,0,0,Stoke City,2017
+1424,2018-03-03,Swansea City,4,1,West Ham United,2017
+1425,2018-03-03,Tottenham Hotspur,2,0,Huddersfield Town,2017
+1426,2018-03-03,Watford,1,0,West Bromwich Albion,2017
+1427,2018-03-04,Brighton & Hove Albion,2,1,Arsenal,2017
+1428,2018-03-04,Manchester City,1,0,Chelsea,2017
+1429,2018-03-05,Crystal Palace,2,3,Manchester United,2017
+1430,2018-03-10,Chelsea,2,1,Crystal Palace,2017
+1431,2018-03-10,Everton,2,0,Brighton & Hove Albion,2017
+1432,2018-03-10,Huddersfield Town,0,0,Swansea City,2017
+1433,2018-03-10,Manchester United,2,1,Liverpool,2017
+1434,2018-03-10,Newcastle United,3,0,Southampton,2017
+1435,2018-03-10,West Bromwich Albion,1,4,Leicester City,2017
+1436,2018-03-10,West Ham United,0,3,Burnley,2017
+1437,2018-03-11,AFC Bournemouth,1,4,Tottenham Hotspur,2017
+1438,2018-03-11,Arsenal,3,0,Watford,2017
+1439,2018-03-12,Stoke City,0,2,Manchester City,2017
+1440,2018-03-17,AFC Bournemouth,2,1,West Bromwich Albion,2017
+1441,2018-03-17,Huddersfield Town,0,2,Crystal Palace,2017
+1442,2018-03-17,Liverpool,5,0,Watford,2017
+1443,2018-03-17,Stoke City,1,2,Everton,2017
+1444,2018-03-31,Brighton & Hove Albion,0,2,Leicester City,2017
+1445,2018-03-31,Crystal Palace,1,2,Liverpool,2017
+1446,2018-03-31,Everton,1,3,Manchester City,2017
+1447,2018-03-31,Manchester United,2,0,Swansea City,2017
+1448,2018-03-31,Newcastle United,1,0,Huddersfield Town,2017
+1449,2018-03-31,Watford,2,2,AFC Bournemouth,2017
+1450,2018-03-31,West Bromwich Albion,1,2,Burnley,2017
+1451,2018-03-31,West Ham United,3,0,Southampton,2017
+1452,2018-04-01,Arsenal,3,0,Stoke City,2017
+1453,2018-04-01,Chelsea,1,3,Tottenham Hotspur,2017
+1454,2018-04-07,AFC Bournemouth,2,2,Crystal Palace,2017
+1455,2018-04-07,Brighton & Hove Albion,1,1,Huddersfield Town,2017
+1456,2018-04-07,Everton,0,0,Liverpool,2017
+1457,2018-04-07,Leicester City,1,2,Newcastle United,2017
+1458,2018-04-07,Manchester City,2,3,Manchester United,2017
+1459,2018-04-07,Stoke City,1,2,Tottenham Hotspur,2017
+1460,2018-04-07,Watford,1,2,Burnley,2017
+1461,2018-04-07,West Bromwich Albion,1,1,Swansea City,2017
+1462,2018-04-08,Arsenal,3,2,Southampton,2017
+1463,2018-04-08,Chelsea,1,1,West Ham United,2017
+1464,2018-04-14,Burnley,2,1,Leicester City,2017
+1465,2018-04-14,Crystal Palace,3,2,Brighton & Hove Albion,2017
+1466,2018-04-14,Huddersfield Town,1,0,Watford,2017
+1467,2018-04-14,Liverpool,3,0,AFC Bournemouth,2017
+1468,2018-04-14,Southampton,2,3,Chelsea,2017
+1469,2018-04-14,Swansea City,1,1,Everton,2017
+1470,2018-04-14,Tottenham Hotspur,1,3,Manchester City,2017
+1471,2018-04-15,Manchester United,0,1,West Bromwich Albion,2017
+1472,2018-04-15,Newcastle United,2,1,Arsenal,2017
+1473,2018-04-16,West Ham United,1,1,Stoke City,2017
+1474,2018-04-17,Brighton & Hove Albion,1,1,Tottenham Hotspur,2017
+1475,2018-04-18,AFC Bournemouth,0,2,Manchester United,2017
+1476,2018-04-19,Burnley,1,2,Chelsea,2017
+1477,2018-04-19,Leicester City,0,0,Southampton,2017
+1478,2018-04-21,Watford,0,0,Crystal Palace,2017
+1479,2018-04-21,West Bromwich Albion,2,2,Liverpool,2017
+1480,2018-04-22,Arsenal,4,1,West Ham United,2017
+1481,2018-04-22,Manchester City,5,0,Swansea City,2017
+1482,2018-04-22,Stoke City,1,1,Burnley,2017
+1483,2018-04-23,Everton,1,0,Newcastle United,2017
+1484,2018-04-28,Burnley,0,0,Brighton & Hove Albion,2017
+1485,2018-04-28,Crystal Palace,5,0,Leicester City,2017
+1486,2018-04-28,Huddersfield Town,0,2,Everton,2017
+1487,2018-04-28,Liverpool,0,0,Stoke City,2017
+1488,2018-04-28,Newcastle United,0,1,West Bromwich Albion,2017
+1489,2018-04-28,Southampton,2,1,AFC Bournemouth,2017
+1490,2018-04-28,Swansea City,0,1,Chelsea,2017
+1491,2018-04-29,Manchester United,2,1,Arsenal,2017
+1492,2018-04-29,West Ham United,1,4,Manchester City,2017
+1493,2018-04-30,Tottenham Hotspur,2,0,Watford,2017
+1494,2018-05-04,Brighton & Hove Albion,1,0,Manchester United,2017
+1495,2018-05-05,AFC Bournemouth,1,0,Swansea City,2017
+1496,2018-05-05,Everton,1,1,Southampton,2017
+1497,2018-05-05,Leicester City,0,2,West Ham United,2017
+1498,2018-05-05,Stoke City,1,2,Crystal Palace,2017
+1499,2018-05-05,Watford,2,1,Newcastle United,2017
+1500,2018-05-05,West Bromwich Albion,1,0,Tottenham Hotspur,2017
+1501,2018-05-06,Arsenal,5,0,Burnley,2017
+1502,2018-05-06,Chelsea,1,0,Liverpool,2017
+1503,2018-05-06,Manchester City,0,0,Huddersfield Town,2017
+1504,2018-05-08,Swansea City,0,1,Southampton,2017
+1505,2018-05-09,Chelsea,1,1,Huddersfield Town,2017
+1506,2018-05-09,Leicester City,3,1,Arsenal,2017
+1507,2018-05-09,Manchester City,3,1,Brighton & Hove Albion,2017
+1508,2018-05-09,Tottenham Hotspur,1,0,Newcastle United,2017
+1509,2018-05-10,West Ham United,0,0,Manchester United,2017
+1510,2018-05-13,Burnley,1,2,AFC Bournemouth,2017
+1511,2018-05-13,Crystal Palace,2,0,West Bromwich Albion,2017
+1512,2018-05-13,Huddersfield Town,0,1,Arsenal,2017
+1513,2018-05-13,Liverpool,4,0,Brighton & Hove Albion,2017
+1514,2018-05-13,Manchester United,1,0,Watford,2017
+1515,2018-05-13,Newcastle United,3,0,Chelsea,2017
+1516,2018-05-13,Southampton,0,1,Manchester City,2017
+1517,2018-05-13,Swansea City,1,2,Stoke City,2017
+1518,2018-05-13,Tottenham Hotspur,5,4,Leicester City,2017
+1519,2018-05-13,West Ham United,3,1,Everton,2017
+1520,2018-08-10,Manchester United,2,1,Leicester City,2018
+1521,2018-08-11,AFC Bournemouth,2,0,Cardiff City,2018
+1522,2018-08-11,Fulham,0,2,Crystal Palace,2018
+1523,2018-08-11,Huddersfield Town,0,3,Chelsea,2018
+1524,2018-08-11,Newcastle United,1,2,Tottenham Hotspur,2018
+1525,2018-08-11,Watford,2,0,Brighton & Hove Albion,2018
+1526,2018-08-11,Wolverhampton Wanderers,2,2,Everton,2018
+1527,2018-08-12,Arsenal,0,2,Manchester City,2018
+1528,2018-08-12,Liverpool,4,0,West Ham United,2018
+1529,2018-08-12,Southampton,0,0,Burnley,2018
+1530,2018-08-18,Cardiff City,0,0,Newcastle United,2018
+1531,2018-08-18,Chelsea,3,2,Arsenal,2018
+1532,2018-08-18,Everton,2,1,Southampton,2018
+1533,2018-08-18,Leicester City,2,0,Wolverhampton Wanderers,2018
+1534,2018-08-18,Tottenham Hotspur,3,1,Fulham,2018
+1535,2018-08-18,West Ham United,1,2,AFC Bournemouth,2018
+1536,2018-08-19,Brighton & Hove Albion,3,2,Manchester United,2018
+1537,2018-08-19,Burnley,1,3,Watford,2018
+1538,2018-08-19,Manchester City,6,1,Huddersfield Town,2018
+1539,2018-08-20,Crystal Palace,0,2,Liverpool,2018
+1540,2018-08-25,AFC Bournemouth,2,2,Everton,2018
+1541,2018-08-25,Arsenal,3,1,West Ham United,2018
+1542,2018-08-25,Huddersfield Town,0,0,Cardiff City,2018
+1543,2018-08-25,Liverpool,1,0,Brighton & Hove Albion,2018
+1544,2018-08-25,Southampton,1,2,Leicester City,2018
+1545,2018-08-25,Wolverhampton Wanderers,1,1,Manchester City,2018
+1546,2018-08-26,Fulham,4,2,Burnley,2018
+1547,2018-08-26,Newcastle United,1,2,Chelsea,2018
+1548,2018-08-26,Watford,2,1,Crystal Palace,2018
+1549,2018-08-27,Manchester United,0,3,Tottenham Hotspur,2018
+1550,2018-09-01,Brighton & Hove Albion,2,2,Fulham,2018
+1551,2018-09-01,Chelsea,2,0,AFC Bournemouth,2018
+1552,2018-09-01,Crystal Palace,0,2,Southampton,2018
+1553,2018-09-01,Everton,1,1,Huddersfield Town,2018
+1554,2018-09-01,Leicester City,1,2,Liverpool,2018
+1555,2018-09-01,Manchester City,2,1,Newcastle United,2018
+1556,2018-09-01,West Ham United,0,1,Wolverhampton Wanderers,2018
+1557,2018-09-02,Burnley,0,2,Manchester United,2018
+1558,2018-09-02,Cardiff City,2,3,Arsenal,2018
+1559,2018-09-02,Watford,2,1,Tottenham Hotspur,2018
+1560,2018-09-15,AFC Bournemouth,4,2,Leicester City,2018
+1561,2018-09-15,Chelsea,4,1,Cardiff City,2018
+1562,2018-09-15,Huddersfield Town,0,1,Crystal Palace,2018
+1563,2018-09-15,Manchester City,3,0,Fulham,2018
+1564,2018-09-15,Newcastle United,1,2,Arsenal,2018
+1565,2018-09-15,Tottenham Hotspur,1,2,Liverpool,2018
+1566,2018-09-15,Watford,1,2,Manchester United,2018
+1567,2018-09-16,Everton,1,3,West Ham United,2018
+1568,2018-09-16,Wolverhampton Wanderers,1,0,Burnley,2018
+1569,2018-09-17,Southampton,2,2,Brighton & Hove Albion,2018
+1570,2018-09-22,Brighton & Hove Albion,1,2,Tottenham Hotspur,2018
+1571,2018-09-22,Burnley,4,0,AFC Bournemouth,2018
+1572,2018-09-22,Cardiff City,0,5,Manchester City,2018
+1573,2018-09-22,Crystal Palace,0,0,Newcastle United,2018
+1574,2018-09-22,Fulham,1,1,Watford,2018
+1575,2018-09-22,Leicester City,3,1,Huddersfield Town,2018
+1576,2018-09-22,Liverpool,3,0,Southampton,2018
+1577,2018-09-22,Manchester United,1,1,Wolverhampton Wanderers,2018
+1578,2018-09-23,Arsenal,2,0,Everton,2018
+1579,2018-09-23,West Ham United,0,0,Chelsea,2018
+1580,2018-09-29,Arsenal,2,0,Watford,2018
+1581,2018-09-29,Chelsea,1,1,Liverpool,2018
+1582,2018-09-29,Everton,3,0,Fulham,2018
+1583,2018-09-29,Huddersfield Town,0,2,Tottenham Hotspur,2018
+1584,2018-09-29,Manchester City,2,0,Brighton & Hove Albion,2018
+1585,2018-09-29,Newcastle United,0,2,Leicester City,2018
+1586,2018-09-29,West Ham United,3,1,Manchester United,2018
+1587,2018-09-29,Wolverhampton Wanderers,2,0,Southampton,2018
+1588,2018-09-30,Cardiff City,1,2,Burnley,2018
+1589,2018-10-01,AFC Bournemouth,2,1,Crystal Palace,2018
+1590,2018-10-05,Brighton & Hove Albion,1,0,West Ham United,2018
+1591,2018-10-06,Burnley,1,1,Huddersfield Town,2018
+1592,2018-10-06,Crystal Palace,0,1,Wolverhampton Wanderers,2018
+1593,2018-10-06,Leicester City,1,2,Everton,2018
+1594,2018-10-06,Manchester United,3,2,Newcastle United,2018
+1595,2018-10-06,Tottenham Hotspur,1,0,Cardiff City,2018
+1596,2018-10-06,Watford,0,4,AFC Bournemouth,2018
+1597,2018-10-07,Fulham,1,5,Arsenal,2018
+1598,2018-10-07,Liverpool,0,0,Manchester City,2018
+1599,2018-10-07,Southampton,0,3,Chelsea,2018
+1600,2018-10-20,AFC Bournemouth,0,0,Southampton,2018
+1601,2018-10-20,Cardiff City,4,2,Fulham,2018
+1602,2018-10-20,Chelsea,2,2,Manchester United,2018
+1603,2018-10-20,Huddersfield Town,0,1,Liverpool,2018
+1604,2018-10-20,Manchester City,5,0,Burnley,2018
+1605,2018-10-20,Newcastle United,0,1,Brighton & Hove Albion,2018
+1606,2018-10-20,West Ham United,0,1,Tottenham Hotspur,2018
+1607,2018-10-20,Wolverhampton Wanderers,0,2,Watford,2018
+1608,2018-10-21,Everton,2,0,Crystal Palace,2018
+1609,2018-10-22,Arsenal,3,1,Leicester City,2018
+1610,2018-10-27,Brighton & Hove Albion,1,0,Wolverhampton Wanderers,2018
+1611,2018-10-27,Fulham,0,3,AFC Bournemouth,2018
+1612,2018-10-27,Leicester City,1,1,West Ham United,2018
+1613,2018-10-27,Liverpool,4,1,Cardiff City,2018
+1614,2018-10-27,Southampton,0,0,Newcastle United,2018
+1615,2018-10-27,Watford,3,0,Huddersfield Town,2018
+1616,2018-10-28,Burnley,0,4,Chelsea,2018
+1617,2018-10-28,Crystal Palace,2,2,Arsenal,2018
+1618,2018-10-28,Manchester United,2,1,Everton,2018
+1619,2018-10-29,Tottenham Hotspur,0,1,Manchester City,2018
+1620,2018-11-03,AFC Bournemouth,1,2,Manchester United,2018
+1621,2018-11-03,Arsenal,1,1,Liverpool,2018
+1622,2018-11-03,Cardiff City,0,1,Leicester City,2018
+1623,2018-11-03,Everton,3,1,Brighton & Hove Albion,2018
+1624,2018-11-03,Newcastle United,1,0,Watford,2018
+1625,2018-11-03,West Ham United,4,2,Burnley,2018
+1626,2018-11-03,Wolverhampton Wanderers,2,3,Tottenham Hotspur,2018
+1627,2018-11-04,Chelsea,3,1,Crystal Palace,2018
+1628,2018-11-04,Manchester City,6,1,Southampton,2018
+1629,2018-11-05,Huddersfield Town,1,0,Fulham,2018
+1630,2018-11-10,Cardiff City,2,1,Brighton & Hove Albion,2018
+1631,2018-11-10,Crystal Palace,0,1,Tottenham Hotspur,2018
+1632,2018-11-10,Huddersfield Town,1,1,West Ham United,2018
+1633,2018-11-10,Leicester City,0,0,Burnley,2018
+1634,2018-11-10,Newcastle United,2,1,AFC Bournemouth,2018
+1635,2018-11-10,Southampton,1,1,Watford,2018
+1636,2018-11-11,Arsenal,1,1,Wolverhampton Wanderers,2018
+1637,2018-11-11,Chelsea,0,0,Everton,2018
+1638,2018-11-11,Liverpool,2,0,Fulham,2018
+1639,2018-11-11,Manchester City,3,1,Manchester United,2018
+1640,2018-11-24,Brighton & Hove Albion,1,1,Leicester City,2018
+1641,2018-11-24,Everton,1,0,Cardiff City,2018
+1642,2018-11-24,Fulham,3,2,Southampton,2018
+1643,2018-11-24,Manchester United,0,0,Crystal Palace,2018
+1644,2018-11-24,Tottenham Hotspur,3,1,Chelsea,2018
+1645,2018-11-24,Watford,0,3,Liverpool,2018
+1646,2018-11-24,West Ham United,0,4,Manchester City,2018
+1647,2018-11-25,AFC Bournemouth,1,2,Arsenal,2018
+1648,2018-11-25,Wolverhampton Wanderers,0,2,Huddersfield Town,2018
+1649,2018-11-26,Burnley,1,2,Newcastle United,2018
+1650,2018-11-30,Cardiff City,2,1,Wolverhampton Wanderers,2018
+1651,2018-12-01,Crystal Palace,2,0,Burnley,2018
+1652,2018-12-01,Huddersfield Town,1,2,Brighton & Hove Albion,2018
+1653,2018-12-01,Leicester City,2,0,Watford,2018
+1654,2018-12-01,Manchester City,3,1,AFC Bournemouth,2018
+1655,2018-12-01,Newcastle United,0,3,West Ham United,2018
+1656,2018-12-01,Southampton,2,2,Manchester United,2018
+1657,2018-12-02,Arsenal,4,2,Tottenham Hotspur,2018
+1658,2018-12-02,Chelsea,2,0,Fulham,2018
+1659,2018-12-02,Liverpool,1,0,Everton,2018
+1660,2018-12-04,AFC Bournemouth,2,1,Huddersfield Town,2018
+1661,2018-12-04,Brighton & Hove Albion,3,1,Crystal Palace,2018
+1662,2018-12-04,Watford,1,2,Manchester City,2018
+1663,2018-12-04,West Ham United,3,1,Cardiff City,2018
+1664,2018-12-05,Burnley,1,3,Liverpool,2018
+1665,2018-12-05,Everton,1,1,Newcastle United,2018
+1666,2018-12-05,Fulham,1,1,Leicester City,2018
+1667,2018-12-05,Manchester United,2,2,Arsenal,2018
+1668,2018-12-05,Tottenham Hotspur,3,1,Southampton,2018
+1669,2018-12-05,Wolverhampton Wanderers,2,1,Chelsea,2018
+1670,2018-12-08,AFC Bournemouth,0,4,Liverpool,2018
+1671,2018-12-08,Arsenal,1,0,Huddersfield Town,2018
+1672,2018-12-08,Burnley,1,0,Brighton & Hove Albion,2018
+1673,2018-12-08,Cardiff City,1,0,Southampton,2018
+1674,2018-12-08,Chelsea,2,0,Manchester City,2018
+1675,2018-12-08,Leicester City,0,2,Tottenham Hotspur,2018
+1676,2018-12-08,Manchester United,4,1,Fulham,2018
+1677,2018-12-08,West Ham United,3,2,Crystal Palace,2018
+1678,2018-12-09,Newcastle United,1,2,Wolverhampton Wanderers,2018
+1679,2018-12-10,Everton,2,2,Watford,2018
+1680,2018-12-15,Crystal Palace,1,0,Leicester City,2018
+1681,2018-12-15,Fulham,0,2,West Ham United,2018
+1682,2018-12-15,Huddersfield Town,0,1,Newcastle United,2018
+1683,2018-12-15,Manchester City,3,1,Everton,2018
+1684,2018-12-15,Tottenham Hotspur,1,0,Burnley,2018
+1685,2018-12-15,Watford,3,2,Cardiff City,2018
+1686,2018-12-15,Wolverhampton Wanderers,2,0,AFC Bournemouth,2018
+1687,2018-12-16,Brighton & Hove Albion,1,2,Chelsea,2018
+1688,2018-12-16,Liverpool,3,1,Manchester United,2018
+1689,2018-12-16,Southampton,3,2,Arsenal,2018
+1690,2018-12-21,Wolverhampton Wanderers,0,2,Liverpool,2018
+1691,2018-12-22,AFC Bournemouth,2,0,Brighton & Hove Albion,2018
+1692,2018-12-22,Arsenal,3,1,Burnley,2018
+1693,2018-12-22,Cardiff City,1,5,Manchester United,2018
+1694,2018-12-22,Chelsea,0,1,Leicester City,2018
+1695,2018-12-22,Huddersfield Town,1,3,Southampton,2018
+1696,2018-12-22,Manchester City,2,3,Crystal Palace,2018
+1697,2018-12-22,Newcastle United,0,0,Fulham,2018
+1698,2018-12-22,West Ham United,0,2,Watford,2018
+1699,2018-12-23,Everton,2,6,Tottenham Hotspur,2018
+1700,2018-12-26,Brighton & Hove Albion,1,1,Arsenal,2018
+1701,2018-12-26,Burnley,1,5,Everton,2018
+1702,2018-12-26,Crystal Palace,0,0,Cardiff City,2018
+1703,2018-12-26,Fulham,1,1,Wolverhampton Wanderers,2018
+1704,2018-12-26,Leicester City,2,1,Manchester City,2018
+1705,2018-12-26,Liverpool,4,0,Newcastle United,2018
+1706,2018-12-26,Manchester United,3,1,Huddersfield Town,2018
+1707,2018-12-26,Tottenham Hotspur,5,0,AFC Bournemouth,2018
+1708,2018-12-26,Watford,1,2,Chelsea,2018
+1709,2018-12-27,Southampton,1,2,West Ham United,2018
+1710,2018-12-29,Brighton & Hove Albion,1,0,Everton,2018
+1711,2018-12-29,Fulham,1,0,Huddersfield Town,2018
+1712,2018-12-29,Leicester City,0,1,Cardiff City,2018
+1713,2018-12-29,Liverpool,5,1,Arsenal,2018
+1714,2018-12-29,Tottenham Hotspur,1,3,Wolverhampton Wanderers,2018
+1715,2018-12-29,Watford,1,1,Newcastle United,2018
+1716,2018-12-30,Burnley,2,0,West Ham United,2018
+1717,2018-12-30,Crystal Palace,0,1,Chelsea,2018
+1718,2018-12-30,Manchester United,4,1,AFC Bournemouth,2018
+1719,2018-12-30,Southampton,1,3,Manchester City,2018
+1720,2019-01-01,Arsenal,4,1,Fulham,2018
+1721,2019-01-01,Cardiff City,0,3,Tottenham Hotspur,2018
+1722,2019-01-01,Everton,0,1,Leicester City,2018
+1723,2019-01-02,AFC Bournemouth,3,3,Watford,2018
+1724,2019-01-02,Chelsea,0,0,Southampton,2018
+1725,2019-01-02,Huddersfield Town,1,2,Burnley,2018
+1726,2019-01-02,Newcastle United,0,2,Manchester United,2018
+1727,2019-01-02,West Ham United,2,2,Brighton & Hove Albion,2018
+1728,2019-01-02,Wolverhampton Wanderers,0,2,Crystal Palace,2018
+1729,2019-01-03,Manchester City,2,1,Liverpool,2018
+1730,2019-01-12,Brighton & Hove Albion,0,1,Liverpool,2018
+1731,2019-01-12,Burnley,2,1,Fulham,2018
+1732,2019-01-12,Cardiff City,0,0,Huddersfield Town,2018
+1733,2019-01-12,Chelsea,2,1,Newcastle United,2018
+1734,2019-01-12,Crystal Palace,1,2,Watford,2018
+1735,2019-01-12,Leicester City,1,2,Southampton,2018
+1736,2019-01-12,West Ham United,1,0,Arsenal,2018
+1737,2019-01-13,Everton,2,0,AFC Bournemouth,2018
+1738,2019-01-13,Tottenham Hotspur,0,1,Manchester United,2018
+1739,2019-01-14,Manchester City,3,0,Wolverhampton Wanderers,2018
+1740,2019-01-19,AFC Bournemouth,2,0,West Ham United,2018
+1741,2019-01-19,Arsenal,2,0,Chelsea,2018
+1742,2019-01-19,Liverpool,4,3,Crystal Palace,2018
+1743,2019-01-19,Manchester United,2,1,Brighton & Hove Albion,2018
+1744,2019-01-19,Newcastle United,3,0,Cardiff City,2018
+1745,2019-01-19,Southampton,2,1,Everton,2018
+1746,2019-01-19,Watford,0,0,Burnley,2018
+1747,2019-01-19,Wolverhampton Wanderers,4,3,Leicester City,2018
+1748,2019-01-20,Fulham,1,2,Tottenham Hotspur,2018
+1749,2019-01-20,Huddersfield Town,0,3,Manchester City,2018
+1750,2019-01-29,Arsenal,2,1,Cardiff City,2018
+1751,2019-01-29,Fulham,4,2,Brighton & Hove Albion,2018
+1752,2019-01-29,Huddersfield Town,0,1,Everton,2018
+1753,2019-01-29,Manchester United,2,2,Burnley,2018
+1754,2019-01-29,Newcastle United,2,1,Manchester City,2018
+1755,2019-01-29,Wolverhampton Wanderers,3,0,West Ham United,2018
+1756,2019-01-30,AFC Bournemouth,4,0,Chelsea,2018
+1757,2019-01-30,Liverpool,1,1,Leicester City,2018
+1758,2019-01-30,Southampton,1,1,Crystal Palace,2018
+1759,2019-01-30,Tottenham Hotspur,2,1,Watford,2018
+1760,2019-02-02,Brighton & Hove Albion,0,0,Watford,2018
+1761,2019-02-02,Burnley,1,1,Southampton,2018
+1762,2019-02-02,Cardiff City,2,0,AFC Bournemouth,2018
+1763,2019-02-02,Chelsea,5,0,Huddersfield Town,2018
+1764,2019-02-02,Crystal Palace,2,0,Fulham,2018
+1765,2019-02-02,Everton,1,3,Wolverhampton Wanderers,2018
+1766,2019-02-02,Tottenham Hotspur,1,0,Newcastle United,2018
+1767,2019-02-03,Leicester City,0,1,Manchester United,2018
+1768,2019-02-03,Manchester City,3,1,Arsenal,2018
+1769,2019-02-04,West Ham United,1,1,Liverpool,2018
+1770,2019-02-06,Everton,0,2,Manchester City,2018
+1771,2019-02-09,Brighton & Hove Albion,1,3,Burnley,2018
+1772,2019-02-09,Crystal Palace,1,1,West Ham United,2018
+1773,2019-02-09,Fulham,0,3,Manchester United,2018
+1774,2019-02-09,Huddersfield Town,1,2,Arsenal,2018
+1775,2019-02-09,Liverpool,3,0,AFC Bournemouth,2018
+1776,2019-02-09,Southampton,1,2,Cardiff City,2018
+1777,2019-02-09,Watford,1,0,Everton,2018
+1778,2019-02-10,Manchester City,6,0,Chelsea,2018
+1779,2019-02-10,Tottenham Hotspur,3,1,Leicester City,2018
+1780,2019-02-11,Wolverhampton Wanderers,1,1,Newcastle United,2018
+1781,2019-02-22,Cardiff City,1,5,Watford,2018
+1782,2019-02-22,West Ham United,3,1,Fulham,2018
+1783,2019-02-23,AFC Bournemouth,1,1,Wolverhampton Wanderers,2018
+1784,2019-02-23,Burnley,2,1,Tottenham Hotspur,2018
+1785,2019-02-23,Leicester City,1,4,Crystal Palace,2018
+1786,2019-02-23,Newcastle United,2,0,Huddersfield Town,2018
+1787,2019-02-24,Arsenal,2,0,Southampton,2018
+1788,2019-02-24,Manchester United,0,0,Liverpool,2018
+1789,2019-02-26,Cardiff City,0,3,Everton,2018
+1790,2019-02-26,Huddersfield Town,1,0,Wolverhampton Wanderers,2018
+1791,2019-02-26,Leicester City,2,1,Brighton & Hove Albion,2018
+1792,2019-02-26,Newcastle United,2,0,Burnley,2018
+1793,2019-02-27,Arsenal,5,1,AFC Bournemouth,2018
+1794,2019-02-27,Chelsea,2,0,Tottenham Hotspur,2018
+1795,2019-02-27,Crystal Palace,1,3,Manchester United,2018
+1796,2019-02-27,Liverpool,5,0,Watford,2018
+1797,2019-02-27,Manchester City,1,0,West Ham United,2018
+1798,2019-02-27,Southampton,2,0,Fulham,2018
+1799,2019-03-02,AFC Bournemouth,0,1,Manchester City,2018
+1800,2019-03-02,Brighton & Hove Albion,1,0,Huddersfield Town,2018
+1801,2019-03-02,Burnley,1,3,Crystal Palace,2018
+1802,2019-03-02,Manchester United,3,2,Southampton,2018
+1803,2019-03-02,Tottenham Hotspur,1,1,Arsenal,2018
+1804,2019-03-02,West Ham United,2,0,Newcastle United,2018
+1805,2019-03-02,Wolverhampton Wanderers,2,0,Cardiff City,2018
+1806,2019-03-03,Everton,0,0,Liverpool,2018
+1807,2019-03-03,Fulham,1,2,Chelsea,2018
+1808,2019-03-03,Watford,2,1,Leicester City,2018
+1809,2019-03-09,Cardiff City,2,0,West Ham United,2018
+1810,2019-03-09,Crystal Palace,1,2,Brighton & Hove Albion,2018
+1811,2019-03-09,Huddersfield Town,0,2,AFC Bournemouth,2018
+1812,2019-03-09,Leicester City,3,1,Fulham,2018
+1813,2019-03-09,Manchester City,3,1,Watford,2018
+1814,2019-03-09,Newcastle United,3,2,Everton,2018
+1815,2019-03-09,Southampton,2,1,Tottenham Hotspur,2018
+1816,2019-03-10,Arsenal,2,0,Manchester United,2018
+1817,2019-03-10,Chelsea,1,1,Wolverhampton Wanderers,2018
+1818,2019-03-10,Liverpool,4,2,Burnley,2018
+1819,2019-03-16,AFC Bournemouth,2,2,Newcastle United,2018
+1820,2019-03-16,Burnley,1,2,Leicester City,2018
+1821,2019-03-16,West Ham United,4,3,Huddersfield Town,2018
+1822,2019-03-17,Everton,2,0,Chelsea,2018
+1823,2019-03-17,Fulham,1,2,Liverpool,2018
+1824,2019-03-30,Brighton & Hove Albion,0,1,Southampton,2018
+1825,2019-03-30,Burnley,2,0,Wolverhampton Wanderers,2018
+1826,2019-03-30,Crystal Palace,2,0,Huddersfield Town,2018
+1827,2019-03-30,Fulham,0,2,Manchester City,2018
+1828,2019-03-30,Leicester City,2,0,AFC Bournemouth,2018
+1829,2019-03-30,Manchester United,2,1,Watford,2018
+1830,2019-03-30,West Ham United,0,2,Everton,2018
+1831,2019-03-31,Cardiff City,1,2,Chelsea,2018
+1832,2019-03-31,Liverpool,2,1,Tottenham Hotspur,2018
+1833,2019-04-01,Arsenal,2,0,Newcastle United,2018
+1834,2019-04-02,Watford,4,1,Fulham,2018
+1835,2019-04-02,Wolverhampton Wanderers,2,1,Manchester United,2018
+1836,2019-04-03,Chelsea,3,0,Brighton & Hove Albion,2018
+1837,2019-04-03,Manchester City,2,0,Cardiff City,2018
+1838,2019-04-03,Tottenham Hotspur,2,0,Crystal Palace,2018
+1839,2019-04-05,Southampton,1,3,Liverpool,2018
+1840,2019-04-06,AFC Bournemouth,1,3,Burnley,2018
+1841,2019-04-06,Huddersfield Town,1,4,Leicester City,2018
+1842,2019-04-06,Newcastle United,0,1,Crystal Palace,2018
+1843,2019-04-07,Everton,1,0,Arsenal,2018
+1844,2019-04-08,Chelsea,2,0,West Ham United,2018
+1845,2019-04-12,Leicester City,0,1,Newcastle United,2018
+1846,2019-04-13,Brighton & Hove Albion,0,5,AFC Bournemouth,2018
+1847,2019-04-13,Burnley,2,0,Cardiff City,2018
+1848,2019-04-13,Fulham,2,0,Everton,2018
+1849,2019-04-13,Manchester United,2,1,West Ham United,2018
+1850,2019-04-13,Southampton,3,1,Wolverhampton Wanderers,2018
+1851,2019-04-13,Tottenham Hotspur,4,0,Huddersfield Town,2018
+1852,2019-04-14,Crystal Palace,1,3,Manchester City,2018
+1853,2019-04-14,Liverpool,2,0,Chelsea,2018
+1854,2019-04-15,Watford,0,1,Arsenal,2018
+1855,2019-04-16,Brighton & Hove Albion,0,2,Cardiff City,2018
+1856,2019-04-20,AFC Bournemouth,0,1,Fulham,2018
+1857,2019-04-20,Huddersfield Town,1,2,Watford,2018
+1858,2019-04-20,Manchester City,1,0,Tottenham Hotspur,2018
+1859,2019-04-20,Newcastle United,3,1,Southampton,2018
+1860,2019-04-20,West Ham United,2,2,Leicester City,2018
+1861,2019-04-20,Wolverhampton Wanderers,0,0,Brighton & Hove Albion,2018
+1862,2019-04-21,Arsenal,2,3,Crystal Palace,2018
+1863,2019-04-21,Cardiff City,0,2,Liverpool,2018
+1864,2019-04-21,Everton,4,0,Manchester United,2018
+1865,2019-04-22,Chelsea,2,2,Burnley,2018
+1866,2019-04-23,Tottenham Hotspur,1,0,Brighton & Hove Albion,2018
+1867,2019-04-23,Watford,1,1,Southampton,2018
+1868,2019-04-24,Manchester United,0,2,Manchester City,2018
+1869,2019-04-24,Wolverhampton Wanderers,3,1,Arsenal,2018
+1870,2019-04-26,Liverpool,5,0,Huddersfield Town,2018
+1871,2019-04-27,Brighton & Hove Albion,1,1,Newcastle United,2018
+1872,2019-04-27,Crystal Palace,0,0,Everton,2018
+1873,2019-04-27,Fulham,1,0,Cardiff City,2018
+1874,2019-04-27,Southampton,3,3,AFC Bournemouth,2018
+1875,2019-04-27,Tottenham Hotspur,0,1,West Ham United,2018
+1876,2019-04-27,Watford,1,2,Wolverhampton Wanderers,2018
+1877,2019-04-28,Burnley,0,1,Manchester City,2018
+1878,2019-04-28,Leicester City,3,0,Arsenal,2018
+1879,2019-04-28,Manchester United,1,1,Chelsea,2018
+1880,2019-05-03,Everton,2,0,Burnley,2018
+1881,2019-05-04,AFC Bournemouth,1,0,Tottenham Hotspur,2018
+1882,2019-05-04,Cardiff City,2,3,Crystal Palace,2018
+1883,2019-05-04,Newcastle United,2,3,Liverpool,2018
+1884,2019-05-04,West Ham United,3,0,Southampton,2018
+1885,2019-05-04,Wolverhampton Wanderers,1,0,Fulham,2018
+1886,2019-05-05,Arsenal,1,1,Brighton & Hove Albion,2018
+1887,2019-05-05,Chelsea,3,0,Watford,2018
+1888,2019-05-05,Huddersfield Town,1,1,Manchester United,2018
+1889,2019-05-06,Manchester City,1,0,Leicester City,2018
+1890,2019-05-12,Brighton & Hove Albion,1,4,Manchester City,2018
+1891,2019-05-12,Burnley,1,3,Arsenal,2018
+1892,2019-05-12,Crystal Palace,5,3,AFC Bournemouth,2018
+1893,2019-05-12,Fulham,0,4,Newcastle United,2018
+1894,2019-05-12,Leicester City,0,0,Chelsea,2018
+1895,2019-05-12,Liverpool,2,0,Wolverhampton Wanderers,2018
+1896,2019-05-12,Manchester United,0,2,Cardiff City,2018
+1897,2019-05-12,Southampton,1,1,Huddersfield Town,2018
+1898,2019-05-12,Tottenham Hotspur,2,2,Everton,2018
+1899,2019-05-12,Watford,1,4,West Ham United,2018
+1900,2010-08-14,Aston Villa,3,0,West Ham United,2020
+1901,2010-08-14,Blackburn Rovers,1,0,Everton,2020
+1902,2010-08-14,Bolton Wanderers,0,0,Fulham,2020
+1903,2010-08-14,Chelsea,6,0,West Bromwich Albion,2020
+1904,2010-08-14,Sunderland,2,2,Birmingham City,2020
+1905,2010-08-14,Tottenham Hotspur,0,0,Manchester City,2020
+1906,2010-08-14,Wigan Athletic,0,4,Blackpool,2020
+1907,2010-08-14,Wolverhampton Wanderers,2,1,Stoke City,2020
+1908,2010-08-15,Liverpool,1,1,Arsenal,2020
+1909,2010-08-16,Manchester United,3,0,Newcastle United,2020
+1910,2010-08-21,Arsenal,6,0,Blackpool,2020
+1911,2010-08-21,Birmingham City,2,1,Blackburn Rovers,2020
+1912,2010-08-21,Everton,1,1,Wolverhampton Wanderers,2020
+1913,2010-08-21,Stoke City,1,2,Tottenham Hotspur,2020
+1914,2010-08-21,West Bromwich Albion,1,0,Sunderland,2020
+1915,2010-08-21,West Ham United,1,3,Bolton Wanderers,2020
+1916,2010-08-21,Wigan Athletic,0,6,Chelsea,2020
+1917,2010-08-22,Fulham,2,2,Manchester United,2020
+1918,2010-08-22,Newcastle United,6,0,Aston Villa,2020
+1919,2010-08-23,Manchester City,3,0,Liverpool,2020
+1920,2010-08-28,Blackburn Rovers,1,2,Arsenal,2020
+1921,2010-08-28,Blackpool,2,2,Fulham,2020
+1922,2010-08-28,Chelsea,2,0,Stoke City,2020
+1923,2010-08-28,Manchester United,3,0,West Ham United,2020
+1924,2010-08-28,Tottenham Hotspur,0,1,Wigan Athletic,2020
+1925,2010-08-28,Wolverhampton Wanderers,1,1,Newcastle United,2020
+1926,2010-08-29,Aston Villa,1,0,Everton,2020
+1927,2010-08-29,Bolton Wanderers,2,2,Birmingham City,2020
+1928,2010-08-29,Liverpool,1,0,West Bromwich Albion,2020
+1929,2010-08-29,Sunderland,1,0,Manchester City,2020
+1930,2010-09-11,Arsenal,4,1,Bolton Wanderers,2020
+1931,2010-09-11,Everton,3,3,Manchester United,2020
+1932,2010-09-11,Fulham,2,1,Wolverhampton Wanderers,2020
+1933,2010-09-11,Manchester City,1,1,Blackburn Rovers,2020
+1934,2010-09-11,Newcastle United,0,2,Blackpool,2020
+1935,2010-09-11,West Bromwich Albion,1,1,Tottenham Hotspur,2020
+1936,2010-09-11,West Ham United,1,3,Chelsea,2020
+1937,2010-09-11,Wigan Athletic,1,1,Sunderland,2020
+1938,2010-09-12,Birmingham City,0,0,Liverpool,2020
+1939,2010-09-13,Stoke City,2,1,Aston Villa,2020
+1940,2010-09-18,Aston Villa,1,1,Bolton Wanderers,2020
+1941,2010-09-18,Blackburn Rovers,1,1,Fulham,2020
+1942,2010-09-18,Everton,0,1,Newcastle United,2020
+1943,2010-09-18,Stoke City,1,1,West Ham United,2020
+1944,2010-09-18,Sunderland,1,1,Arsenal,2020
+1945,2010-09-18,Tottenham Hotspur,3,1,Wolverhampton Wanderers,2020
+1946,2010-09-18,West Bromwich Albion,3,1,Birmingham City,2020
+1947,2010-09-19,Chelsea,4,0,Blackpool,2020
+1948,2010-09-19,Manchester United,3,2,Liverpool,2020
+1949,2010-09-19,Wigan Athletic,0,2,Manchester City,2020
+1950,2010-09-25,Arsenal,2,3,West Bromwich Albion,2020
+1951,2010-09-25,Birmingham City,0,0,Wigan Athletic,2020
+1952,2010-09-25,Blackpool,1,2,Blackburn Rovers,2020
+1953,2010-09-25,Fulham,0,0,Everton,2020
+1954,2010-09-25,Liverpool,2,2,Sunderland,2020
+1955,2010-09-25,Manchester City,1,0,Chelsea,2020
+1956,2010-09-25,West Ham United,1,0,Tottenham Hotspur,2020
+1957,2010-09-26,Bolton Wanderers,2,2,Manchester United,2020
+1958,2010-09-26,Newcastle United,1,2,Stoke City,2020
+1959,2010-09-26,Wolverhampton Wanderers,1,2,Aston Villa,2020
+1960,2010-10-02,Birmingham City,0,2,Everton,2020
+1961,2010-10-02,Stoke City,1,0,Blackburn Rovers,2020
+1962,2010-10-02,Sunderland,0,0,Manchester United,2020
+1963,2010-10-02,Tottenham Hotspur,2,1,Aston Villa,2020
+1964,2010-10-02,West Bromwich Albion,1,1,Bolton Wanderers,2020
+1965,2010-10-02,West Ham United,1,1,Fulham,2020
+1966,2010-10-02,Wigan Athletic,2,0,Wolverhampton Wanderers,2020
+1967,2010-10-03,Chelsea,2,0,Arsenal,2020
+1968,2010-10-03,Liverpool,1,2,Blackpool,2020
+1969,2010-10-03,Manchester City,2,1,Newcastle United,2020
+1970,2010-10-16,Arsenal,2,1,Birmingham City,2020
+1971,2010-10-16,Aston Villa,0,0,Chelsea,2020
+1972,2010-10-16,Bolton Wanderers,2,1,Stoke City,2020
+1973,2010-10-16,Fulham,1,2,Tottenham Hotspur,2020
+1974,2010-10-16,Manchester United,2,2,West Bromwich Albion,2020
+1975,2010-10-16,Newcastle United,2,2,Wigan Athletic,2020
+1976,2010-10-16,Wolverhampton Wanderers,1,1,West Ham United,2020
+1977,2010-10-17,Blackpool,2,3,Manchester City,2020
+1978,2010-10-17,Everton,2,0,Liverpool,2020
+1979,2010-10-18,Blackburn Rovers,0,0,Sunderland,2020
+1980,2010-10-23,Birmingham City,2,0,Blackpool,2020
+1981,2010-10-23,Chelsea,2,0,Wolverhampton Wanderers,2020
+1982,2010-10-23,Sunderland,1,0,Aston Villa,2020
+1983,2010-10-23,Tottenham Hotspur,1,1,Everton,2020
+1984,2010-10-23,West Bromwich Albion,2,1,Fulham,2020
+1985,2010-10-23,West Ham United,1,2,Newcastle United,2020
+1986,2010-10-23,Wigan Athletic,1,1,Bolton Wanderers,2020
+1987,2010-10-24,Liverpool,2,1,Blackburn Rovers,2020
+1988,2010-10-24,Manchester City,0,3,Arsenal,2020
+1989,2010-10-24,Stoke City,1,2,Manchester United,2020
+1990,2010-10-30,Arsenal,1,0,West Ham United,2020
+1991,2010-10-30,Blackburn Rovers,1,2,Chelsea,2020
+1992,2010-10-30,Everton,1,0,Stoke City,2020
+1993,2010-10-30,Fulham,2,0,Wigan Athletic,2020
+1994,2010-10-30,Manchester United,2,0,Tottenham Hotspur,2020
+1995,2010-10-30,Wolverhampton Wanderers,2,1,Manchester City,2020
+1996,2010-10-31,Aston Villa,0,0,Birmingham City,2020
+1997,2010-10-31,Bolton Wanderers,0,1,Liverpool,2020
+1998,2010-10-31,Newcastle United,5,1,Sunderland,2020
+1999,2010-11-01,Blackpool,2,1,West Bromwich Albion,2020
+2000,2010-11-06,Birmingham City,2,2,West Ham United,2020
+2001,2010-11-06,Blackburn Rovers,2,1,Wigan Athletic,2020
+2002,2010-11-06,Blackpool,2,2,Everton,2020
+2003,2010-11-06,Bolton Wanderers,4,2,Tottenham Hotspur,2020
+2004,2010-11-06,Fulham,1,1,Aston Villa,2020
+2005,2010-11-06,Manchester United,2,1,Wolverhampton Wanderers,2020
+2006,2010-11-06,Sunderland,2,0,Stoke City,2020
+2007,2010-11-07,Arsenal,0,1,Newcastle United,2020
+2008,2010-11-07,Liverpool,2,0,Chelsea,2020
+2009,2010-11-07,West Bromwich Albion,0,2,Manchester City,2020
+2010,2010-11-09,Stoke City,3,2,Birmingham City,2020
+2011,2010-11-09,Tottenham Hotspur,1,1,Sunderland,2020
+2012,2010-11-10,Aston Villa,3,2,Blackpool,2020
+2013,2010-11-10,Chelsea,1,0,Fulham,2020
+2014,2010-11-10,Everton,1,1,Bolton Wanderers,2020
+2015,2010-11-10,Manchester City,0,0,Manchester United,2020
+2016,2010-11-10,Newcastle United,1,2,Blackburn Rovers,2020
+2017,2010-11-10,West Ham United,2,2,West Bromwich Albion,2020
+2018,2010-11-10,Wigan Athletic,1,1,Liverpool,2020
+2019,2010-11-10,Wolverhampton Wanderers,0,2,Arsenal,2020
+2020,2010-11-13,Aston Villa,2,2,Manchester United,2020
+2021,2010-11-13,Manchester City,0,0,Birmingham City,2020
+2022,2010-11-13,Newcastle United,0,0,Fulham,2020
+2023,2010-11-13,Stoke City,2,0,Liverpool,2020
+2024,2010-11-13,Tottenham Hotspur,4,2,Blackburn Rovers,2020
+2025,2010-11-13,West Ham United,0,0,Blackpool,2020
+2026,2010-11-13,Wigan Athletic,1,0,West Bromwich Albion,2020
+2027,2010-11-13,Wolverhampton Wanderers,2,3,Bolton Wanderers,2020
+2028,2010-11-14,Chelsea,0,3,Sunderland,2020
+2029,2010-11-14,Everton,1,2,Arsenal,2020
+2030,2010-11-20,Arsenal,2,3,Tottenham Hotspur,2020
+2031,2010-11-20,Birmingham City,1,0,Chelsea,2020
+2032,2010-11-20,Blackpool,2,1,Wolverhampton Wanderers,2020
+2033,2010-11-20,Bolton Wanderers,5,1,Newcastle United,2020
+2034,2010-11-20,Liverpool,3,0,West Ham United,2020
+2035,2010-11-20,Manchester United,2,0,Wigan Athletic,2020
+2036,2010-11-20,West Bromwich Albion,0,3,Stoke City,2020
+2037,2010-11-21,Blackburn Rovers,2,0,Aston Villa,2020
+2038,2010-11-21,Fulham,1,4,Manchester City,2020
+2039,2010-11-22,Sunderland,2,2,Everton,2020
+2040,2010-11-27,Aston Villa,2,4,Arsenal,2020
+2041,2010-11-27,Bolton Wanderers,2,2,Blackpool,2020
+2042,2010-11-27,Everton,1,4,West Bromwich Albion,2020
+2043,2010-11-27,Fulham,1,1,Birmingham City,2020
+2044,2010-11-27,Manchester United,7,1,Blackburn Rovers,2020
+2045,2010-11-27,Stoke City,1,1,Manchester City,2020
+2046,2010-11-27,West Ham United,3,1,Wigan Athletic,2020
+2047,2010-11-27,Wolverhampton Wanderers,3,2,Sunderland,2020
+2048,2010-11-28,Newcastle United,1,1,Chelsea,2020
+2049,2010-11-28,Tottenham Hotspur,2,1,Liverpool,2020
+2050,2010-12-04,Arsenal,2,1,Fulham,2020
+2051,2010-12-04,Birmingham City,1,1,Tottenham Hotspur,2020
+2052,2010-12-04,Blackburn Rovers,3,0,Wolverhampton Wanderers,2020
+2053,2010-12-04,Chelsea,1,1,Everton,2020
+2054,2010-12-04,Manchester City,1,0,Bolton Wanderers,2020
+2055,2010-12-04,Wigan Athletic,2,2,Stoke City,2020
+2056,2010-12-05,Sunderland,1,0,West Ham United,2020
+2057,2010-12-05,West Bromwich Albion,3,1,Newcastle United,2020
+2058,2010-12-06,Liverpool,3,0,Aston Villa,2020
+2059,2010-12-11,Aston Villa,2,1,West Bromwich Albion,2020
+2060,2010-12-11,Everton,0,0,Wigan Athletic,2020
+2061,2010-12-11,Fulham,0,0,Sunderland,2020
+2062,2010-12-11,Newcastle United,3,1,Liverpool,2020
+2063,2010-12-11,Stoke City,0,1,Blackpool,2020
+2064,2010-12-11,West Ham United,1,3,Manchester City,2020
+2065,2010-12-12,Bolton Wanderers,2,1,Blackburn Rovers,2020
+2066,2010-12-12,Tottenham Hotspur,1,1,Chelsea,2020
+2067,2010-12-12,Wolverhampton Wanderers,1,0,Birmingham City,2020
+2068,2010-12-13,Manchester United,1,0,Arsenal,2020
+2069,2010-12-18,Blackburn Rovers,1,1,West Ham United,2020
+2070,2010-12-18,Sunderland,1,0,Bolton Wanderers,2020
+2071,2010-12-20,Manchester City,1,2,Everton,2020
+2072,2010-12-26,Aston Villa,1,2,Tottenham Hotspur,2020
+2073,2010-12-26,Blackburn Rovers,0,2,Stoke City,2020
+2074,2010-12-26,Bolton Wanderers,2,0,West Bromwich Albion,2020
+2075,2010-12-26,Fulham,1,3,West Ham United,2020
+2076,2010-12-26,Manchester United,2,0,Sunderland,2020
+2077,2010-12-26,Newcastle United,1,3,Manchester City,2020
+2078,2010-12-26,Wolverhampton Wanderers,1,2,Wigan Athletic,2020
+2079,2010-12-27,Arsenal,3,1,Chelsea,2020
+2080,2010-12-28,Birmingham City,1,1,Manchester United,2020
+2081,2010-12-28,Manchester City,4,0,Aston Villa,2020
+2082,2010-12-28,Stoke City,0,2,Fulham,2020
+2083,2010-12-28,Sunderland,0,2,Blackpool,2020
+2084,2010-12-28,Tottenham Hotspur,2,0,Newcastle United,2020
+2085,2010-12-28,West Bromwich Albion,1,3,Blackburn Rovers,2020
+2086,2010-12-28,West Ham United,1,1,Everton,2020
+2087,2010-12-29,Chelsea,1,0,Bolton Wanderers,2020
+2088,2010-12-29,Liverpool,0,1,Wolverhampton Wanderers,2020
+2089,2010-12-29,Wigan Athletic,2,2,Arsenal,2020
+2090,2011-01-01,Birmingham City,0,3,Arsenal,2020
+2091,2011-01-01,Liverpool,2,1,Bolton Wanderers,2020
+2092,2011-01-01,Manchester City,1,0,Blackpool,2020
+2093,2011-01-01,Stoke City,2,0,Everton,2020
+2094,2011-01-01,Sunderland,3,0,Blackburn Rovers,2020
+2095,2011-01-01,Tottenham Hotspur,1,0,Fulham,2020
+2096,2011-01-01,West Bromwich Albion,1,2,Manchester United,2020
+2097,2011-01-01,West Ham United,2,0,Wolverhampton Wanderers,2020
+2098,2011-01-02,Chelsea,3,3,Aston Villa,2020
+2099,2011-01-02,Wigan Athletic,0,1,Newcastle United,2020
+2100,2011-01-04,Blackpool,1,2,Birmingham City,2020
+2101,2011-01-04,Fulham,3,0,West Bromwich Albion,2020
+2102,2011-01-04,Manchester United,2,1,Stoke City,2020
+2103,2011-01-05,Arsenal,0,0,Manchester City,2020
+2104,2011-01-05,Aston Villa,0,1,Sunderland,2020
+2105,2011-01-05,Blackburn Rovers,3,1,Liverpool,2020
+2106,2011-01-05,Bolton Wanderers,1,1,Wigan Athletic,2020
+2107,2011-01-05,Everton,2,1,Tottenham Hotspur,2020
+2108,2011-01-05,Newcastle United,5,0,West Ham United,2020
+2109,2011-01-05,Wolverhampton Wanderers,1,0,Chelsea,2020
+2110,2011-01-12,Blackpool,2,1,Liverpool,2020
+2111,2011-01-15,Chelsea,2,0,Blackburn Rovers,2020
+2112,2011-01-15,Manchester City,4,3,Wolverhampton Wanderers,2020
+2113,2011-01-15,Stoke City,2,0,Bolton Wanderers,2020
+2114,2011-01-15,West Bromwich Albion,3,2,Blackpool,2020
+2115,2011-01-15,West Ham United,0,3,Arsenal,2020
+2116,2011-01-15,Wigan Athletic,1,1,Fulham,2020
+2117,2011-01-16,Birmingham City,1,1,Aston Villa,2020
+2118,2011-01-16,Liverpool,2,2,Everton,2020
+2119,2011-01-16,Sunderland,1,1,Newcastle United,2020
+2120,2011-01-16,Tottenham Hotspur,0,0,Manchester United,2020
+2121,2011-01-22,Arsenal,3,0,Wigan Athletic,2020
+2122,2011-01-22,Aston Villa,1,0,Manchester City,2020
+2123,2011-01-22,Blackpool,1,2,Sunderland,2020
+2124,2011-01-22,Everton,2,2,West Ham United,2020
+2125,2011-01-22,Fulham,2,0,Stoke City,2020
+2126,2011-01-22,Manchester United,5,0,Birmingham City,2020
+2127,2011-01-22,Newcastle United,1,1,Tottenham Hotspur,2020
+2128,2011-01-22,Wolverhampton Wanderers,0,3,Liverpool,2020
+2129,2011-01-23,Blackburn Rovers,2,0,West Bromwich Albion,2020
+2130,2011-01-24,Bolton Wanderers,0,4,Chelsea,2020
+2131,2011-01-25,Blackpool,2,3,Manchester United,2020
+2132,2011-01-25,Wigan Athletic,1,2,Aston Villa,2020
+2133,2011-01-26,Liverpool,1,0,Fulham,2020
+2134,2011-02-01,Arsenal,2,1,Everton,2020
+2135,2011-02-01,Manchester United,3,1,Aston Villa,2020
+2136,2011-02-01,Sunderland,2,4,Chelsea,2020
+2137,2011-02-01,West Bromwich Albion,2,2,Wigan Athletic,2020
+2138,2011-02-02,Birmingham City,2,2,Manchester City,2020
+2139,2011-02-02,Blackburn Rovers,0,1,Tottenham Hotspur,2020
+2140,2011-02-02,Blackpool,1,3,West Ham United,2020
+2141,2011-02-02,Bolton Wanderers,1,0,Wolverhampton Wanderers,2020
+2142,2011-02-02,Fulham,1,0,Newcastle United,2020
+2143,2011-02-02,Liverpool,2,0,Stoke City,2020
+2144,2011-02-05,Aston Villa,2,2,Fulham,2020
+2145,2011-02-05,Everton,5,3,Blackpool,2020
+2146,2011-02-05,Manchester City,3,0,West Bromwich Albion,2020
+2147,2011-02-05,Newcastle United,4,4,Arsenal,2020
+2148,2011-02-05,Stoke City,3,2,Sunderland,2020
+2149,2011-02-05,Tottenham Hotspur,2,1,Bolton Wanderers,2020
+2150,2011-02-05,Wigan Athletic,4,3,Blackburn Rovers,2020
+2151,2011-02-05,Wolverhampton Wanderers,2,1,Manchester United,2020
+2152,2011-02-06,Chelsea,0,1,Liverpool,2020
+2153,2011-02-06,West Ham United,0,1,Birmingham City,2020
+2154,2011-02-12,Arsenal,2,0,Wolverhampton Wanderers,2020
+2155,2011-02-12,Birmingham City,1,0,Stoke City,2020
+2156,2011-02-12,Blackburn Rovers,0,0,Newcastle United,2020
+2157,2011-02-12,Blackpool,1,1,Aston Villa,2020
+2158,2011-02-12,Liverpool,1,1,Wigan Athletic,2020
+2159,2011-02-12,Manchester United,2,1,Manchester City,2020
+2160,2011-02-12,Sunderland,1,2,Tottenham Hotspur,2020
+2161,2011-02-12,West Bromwich Albion,3,3,West Ham United,2020
+2162,2011-02-13,Bolton Wanderers,2,0,Everton,2020
+2163,2011-02-14,Fulham,0,0,Chelsea,2020
+2164,2011-02-15,Birmingham City,0,2,Newcastle United,2020
+2165,2011-02-20,West Bromwich Albion,1,1,Wolverhampton Wanderers,2020
+2166,2011-02-22,Blackpool,3,1,Tottenham Hotspur,2020
+2167,2011-02-23,Arsenal,1,0,Stoke City,2020
+2168,2011-02-26,Aston Villa,4,1,Blackburn Rovers,2020
+2169,2011-02-26,Everton,2,0,Sunderland,2020
+2170,2011-02-26,Newcastle United,1,1,Bolton Wanderers,2020
+2171,2011-02-26,Wigan Athletic,0,4,Manchester United,2020
+2172,2011-02-26,Wolverhampton Wanderers,4,0,Blackpool,2020
+2173,2011-02-27,Manchester City,1,1,Fulham,2020
+2174,2011-02-27,West Ham United,3,1,Liverpool,2020
+2175,2011-02-28,Stoke City,1,1,West Bromwich Albion,2020
+2176,2011-03-01,Chelsea,2,1,Manchester United,2020
+2177,2011-03-05,Arsenal,0,0,Sunderland,2020
+2178,2011-03-05,Birmingham City,1,3,West Bromwich Albion,2020
+2179,2011-03-05,Bolton Wanderers,3,2,Aston Villa,2020
+2180,2011-03-05,Fulham,3,2,Blackburn Rovers,2020
+2181,2011-03-05,Manchester City,1,0,Wigan Athletic,2020
+2182,2011-03-05,Newcastle United,1,2,Everton,2020
+2183,2011-03-05,West Ham United,3,0,Stoke City,2020
+2184,2011-03-06,Liverpool,3,1,Manchester United,2020
+2185,2011-03-06,Wolverhampton Wanderers,3,3,Tottenham Hotspur,2020
+2186,2011-03-07,Blackpool,1,3,Chelsea,2020
+2187,2011-03-09,Everton,1,1,Birmingham City,2020
+2188,2011-03-19,Aston Villa,0,1,Wolverhampton Wanderers,2020
+2189,2011-03-19,Blackburn Rovers,2,2,Blackpool,2020
+2190,2011-03-19,Everton,2,1,Fulham,2020
+2191,2011-03-19,Manchester United,1,0,Bolton Wanderers,2020
+2192,2011-03-19,Stoke City,4,0,Newcastle United,2020
+2193,2011-03-19,Tottenham Hotspur,0,0,West Ham United,2020
+2194,2011-03-19,West Bromwich Albion,2,2,Arsenal,2020
+2195,2011-03-19,Wigan Athletic,2,1,Birmingham City,2020
+2196,2011-03-20,Chelsea,2,0,Manchester City,2020
+2197,2011-03-20,Sunderland,0,2,Liverpool,2020
+2198,2011-04-02,Arsenal,0,0,Blackburn Rovers,2020
+2199,2011-04-02,Birmingham City,2,1,Bolton Wanderers,2020
+2200,2011-04-02,Everton,2,2,Aston Villa,2020
+2201,2011-04-02,Newcastle United,4,1,Wolverhampton Wanderers,2020
+2202,2011-04-02,Stoke City,1,1,Chelsea,2020
+2203,2011-04-02,West Bromwich Albion,2,1,Liverpool,2020
+2204,2011-04-02,West Ham United,2,4,Manchester United,2020
+2205,2011-04-02,Wigan Athletic,0,0,Tottenham Hotspur,2020
+2206,2011-04-03,Fulham,3,0,Blackpool,2020
+2207,2011-04-03,Manchester City,5,0,Sunderland,2020
+2208,2011-04-09,Blackburn Rovers,1,1,Birmingham City,2020
+2209,2011-04-09,Bolton Wanderers,3,0,West Ham United,2020
+2210,2011-04-09,Chelsea,1,0,Wigan Athletic,2020
+2211,2011-04-09,Manchester United,2,0,Fulham,2020
+2212,2011-04-09,Sunderland,2,3,West Bromwich Albion,2020
+2213,2011-04-09,Tottenham Hotspur,3,2,Stoke City,2020
+2214,2011-04-09,Wolverhampton Wanderers,0,3,Everton,2020
+2215,2011-04-10,Aston Villa,1,0,Newcastle United,2020
+2216,2011-04-10,Blackpool,1,3,Arsenal,2020
+2217,2011-04-11,Liverpool,3,0,Manchester City,2020
+2218,2011-04-16,Birmingham City,2,0,Sunderland,2020
+2219,2011-04-16,Blackpool,1,3,Wigan Athletic,2020
+2220,2011-04-16,Everton,2,0,Blackburn Rovers,2020
+2221,2011-04-16,West Bromwich Albion,1,3,Chelsea,2020
+2222,2011-04-16,West Ham United,1,2,Aston Villa,2020
+2223,2011-04-17,Arsenal,1,1,Liverpool,2020
+2224,2011-04-19,Newcastle United,0,0,Manchester United,2020
+2225,2011-04-20,Chelsea,3,1,Birmingham City,2020
+2226,2011-04-20,Tottenham Hotspur,3,3,Arsenal,2020
+2227,2011-04-23,Aston Villa,1,1,Stoke City,2020
+2228,2011-04-23,Blackpool,1,1,Newcastle United,2020
+2229,2011-04-23,Chelsea,3,0,West Ham United,2020
+2230,2011-04-23,Liverpool,5,0,Birmingham City,2020
+2231,2011-04-23,Manchester United,1,0,Everton,2020
+2232,2011-04-23,Sunderland,4,2,Wigan Athletic,2020
+2233,2011-04-23,Tottenham Hotspur,2,2,West Bromwich Albion,2020
+2234,2011-04-23,Wolverhampton Wanderers,1,1,Fulham,2020
+2235,2011-04-24,Bolton Wanderers,2,1,Arsenal,2020
+2236,2011-04-25,Blackburn Rovers,0,1,Manchester City,2020
+2237,2011-04-26,Stoke City,3,0,Wolverhampton Wanderers,2020
+2238,2011-04-27,Fulham,3,0,Bolton Wanderers,2020
+2239,2011-04-30,Blackburn Rovers,1,0,Bolton Wanderers,2020
+2240,2011-04-30,Blackpool,0,0,Stoke City,2020
+2241,2011-04-30,Chelsea,2,1,Tottenham Hotspur,2020
+2242,2011-04-30,Sunderland,0,3,Fulham,2020
+2243,2011-04-30,West Bromwich Albion,2,1,Aston Villa,2020
+2244,2011-04-30,Wigan Athletic,1,1,Everton,2020
+2245,2011-05-01,Arsenal,1,0,Manchester United,2020
+2246,2011-05-01,Birmingham City,1,1,Wolverhampton Wanderers,2020
+2247,2011-05-01,Liverpool,3,0,Newcastle United,2020
+2248,2011-05-01,Manchester City,2,1,West Ham United,2020
+2249,2011-05-07,Aston Villa,1,1,Wigan Athletic,2020
+2250,2011-05-07,Bolton Wanderers,1,2,Sunderland,2020
+2251,2011-05-07,Everton,2,1,Manchester City,2020
+2252,2011-05-07,Newcastle United,2,1,Birmingham City,2020
+2253,2011-05-07,Tottenham Hotspur,1,1,Blackpool,2020
+2254,2011-05-07,West Ham United,1,1,Blackburn Rovers,2020
+2255,2011-05-08,Manchester United,2,1,Chelsea,2020
+2256,2011-05-08,Stoke City,3,1,Arsenal,2020
+2257,2011-05-08,Wolverhampton Wanderers,3,1,West Bromwich Albion,2020
+2258,2011-05-09,Fulham,2,5,Liverpool,2020
+2259,2011-05-10,Manchester City,1,0,Tottenham Hotspur,2020
+2260,2011-05-14,Blackburn Rovers,1,1,Manchester United,2020
+2261,2011-05-14,Blackpool,4,3,Bolton Wanderers,2020
+2262,2011-05-14,Sunderland,1,3,Wolverhampton Wanderers,2020
+2263,2011-05-14,West Bromwich Albion,1,0,Everton,2020
+2264,2011-05-15,Arsenal,1,2,Aston Villa,2020
+2265,2011-05-15,Birmingham City,0,2,Fulham,2020
+2266,2011-05-15,Chelsea,2,2,Newcastle United,2020
+2267,2011-05-15,Liverpool,0,2,Tottenham Hotspur,2020
+2268,2011-05-15,Wigan Athletic,3,2,West Ham United,2020
+2269,2011-05-17,Manchester City,3,0,Stoke City,2020
+2270,2011-05-22,Aston Villa,1,0,Liverpool,2020
+2271,2011-05-22,Bolton Wanderers,0,2,Manchester City,2020
+2272,2011-05-22,Everton,1,0,Chelsea,2020
+2273,2011-05-22,Fulham,2,2,Arsenal,2020
+2274,2011-05-22,Manchester United,4,2,Blackpool,2020
+2275,2011-05-22,Newcastle United,3,3,West Bromwich Albion,2020
+2276,2011-05-22,Stoke City,0,1,Wigan Athletic,2020
+2277,2011-05-22,Tottenham Hotspur,2,1,Birmingham City,2020
+2278,2011-05-22,West Ham United,0,3,Sunderland,2020
+2279,2011-05-22,Wolverhampton Wanderers,2,3,Blackburn Rovers,2020
+2280,2011-08-13,Blackburn Rovers,1,2,Wolverhampton Wanderers,2021
+2281,2011-08-13,Fulham,0,0,Aston Villa,2021
+2282,2011-08-13,Liverpool,1,1,Sunderland,2021
+2283,2011-08-13,Newcastle United,0,0,Arsenal,2021
+2284,2011-08-13,Queens Park Rangers,0,4,Bolton Wanderers,2021
+2285,2011-08-13,Wigan Athletic,1,1,Norwich City,2021
+2286,2011-08-14,Stoke City,0,0,Chelsea,2021
+2287,2011-08-14,West Bromwich Albion,1,2,Manchester United,2021
+2288,2011-08-15,Manchester City,4,0,Swansea City,2021
+2289,2011-08-20,Arsenal,0,2,Liverpool,2021
+2290,2011-08-20,Aston Villa,3,1,Blackburn Rovers,2021
+2291,2011-08-20,Chelsea,2,1,West Bromwich Albion,2021
+2292,2011-08-20,Everton,0,1,Queens Park Rangers,2021
+2293,2011-08-20,Sunderland,0,1,Newcastle United,2021
+2294,2011-08-20,Swansea City,0,0,Wigan Athletic,2021
+2295,2011-08-21,Bolton Wanderers,2,3,Manchester City,2021
+2296,2011-08-21,Norwich City,1,1,Stoke City,2021
+2297,2011-08-21,Wolverhampton Wanderers,2,0,Fulham,2021
+2298,2011-08-22,Manchester United,3,0,Tottenham Hotspur,2021
+2299,2011-08-27,Aston Villa,0,0,Wolverhampton Wanderers,2021
+2300,2011-08-27,Blackburn Rovers,0,1,Everton,2021
+2301,2011-08-27,Chelsea,3,1,Norwich City,2021
+2302,2011-08-27,Liverpool,3,1,Bolton Wanderers,2021
+2303,2011-08-27,Swansea City,0,0,Sunderland,2021
+2304,2011-08-27,Wigan Athletic,2,0,Queens Park Rangers,2021
+2305,2011-08-28,Manchester United,8,2,Arsenal,2021
+2306,2011-08-28,Newcastle United,2,1,Fulham,2021
+2307,2011-08-28,Tottenham Hotspur,1,5,Manchester City,2021
+2308,2011-08-28,West Bromwich Albion,0,1,Stoke City,2021
+2309,2011-09-10,Arsenal,1,0,Swansea City,2021
+2310,2011-09-10,Bolton Wanderers,0,5,Manchester United,2021
+2311,2011-09-10,Everton,2,2,Aston Villa,2021
+2312,2011-09-10,Manchester City,3,0,Wigan Athletic,2021
+2313,2011-09-10,Stoke City,1,0,Liverpool,2021
+2314,2011-09-10,Sunderland,1,2,Chelsea,2021
+2315,2011-09-10,Wolverhampton Wanderers,0,2,Tottenham Hotspur,2021
+2316,2011-09-11,Fulham,1,1,Blackburn Rovers,2021
+2317,2011-09-11,Norwich City,0,1,West Bromwich Albion,2021
+2318,2011-09-12,Queens Park Rangers,0,0,Newcastle United,2021
+2319,2011-09-17,Aston Villa,1,1,Newcastle United,2021
+2320,2011-09-17,Blackburn Rovers,4,3,Arsenal,2021
+2321,2011-09-17,Bolton Wanderers,1,2,Norwich City,2021
+2322,2011-09-17,Everton,3,1,Wigan Athletic,2021
+2323,2011-09-17,Swansea City,3,0,West Bromwich Albion,2021
+2324,2011-09-17,Wolverhampton Wanderers,0,3,Queens Park Rangers,2021
+2325,2011-09-18,Fulham,2,2,Manchester City,2021
+2326,2011-09-18,Manchester United,3,1,Chelsea,2021
+2327,2011-09-18,Sunderland,4,0,Stoke City,2021
+2328,2011-09-18,Tottenham Hotspur,4,0,Liverpool,2021
+2329,2011-09-24,Arsenal,3,0,Bolton Wanderers,2021
+2330,2011-09-24,Chelsea,4,1,Swansea City,2021
+2331,2011-09-24,Liverpool,2,1,Wolverhampton Wanderers,2021
+2332,2011-09-24,Manchester City,2,0,Everton,2021
+2333,2011-09-24,Newcastle United,3,1,Blackburn Rovers,2021
+2334,2011-09-24,Stoke City,1,1,Manchester United,2021
+2335,2011-09-24,West Bromwich Albion,0,0,Fulham,2021
+2336,2011-09-24,Wigan Athletic,1,2,Tottenham Hotspur,2021
+2337,2011-09-25,Queens Park Rangers,1,1,Aston Villa,2021
+2338,2011-09-26,Norwich City,2,1,Sunderland,2021
+2339,2011-10-01,Aston Villa,2,0,Wigan Athletic,2021
+2340,2011-10-01,Blackburn Rovers,0,4,Manchester City,2021
+2341,2011-10-01,Everton,0,2,Liverpool,2021
+2342,2011-10-01,Manchester United,2,0,Norwich City,2021
+2343,2011-10-01,Sunderland,2,2,West Bromwich Albion,2021
+2344,2011-10-01,Wolverhampton Wanderers,1,2,Newcastle United,2021
+2345,2011-10-02,Bolton Wanderers,1,5,Chelsea,2021
+2346,2011-10-02,Fulham,6,0,Queens Park Rangers,2021
+2347,2011-10-02,Swansea City,2,0,Stoke City,2021
+2348,2011-10-02,Tottenham Hotspur,2,1,Arsenal,2021
+2349,2011-10-15,Chelsea,3,1,Everton,2021
+2350,2011-10-15,Liverpool,1,1,Manchester United,2021
+2351,2011-10-15,Manchester City,4,1,Aston Villa,2021
+2352,2011-10-15,Norwich City,3,1,Swansea City,2021
+2353,2011-10-15,Queens Park Rangers,1,1,Blackburn Rovers,2021
+2354,2011-10-15,Stoke City,2,0,Fulham,2021
+2355,2011-10-15,Wigan Athletic,1,3,Bolton Wanderers,2021
+2356,2011-10-16,Arsenal,2,1,Sunderland,2021
+2357,2011-10-16,Newcastle United,2,2,Tottenham Hotspur,2021
+2358,2011-10-16,West Bromwich Albion,2,0,Wolverhampton Wanderers,2021
+2359,2011-10-22,Aston Villa,1,2,West Bromwich Albion,2021
+2360,2011-10-22,Bolton Wanderers,0,2,Sunderland,2021
+2361,2011-10-22,Liverpool,1,1,Norwich City,2021
+2362,2011-10-22,Newcastle United,1,0,Wigan Athletic,2021
+2363,2011-10-22,Wolverhampton Wanderers,2,2,Swansea City,2021
+2364,2011-10-23,Arsenal,3,1,Stoke City,2021
+2365,2011-10-23,Blackburn Rovers,1,2,Tottenham Hotspur,2021
+2366,2011-10-23,Fulham,1,3,Everton,2021
+2367,2011-10-23,Manchester United,1,6,Manchester City,2021
+2368,2011-10-23,Queens Park Rangers,1,0,Chelsea,2021
+2369,2011-10-29,Chelsea,3,5,Arsenal,2021
+2370,2011-10-29,Everton,0,1,Manchester United,2021
+2371,2011-10-29,Manchester City,3,1,Wolverhampton Wanderers,2021
+2372,2011-10-29,Norwich City,3,3,Blackburn Rovers,2021
+2373,2011-10-29,Sunderland,2,2,Aston Villa,2021
+2374,2011-10-29,Swansea City,3,1,Bolton Wanderers,2021
+2375,2011-10-29,West Bromwich Albion,0,2,Liverpool,2021
+2376,2011-10-29,Wigan Athletic,0,2,Fulham,2021
+2377,2011-10-30,Tottenham Hotspur,3,1,Queens Park Rangers,2021
+2378,2011-10-31,Stoke City,1,3,Newcastle United,2021
+2379,2011-11-05,Arsenal,3,0,West Bromwich Albion,2021
+2380,2011-11-05,Aston Villa,3,2,Norwich City,2021
+2381,2011-11-05,Blackburn Rovers,0,1,Chelsea,2021
+2382,2011-11-05,Liverpool,0,0,Swansea City,2021
+2383,2011-11-05,Manchester United,1,0,Sunderland,2021
+2384,2011-11-05,Newcastle United,2,1,Everton,2021
+2385,2011-11-05,Queens Park Rangers,2,3,Manchester City,2021
+2386,2011-11-06,Bolton Wanderers,5,0,Stoke City,2021
+2387,2011-11-06,Fulham,1,3,Tottenham Hotspur,2021
+2388,2011-11-06,Wolverhampton Wanderers,3,1,Wigan Athletic,2021
+2389,2011-11-19,Everton,2,1,Wolverhampton Wanderers,2021
+2390,2011-11-19,Manchester City,3,1,Newcastle United,2021
+2391,2011-11-19,Norwich City,1,2,Arsenal,2021
+2392,2011-11-19,Stoke City,2,3,Queens Park Rangers,2021
+2393,2011-11-19,Sunderland,0,0,Fulham,2021
+2394,2011-11-19,Swansea City,0,1,Manchester United,2021
+2395,2011-11-19,West Bromwich Albion,2,1,Bolton Wanderers,2021
+2396,2011-11-19,Wigan Athletic,3,3,Blackburn Rovers,2021
+2397,2011-11-20,Chelsea,1,2,Liverpool,2021
+2398,2011-11-21,Tottenham Hotspur,2,0,Aston Villa,2021
+2399,2011-11-26,Arsenal,1,1,Fulham,2021
+2400,2011-11-26,Bolton Wanderers,0,2,Everton,2021
+2401,2011-11-26,Chelsea,3,0,Wolverhampton Wanderers,2021
+2402,2011-11-26,Manchester United,1,1,Newcastle United,2021
+2403,2011-11-26,Norwich City,2,1,Queens Park Rangers,2021
+2404,2011-11-26,Stoke City,3,1,Blackburn Rovers,2021
+2405,2011-11-26,Sunderland,1,2,Wigan Athletic,2021
+2406,2011-11-26,West Bromwich Albion,1,3,Tottenham Hotspur,2021
+2407,2011-11-27,Liverpool,1,1,Manchester City,2021
+2408,2011-11-27,Swansea City,0,0,Aston Villa,2021
+2409,2011-12-03,Aston Villa,0,1,Manchester United,2021
+2410,2011-12-03,Blackburn Rovers,4,2,Swansea City,2021
+2411,2011-12-03,Manchester City,5,1,Norwich City,2021
+2412,2011-12-03,Newcastle United,0,3,Chelsea,2021
+2413,2011-12-03,Queens Park Rangers,1,1,West Bromwich Albion,2021
+2414,2011-12-03,Tottenham Hotspur,3,0,Bolton Wanderers,2021
+2415,2011-12-03,Wigan Athletic,0,4,Arsenal,2021
+2416,2011-12-04,Everton,0,1,Stoke City,2021
+2417,2011-12-04,Wolverhampton Wanderers,2,1,Sunderland,2021
+2418,2011-12-05,Fulham,1,0,Liverpool,2021
+2419,2011-12-10,Arsenal,1,0,Everton,2021
+2420,2011-12-10,Bolton Wanderers,1,2,Aston Villa,2021
+2421,2011-12-10,Liverpool,1,0,Queens Park Rangers,2021
+2422,2011-12-10,Manchester United,4,1,Wolverhampton Wanderers,2021
+2423,2011-12-10,Norwich City,4,2,Newcastle United,2021
+2424,2011-12-10,Swansea City,2,0,Fulham,2021
+2425,2011-12-10,West Bromwich Albion,1,2,Wigan Athletic,2021
+2426,2011-12-11,Stoke City,2,1,Tottenham Hotspur,2021
+2427,2011-12-11,Sunderland,2,1,Blackburn Rovers,2021
+2428,2011-12-12,Chelsea,2,1,Manchester City,2021
+2429,2011-12-17,Blackburn Rovers,1,2,West Bromwich Albion,2021
+2430,2011-12-17,Everton,1,1,Norwich City,2021
+2431,2011-12-17,Fulham,2,0,Bolton Wanderers,2021
+2432,2011-12-17,Newcastle United,0,0,Swansea City,2021
+2433,2011-12-17,Wigan Athletic,1,1,Chelsea,2021
+2434,2011-12-17,Wolverhampton Wanderers,1,2,Stoke City,2021
+2435,2011-12-18,Aston Villa,0,2,Liverpool,2021
+2436,2011-12-18,Manchester City,1,0,Arsenal,2021
+2437,2011-12-18,Queens Park Rangers,0,2,Manchester United,2021
+2438,2011-12-18,Tottenham Hotspur,1,0,Sunderland,2021
+2439,2011-12-20,Blackburn Rovers,1,2,Bolton Wanderers,2021
+2440,2011-12-20,Wolverhampton Wanderers,2,2,Norwich City,2021
+2441,2011-12-21,Aston Villa,1,2,Arsenal,2021
+2442,2011-12-21,Everton,1,0,Swansea City,2021
+2443,2011-12-21,Fulham,0,5,Manchester United,2021
+2444,2011-12-21,Manchester City,3,0,Stoke City,2021
+2445,2011-12-21,Newcastle United,2,3,West Bromwich Albion,2021
+2446,2011-12-21,Queens Park Rangers,2,3,Sunderland,2021
+2447,2011-12-21,Wigan Athletic,0,0,Liverpool,2021
+2448,2011-12-22,Tottenham Hotspur,1,1,Chelsea,2021
+2449,2011-12-26,Bolton Wanderers,0,2,Newcastle United,2021
+2450,2011-12-26,Chelsea,1,1,Fulham,2021
+2451,2011-12-26,Liverpool,1,1,Blackburn Rovers,2021
+2452,2011-12-26,Manchester United,5,0,Wigan Athletic,2021
+2453,2011-12-26,Stoke City,0,0,Aston Villa,2021
+2454,2011-12-26,Sunderland,1,1,Everton,2021
+2455,2011-12-26,West Bromwich Albion,0,0,Manchester City,2021
+2456,2011-12-27,Arsenal,1,1,Wolverhampton Wanderers,2021
+2457,2011-12-27,Norwich City,0,2,Tottenham Hotspur,2021
+2458,2011-12-27,Swansea City,1,1,Queens Park Rangers,2021
+2459,2011-12-30,Liverpool,3,1,Newcastle United,2021
+2460,2011-12-31,Arsenal,1,0,Queens Park Rangers,2021
+2461,2011-12-31,Bolton Wanderers,1,1,Wolverhampton Wanderers,2021
+2462,2011-12-31,Chelsea,1,3,Aston Villa,2021
+2463,2011-12-31,Manchester United,2,3,Blackburn Rovers,2021
+2464,2011-12-31,Norwich City,1,1,Fulham,2021
+2465,2011-12-31,Stoke City,2,2,Wigan Athletic,2021
+2466,2011-12-31,Swansea City,1,1,Tottenham Hotspur,2021
+2467,2012-01-01,Sunderland,1,0,Manchester City,2021
+2468,2012-01-01,West Bromwich Albion,0,1,Everton,2021
+2469,2012-01-02,Aston Villa,0,2,Swansea City,2021
+2470,2012-01-02,Blackburn Rovers,1,2,Stoke City,2021
+2471,2012-01-02,Fulham,2,1,Arsenal,2021
+2472,2012-01-02,Queens Park Rangers,1,2,Norwich City,2021
+2473,2012-01-02,Wolverhampton Wanderers,1,2,Chelsea,2021
+2474,2012-01-03,Manchester City,3,0,Liverpool,2021
+2475,2012-01-03,Tottenham Hotspur,1,0,West Bromwich Albion,2021
+2476,2012-01-03,Wigan Athletic,1,4,Sunderland,2021
+2477,2012-01-04,Everton,1,2,Bolton Wanderers,2021
+2478,2012-01-04,Newcastle United,3,0,Manchester United,2021
+2479,2012-01-11,Tottenham Hotspur,2,0,Everton,2021
+2480,2012-01-14,Aston Villa,1,1,Everton,2021
+2481,2012-01-14,Blackburn Rovers,3,1,Fulham,2021
+2482,2012-01-14,Chelsea,1,0,Sunderland,2021
+2483,2012-01-14,Liverpool,0,0,Stoke City,2021
+2484,2012-01-14,Manchester United,3,0,Bolton Wanderers,2021
+2485,2012-01-14,Tottenham Hotspur,1,1,Wolverhampton Wanderers,2021
+2486,2012-01-14,West Bromwich Albion,1,2,Norwich City,2021
+2487,2012-01-15,Newcastle United,1,0,Queens Park Rangers,2021
+2488,2012-01-15,Swansea City,3,2,Arsenal,2021
+2489,2012-01-16,Wigan Athletic,0,1,Manchester City,2021
+2490,2012-01-21,Bolton Wanderers,3,1,Liverpool,2021
+2491,2012-01-21,Everton,1,1,Blackburn Rovers,2021
+2492,2012-01-21,Fulham,5,2,Newcastle United,2021
+2493,2012-01-21,Norwich City,0,0,Chelsea,2021
+2494,2012-01-21,Queens Park Rangers,3,1,Wigan Athletic,2021
+2495,2012-01-21,Stoke City,1,2,West Bromwich Albion,2021
+2496,2012-01-21,Sunderland,2,0,Swansea City,2021
+2497,2012-01-21,Wolverhampton Wanderers,2,3,Aston Villa,2021
+2498,2012-01-22,Arsenal,1,2,Manchester United,2021
+2499,2012-01-22,Manchester City,3,2,Tottenham Hotspur,2021
+2500,2012-01-31,Everton,1,0,Manchester City,2021
+2501,2012-01-31,Manchester United,2,0,Stoke City,2021
+2502,2012-01-31,Swansea City,1,1,Chelsea,2021
+2503,2012-01-31,Tottenham Hotspur,3,1,Wigan Athletic,2021
+2504,2012-01-31,Wolverhampton Wanderers,0,3,Liverpool,2021
+2505,2012-02-01,Aston Villa,2,2,Queens Park Rangers,2021
+2506,2012-02-01,Blackburn Rovers,0,2,Newcastle United,2021
+2507,2012-02-01,Bolton Wanderers,0,0,Arsenal,2021
+2508,2012-02-01,Fulham,1,1,West Bromwich Albion,2021
+2509,2012-02-01,Sunderland,3,0,Norwich City,2021
+2510,2012-02-04,Arsenal,7,1,Blackburn Rovers,2021
+2511,2012-02-04,Manchester City,3,0,Fulham,2021
+2512,2012-02-04,Norwich City,2,0,Bolton Wanderers,2021
+2513,2012-02-04,Queens Park Rangers,1,2,Wolverhampton Wanderers,2021
+2514,2012-02-04,Stoke City,0,1,Sunderland,2021
+2515,2012-02-04,West Bromwich Albion,1,2,Swansea City,2021
+2516,2012-02-04,Wigan Athletic,1,1,Everton,2021
+2517,2012-02-05,Chelsea,3,3,Manchester United,2021
+2518,2012-02-05,Newcastle United,2,1,Aston Villa,2021
+2519,2012-02-06,Liverpool,0,0,Tottenham Hotspur,2021
+2520,2012-02-11,Blackburn Rovers,3,2,Queens Park Rangers,2021
+2521,2012-02-11,Bolton Wanderers,1,2,Wigan Athletic,2021
+2522,2012-02-11,Everton,2,0,Chelsea,2021
+2523,2012-02-11,Fulham,2,1,Stoke City,2021
+2524,2012-02-11,Manchester United,2,1,Liverpool,2021
+2525,2012-02-11,Sunderland,1,2,Arsenal,2021
+2526,2012-02-11,Swansea City,2,3,Norwich City,2021
+2527,2012-02-11,Tottenham Hotspur,5,0,Newcastle United,2021
+2528,2012-02-12,Aston Villa,0,1,Manchester City,2021
+2529,2012-02-12,Wolverhampton Wanderers,1,5,West Bromwich Albion,2021
+2530,2012-02-25,Chelsea,3,0,Bolton Wanderers,2021
+2531,2012-02-25,Manchester City,3,0,Blackburn Rovers,2021
+2532,2012-02-25,Newcastle United,2,2,Wolverhampton Wanderers,2021
+2533,2012-02-25,Queens Park Rangers,0,1,Fulham,2021
+2534,2012-02-25,West Bromwich Albion,4,0,Sunderland,2021
+2535,2012-02-25,Wigan Athletic,0,0,Aston Villa,2021
+2536,2012-02-26,Arsenal,5,2,Tottenham Hotspur,2021
+2537,2012-02-26,Norwich City,1,2,Manchester United,2021
+2538,2012-02-26,Stoke City,2,0,Swansea City,2021
+2539,2012-03-03,Blackburn Rovers,1,1,Aston Villa,2021
+2540,2012-03-03,Liverpool,1,2,Arsenal,2021
+2541,2012-03-03,Manchester City,2,0,Bolton Wanderers,2021
+2542,2012-03-03,Queens Park Rangers,1,1,Everton,2021
+2543,2012-03-03,Stoke City,1,0,Norwich City,2021
+2544,2012-03-03,West Bromwich Albion,1,0,Chelsea,2021
+2545,2012-03-03,Wigan Athletic,0,2,Swansea City,2021
+2546,2012-03-04,Fulham,5,0,Wolverhampton Wanderers,2021
+2547,2012-03-04,Newcastle United,1,1,Sunderland,2021
+2548,2012-03-04,Tottenham Hotspur,1,3,Manchester United,2021
+2549,2012-03-10,Aston Villa,1,0,Fulham,2021
+2550,2012-03-10,Bolton Wanderers,2,1,Queens Park Rangers,2021
+2551,2012-03-10,Chelsea,1,0,Stoke City,2021
+2552,2012-03-10,Everton,1,0,Tottenham Hotspur,2021
+2553,2012-03-10,Sunderland,1,0,Liverpool,2021
+2554,2012-03-10,Wolverhampton Wanderers,0,2,Blackburn Rovers,2021
+2555,2012-03-11,Manchester United,2,0,West Bromwich Albion,2021
+2556,2012-03-11,Norwich City,1,1,Wigan Athletic,2021
+2557,2012-03-11,Swansea City,1,0,Manchester City,2021
+2558,2012-03-12,Arsenal,2,1,Newcastle United,2021
+2559,2012-03-13,Liverpool,3,0,Everton,2021
+2560,2012-03-17,Fulham,0,3,Swansea City,2021
+2561,2012-03-17,Wigan Athletic,1,1,West Bromwich Albion,2021
+2562,2012-03-18,Newcastle United,1,0,Norwich City,2021
+2563,2012-03-18,Wolverhampton Wanderers,0,5,Manchester United,2021
+2564,2012-03-20,Blackburn Rovers,2,0,Sunderland,2021
+2565,2012-03-21,Everton,0,1,Arsenal,2021
+2566,2012-03-21,Manchester City,2,1,Chelsea,2021
+2567,2012-03-21,Queens Park Rangers,3,2,Liverpool,2021
+2568,2012-03-21,Tottenham Hotspur,1,1,Stoke City,2021
+2569,2012-03-24,Arsenal,3,0,Aston Villa,2021
+2570,2012-03-24,Bolton Wanderers,2,1,Blackburn Rovers,2021
+2571,2012-03-24,Chelsea,0,0,Tottenham Hotspur,2021
+2572,2012-03-24,Liverpool,1,2,Wigan Athletic,2021
+2573,2012-03-24,Norwich City,2,1,Wolverhampton Wanderers,2021
+2574,2012-03-24,Stoke City,1,1,Manchester City,2021
+2575,2012-03-24,Sunderland,3,1,Queens Park Rangers,2021
+2576,2012-03-24,Swansea City,0,2,Everton,2021
+2577,2012-03-25,West Bromwich Albion,1,3,Newcastle United,2021
+2578,2012-03-26,Manchester United,1,0,Fulham,2021
+2579,2012-03-31,Aston Villa,2,4,Chelsea,2021
+2580,2012-03-31,Everton,2,0,West Bromwich Albion,2021
+2581,2012-03-31,Fulham,2,1,Norwich City,2021
+2582,2012-03-31,Manchester City,3,3,Sunderland,2021
+2583,2012-03-31,Queens Park Rangers,2,1,Arsenal,2021
+2584,2012-03-31,Wigan Athletic,2,0,Stoke City,2021
+2585,2012-03-31,Wolverhampton Wanderers,2,3,Bolton Wanderers,2021
+2586,2012-04-01,Newcastle United,2,0,Liverpool,2021
+2587,2012-04-01,Tottenham Hotspur,3,1,Swansea City,2021
+2588,2012-04-02,Blackburn Rovers,0,2,Manchester United,2021
+2589,2012-04-06,Swansea City,0,2,Newcastle United,2021
+2590,2012-04-07,Bolton Wanderers,0,3,Fulham,2021
+2591,2012-04-07,Chelsea,2,1,Wigan Athletic,2021
+2592,2012-04-07,Liverpool,1,1,Aston Villa,2021
+2593,2012-04-07,Norwich City,2,2,Everton,2021
+2594,2012-04-07,Stoke City,2,1,Wolverhampton Wanderers,2021
+2595,2012-04-07,Sunderland,0,0,Tottenham Hotspur,2021
+2596,2012-04-07,West Bromwich Albion,3,0,Blackburn Rovers,2021
+2597,2012-04-08,Arsenal,1,0,Manchester City,2021
+2598,2012-04-08,Manchester United,2,0,Queens Park Rangers,2021
+2599,2012-04-09,Aston Villa,1,1,Stoke City,2021
+2600,2012-04-09,Everton,4,0,Sunderland,2021
+2601,2012-04-09,Fulham,1,1,Chelsea,2021
+2602,2012-04-09,Newcastle United,2,0,Bolton Wanderers,2021
+2603,2012-04-09,Tottenham Hotspur,1,2,Norwich City,2021
+2604,2012-04-10,Blackburn Rovers,2,3,Liverpool,2021
+2605,2012-04-11,Manchester City,4,0,West Bromwich Albion,2021
+2606,2012-04-11,Queens Park Rangers,3,0,Swansea City,2021
+2607,2012-04-11,Wigan Athletic,1,0,Manchester United,2021
+2608,2012-04-11,Wolverhampton Wanderers,0,3,Arsenal,2021
+2609,2012-04-14,Norwich City,1,6,Manchester City,2021
+2610,2012-04-14,Sunderland,0,0,Wolverhampton Wanderers,2021
+2611,2012-04-14,Swansea City,3,0,Blackburn Rovers,2021
+2612,2012-04-14,West Bromwich Albion,1,0,Queens Park Rangers,2021
+2613,2012-04-15,Manchester United,4,0,Aston Villa,2021
+2614,2012-04-16,Arsenal,1,2,Wigan Athletic,2021
+2615,2012-04-21,Arsenal,0,0,Chelsea,2021
+2616,2012-04-21,Aston Villa,0,0,Sunderland,2021
+2617,2012-04-21,Blackburn Rovers,2,0,Norwich City,2021
+2618,2012-04-21,Bolton Wanderers,1,1,Swansea City,2021
+2619,2012-04-21,Fulham,2,1,Wigan Athletic,2021
+2620,2012-04-21,Newcastle United,3,0,Stoke City,2021
+2621,2012-04-21,Queens Park Rangers,1,0,Tottenham Hotspur,2021
+2622,2012-04-22,Liverpool,0,1,West Bromwich Albion,2021
+2623,2012-04-22,Manchester United,4,4,Everton,2021
+2624,2012-04-22,Wolverhampton Wanderers,0,2,Manchester City,2021
+2625,2012-04-24,Aston Villa,1,2,Bolton Wanderers,2021
+2626,2012-04-28,Everton,4,0,Fulham,2021
+2627,2012-04-28,Norwich City,0,3,Liverpool,2021
+2628,2012-04-28,Stoke City,1,1,Arsenal,2021
+2629,2012-04-28,Sunderland,2,2,Bolton Wanderers,2021
+2630,2012-04-28,Swansea City,4,4,Wolverhampton Wanderers,2021
+2631,2012-04-28,West Bromwich Albion,0,0,Aston Villa,2021
+2632,2012-04-28,Wigan Athletic,4,0,Newcastle United,2021
+2633,2012-04-29,Chelsea,6,1,Queens Park Rangers,2021
+2634,2012-04-29,Tottenham Hotspur,2,0,Blackburn Rovers,2021
+2635,2012-04-30,Manchester City,1,0,Manchester United,2021
+2636,2012-05-01,Liverpool,0,1,Fulham,2021
+2637,2012-05-01,Stoke City,1,1,Everton,2021
+2638,2012-05-02,Bolton Wanderers,1,4,Tottenham Hotspur,2021
+2639,2012-05-02,Chelsea,0,2,Newcastle United,2021
+2640,2012-05-05,Arsenal,3,3,Norwich City,2021
+2641,2012-05-06,Aston Villa,1,1,Tottenham Hotspur,2021
+2642,2012-05-06,Bolton Wanderers,2,2,West Bromwich Albion,2021
+2643,2012-05-06,Fulham,2,1,Sunderland,2021
+2644,2012-05-06,Manchester United,2,0,Swansea City,2021
+2645,2012-05-06,Newcastle United,0,2,Manchester City,2021
+2646,2012-05-06,Queens Park Rangers,1,0,Stoke City,2021
+2647,2012-05-06,Wolverhampton Wanderers,0,0,Everton,2021
+2648,2012-05-07,Blackburn Rovers,0,1,Wigan Athletic,2021
+2649,2012-05-08,Liverpool,4,1,Chelsea,2021
+2650,2012-05-13,Chelsea,2,1,Blackburn Rovers,2021
+2651,2012-05-13,Everton,3,1,Newcastle United,2021
+2652,2012-05-13,Manchester City,3,2,Queens Park Rangers,2021
+2653,2012-05-13,Norwich City,2,0,Aston Villa,2021
+2654,2012-05-13,Stoke City,2,2,Bolton Wanderers,2021
+2655,2012-05-13,Sunderland,0,1,Manchester United,2021
+2656,2012-05-13,Swansea City,1,0,Liverpool,2021
+2657,2012-05-13,Tottenham Hotspur,2,0,Fulham,2021
+2658,2012-05-13,West Bromwich Albion,2,3,Arsenal,2021
+2659,2012-05-13,Wigan Athletic,3,2,Wolverhampton Wanderers,2021
+2660,2012-08-18,Arsenal,0,0,Sunderland,2022
+2661,2012-08-18,Fulham,5,0,Norwich City,2022
+2662,2012-08-18,Newcastle United,2,1,Tottenham Hotspur,2022
+2663,2012-08-18,Queens Park Rangers,0,5,Swansea City,2022
+2664,2012-08-18,Reading,1,1,Stoke City,2022
+2665,2012-08-18,West Bromwich Albion,3,0,Liverpool,2022
+2666,2012-08-18,West Ham United,1,0,Aston Villa,2022
+2667,2012-08-19,Manchester City,3,2,Southampton,2022
+2668,2012-08-19,Wigan Athletic,0,2,Chelsea,2022
+2669,2012-08-20,Everton,1,0,Manchester United,2022
+2670,2012-08-22,Chelsea,4,2,Reading,2022
+2671,2012-08-25,Aston Villa,1,3,Everton,2022
+2672,2012-08-25,Chelsea,2,0,Newcastle United,2022
+2673,2012-08-25,Manchester United,3,2,Fulham,2022
+2674,2012-08-25,Norwich City,1,1,Queens Park Rangers,2022
+2675,2012-08-25,Southampton,0,2,Wigan Athletic,2022
+2676,2012-08-25,Swansea City,3,0,West Ham United,2022
+2677,2012-08-25,Tottenham Hotspur,1,1,West Bromwich Albion,2022
+2678,2012-08-26,Liverpool,2,2,Manchester City,2022
+2679,2012-08-26,Stoke City,0,0,Arsenal,2022
+2680,2012-09-01,Manchester City,3,1,Queens Park Rangers,2022
+2681,2012-09-01,Swansea City,2,2,Sunderland,2022
+2682,2012-09-01,Tottenham Hotspur,1,1,Norwich City,2022
+2683,2012-09-01,West Bromwich Albion,2,0,Everton,2022
+2684,2012-09-01,West Ham United,3,0,Fulham,2022
+2685,2012-09-01,Wigan Athletic,2,2,Stoke City,2022
+2686,2012-09-02,Liverpool,0,2,Arsenal,2022
+2687,2012-09-02,Newcastle United,1,1,Aston Villa,2022
+2688,2012-09-02,Southampton,2,3,Manchester United,2022
+2689,2012-09-15,Arsenal,6,1,Southampton,2022
+2690,2012-09-15,Aston Villa,2,0,Swansea City,2022
+2691,2012-09-15,Fulham,3,0,West Bromwich Albion,2022
+2692,2012-09-15,Manchester United,4,0,Wigan Athletic,2022
+2693,2012-09-15,Norwich City,0,0,West Ham United,2022
+2694,2012-09-15,Queens Park Rangers,0,0,Chelsea,2022
+2695,2012-09-15,Stoke City,1,1,Manchester City,2022
+2696,2012-09-15,Sunderland,1,1,Liverpool,2022
+2697,2012-09-16,Reading,1,3,Tottenham Hotspur,2022
+2698,2012-09-17,Everton,2,2,Newcastle United,2022
+2699,2012-09-22,Chelsea,1,0,Stoke City,2022
+2700,2012-09-22,Southampton,4,1,Aston Villa,2022
+2701,2012-09-22,Swansea City,0,3,Everton,2022
+2702,2012-09-22,West Bromwich Albion,1,0,Reading,2022
+2703,2012-09-22,West Ham United,1,1,Sunderland,2022
+2704,2012-09-22,Wigan Athletic,1,2,Fulham,2022
+2705,2012-09-23,Liverpool,1,2,Manchester United,2022
+2706,2012-09-23,Manchester City,1,1,Arsenal,2022
+2707,2012-09-23,Newcastle United,1,0,Norwich City,2022
+2708,2012-09-23,Tottenham Hotspur,2,1,Queens Park Rangers,2022
+2709,2012-09-29,Arsenal,1,2,Chelsea,2022
+2710,2012-09-29,Everton,3,1,Southampton,2022
+2711,2012-09-29,Fulham,1,2,Manchester City,2022
+2712,2012-09-29,Manchester United,2,3,Tottenham Hotspur,2022
+2713,2012-09-29,Norwich City,2,5,Liverpool,2022
+2714,2012-09-29,Reading,2,2,Newcastle United,2022
+2715,2012-09-29,Stoke City,2,0,Swansea City,2022
+2716,2012-09-29,Sunderland,1,0,Wigan Athletic,2022
+2717,2012-09-30,Aston Villa,1,1,West Bromwich Albion,2022
+2718,2012-10-01,Queens Park Rangers,1,2,West Ham United,2022
+2719,2012-10-06,Chelsea,4,1,Norwich City,2022
+2720,2012-10-06,Manchester City,3,0,Sunderland,2022
+2721,2012-10-06,Swansea City,2,2,Reading,2022
+2722,2012-10-06,West Bromwich Albion,3,2,Queens Park Rangers,2022
+2723,2012-10-06,West Ham United,1,3,Arsenal,2022
+2724,2012-10-06,Wigan Athletic,2,2,Everton,2022
+2725,2012-10-07,Liverpool,0,0,Stoke City,2022
+2726,2012-10-07,Newcastle United,0,3,Manchester United,2022
+2727,2012-10-07,Southampton,2,2,Fulham,2022
+2728,2012-10-07,Tottenham Hotspur,2,0,Aston Villa,2022
+2729,2012-10-20,Fulham,1,0,Aston Villa,2022
+2730,2012-10-20,Liverpool,1,0,Reading,2022
+2731,2012-10-20,Manchester United,4,2,Stoke City,2022
+2732,2012-10-20,Norwich City,1,0,Arsenal,2022
+2733,2012-10-20,Swansea City,2,1,Wigan Athletic,2022
+2734,2012-10-20,Tottenham Hotspur,2,4,Chelsea,2022
+2735,2012-10-20,West Bromwich Albion,1,2,Manchester City,2022
+2736,2012-10-20,West Ham United,4,1,Southampton,2022
+2737,2012-10-21,Queens Park Rangers,1,1,Everton,2022
+2738,2012-10-21,Sunderland,1,1,Newcastle United,2022
+2739,2012-10-27,Arsenal,1,0,Queens Park Rangers,2022
+2740,2012-10-27,Aston Villa,1,1,Norwich City,2022
+2741,2012-10-27,Manchester City,1,0,Swansea City,2022
+2742,2012-10-27,Reading,3,3,Fulham,2022
+2743,2012-10-27,Stoke City,0,0,Sunderland,2022
+2744,2012-10-27,Wigan Athletic,2,1,West Ham United,2022
+2745,2012-10-28,Chelsea,2,3,Manchester United,2022
+2746,2012-10-28,Everton,2,2,Liverpool,2022
+2747,2012-10-28,Newcastle United,2,1,West Bromwich Albion,2022
+2748,2012-10-28,Southampton,1,2,Tottenham Hotspur,2022
+2749,2012-11-03,Fulham,2,2,Everton,2022
+2750,2012-11-03,Manchester United,2,1,Arsenal,2022
+2751,2012-11-03,Norwich City,1,0,Stoke City,2022
+2752,2012-11-03,Sunderland,0,1,Aston Villa,2022
+2753,2012-11-03,Swansea City,1,1,Chelsea,2022
+2754,2012-11-03,Tottenham Hotspur,0,1,Wigan Athletic,2022
+2755,2012-11-03,West Ham United,0,0,Manchester City,2022
+2756,2012-11-04,Liverpool,1,1,Newcastle United,2022
+2757,2012-11-04,Queens Park Rangers,1,1,Reading,2022
+2758,2012-11-05,West Bromwich Albion,2,0,Southampton,2022
+2759,2012-11-10,Arsenal,3,3,Fulham,2022
+2760,2012-11-10,Aston Villa,2,3,Manchester United,2022
+2761,2012-11-10,Everton,2,1,Sunderland,2022
+2762,2012-11-10,Reading,0,0,Norwich City,2022
+2763,2012-11-10,Southampton,1,1,Swansea City,2022
+2764,2012-11-10,Stoke City,1,0,Queens Park Rangers,2022
+2765,2012-11-10,Wigan Athletic,1,2,West Bromwich Albion,2022
+2766,2012-11-11,Chelsea,1,1,Liverpool,2022
+2767,2012-11-11,Manchester City,2,1,Tottenham Hotspur,2022
+2768,2012-11-11,Newcastle United,0,1,West Ham United,2022
+2769,2012-11-17,Arsenal,5,2,Tottenham Hotspur,2022
+2770,2012-11-17,Liverpool,3,0,Wigan Athletic,2022
+2771,2012-11-17,Manchester City,5,0,Aston Villa,2022
+2772,2012-11-17,Newcastle United,1,2,Swansea City,2022
+2773,2012-11-17,Norwich City,1,0,Manchester United,2022
+2774,2012-11-17,Queens Park Rangers,1,3,Southampton,2022
+2775,2012-11-17,Reading,2,1,Everton,2022
+2776,2012-11-17,West Bromwich Albion,2,1,Chelsea,2022
+2777,2012-11-18,Fulham,1,3,Sunderland,2022
+2778,2012-11-19,West Ham United,1,1,Stoke City,2022
+2779,2012-11-24,Aston Villa,0,0,Arsenal,2022
+2780,2012-11-24,Everton,1,1,Norwich City,2022
+2781,2012-11-24,Manchester United,3,1,Queens Park Rangers,2022
+2782,2012-11-24,Stoke City,1,0,Fulham,2022
+2783,2012-11-24,Sunderland,2,4,West Bromwich Albion,2022
+2784,2012-11-24,Wigan Athletic,3,2,Reading,2022
+2785,2012-11-25,Chelsea,0,0,Manchester City,2022
+2786,2012-11-25,Southampton,2,0,Newcastle United,2022
+2787,2012-11-25,Swansea City,0,0,Liverpool,2022
+2788,2012-11-25,Tottenham Hotspur,3,1,West Ham United,2022
+2789,2012-11-27,Aston Villa,1,0,Reading,2022
+2790,2012-11-27,Sunderland,0,0,Queens Park Rangers,2022
+2791,2012-11-28,Chelsea,0,0,Fulham,2022
+2792,2012-11-28,Everton,1,1,Arsenal,2022
+2793,2012-11-28,Manchester United,1,0,West Ham United,2022
+2794,2012-11-28,Southampton,1,1,Norwich City,2022
+2795,2012-11-28,Stoke City,2,1,Newcastle United,2022
+2796,2012-11-28,Swansea City,3,1,West Bromwich Albion,2022
+2797,2012-11-28,Tottenham Hotspur,2,1,Liverpool,2022
+2798,2012-11-28,Wigan Athletic,0,2,Manchester City,2022
+2799,2012-12-01,Arsenal,0,2,Swansea City,2022
+2800,2012-12-01,Fulham,0,3,Tottenham Hotspur,2022
+2801,2012-12-01,Liverpool,1,0,Southampton,2022
+2802,2012-12-01,Manchester City,1,1,Everton,2022
+2803,2012-12-01,Queens Park Rangers,1,1,Aston Villa,2022
+2804,2012-12-01,Reading,3,4,Manchester United,2022
+2805,2012-12-01,West Bromwich Albion,0,1,Stoke City,2022
+2806,2012-12-01,West Ham United,3,1,Chelsea,2022
+2807,2012-12-02,Norwich City,2,1,Sunderland,2022
+2808,2012-12-03,Newcastle United,3,0,Wigan Athletic,2022
+2809,2012-12-08,Arsenal,2,0,West Bromwich Albion,2022
+2810,2012-12-08,Aston Villa,0,0,Stoke City,2022
+2811,2012-12-08,Southampton,1,0,Reading,2022
+2812,2012-12-08,Sunderland,1,3,Chelsea,2022
+2813,2012-12-08,Swansea City,3,4,Norwich City,2022
+2814,2012-12-08,Wigan Athletic,2,2,Queens Park Rangers,2022
+2815,2012-12-09,Everton,2,1,Tottenham Hotspur,2022
+2816,2012-12-09,Manchester City,2,3,Manchester United,2022
+2817,2012-12-09,West Ham United,2,3,Liverpool,2022
+2818,2012-12-10,Fulham,2,1,Newcastle United,2022
+2819,2012-12-11,Sunderland,3,0,Reading,2022
+2820,2012-12-15,Liverpool,1,3,Aston Villa,2022
+2821,2012-12-15,Manchester United,3,1,Sunderland,2022
+2822,2012-12-15,Newcastle United,1,3,Manchester City,2022
+2823,2012-12-15,Norwich City,2,1,Wigan Athletic,2022
+2824,2012-12-15,Queens Park Rangers,2,1,Fulham,2022
+2825,2012-12-15,Stoke City,1,1,Everton,2022
+2826,2012-12-16,Tottenham Hotspur,1,0,Swansea City,2022
+2827,2012-12-16,West Bromwich Albion,0,0,West Ham United,2022
+2828,2012-12-17,Reading,2,5,Arsenal,2022
+2829,2012-12-22,Liverpool,4,0,Fulham,2022
+2830,2012-12-22,Manchester City,1,0,Reading,2022
+2831,2012-12-22,Newcastle United,1,0,Queens Park Rangers,2022
+2832,2012-12-22,Southampton,0,1,Sunderland,2022
+2833,2012-12-22,Tottenham Hotspur,0,0,Stoke City,2022
+2834,2012-12-22,West Bromwich Albion,2,1,Norwich City,2022
+2835,2012-12-22,West Ham United,1,2,Everton,2022
+2836,2012-12-22,Wigan Athletic,0,1,Arsenal,2022
+2837,2012-12-23,Chelsea,8,0,Aston Villa,2022
+2838,2012-12-23,Swansea City,1,1,Manchester United,2022
+2839,2012-12-26,Aston Villa,0,4,Tottenham Hotspur,2022
+2840,2012-12-26,Everton,2,1,Wigan Athletic,2022
+2841,2012-12-26,Fulham,1,1,Southampton,2022
+2842,2012-12-26,Manchester United,4,3,Newcastle United,2022
+2843,2012-12-26,Norwich City,0,1,Chelsea,2022
+2844,2012-12-26,Queens Park Rangers,1,2,West Bromwich Albion,2022
+2845,2012-12-26,Reading,0,0,Swansea City,2022
+2846,2012-12-26,Stoke City,3,1,Liverpool,2022
+2847,2012-12-26,Sunderland,1,0,Manchester City,2022
+2848,2012-12-29,Arsenal,7,3,Newcastle United,2022
+2849,2012-12-29,Aston Villa,0,3,Wigan Athletic,2022
+2850,2012-12-29,Fulham,1,2,Swansea City,2022
+2851,2012-12-29,Manchester United,2,0,West Bromwich Albion,2022
+2852,2012-12-29,Norwich City,3,4,Manchester City,2022
+2853,2012-12-29,Reading,1,0,West Ham United,2022
+2854,2012-12-29,Stoke City,3,3,Southampton,2022
+2855,2012-12-29,Sunderland,1,2,Tottenham Hotspur,2022
+2856,2012-12-30,Everton,1,2,Chelsea,2022
+2857,2012-12-30,Queens Park Rangers,0,3,Liverpool,2022
+2858,2013-01-01,Manchester City,3,0,Stoke City,2022
+2859,2013-01-01,Southampton,1,1,Arsenal,2022
+2860,2013-01-01,Swansea City,2,2,Aston Villa,2022
+2861,2013-01-01,Tottenham Hotspur,3,1,Reading,2022
+2862,2013-01-01,West Bromwich Albion,1,2,Fulham,2022
+2863,2013-01-01,West Ham United,2,1,Norwich City,2022
+2864,2013-01-01,Wigan Athletic,0,4,Manchester United,2022
+2865,2013-01-02,Chelsea,0,1,Queens Park Rangers,2022
+2866,2013-01-02,Liverpool,3,0,Sunderland,2022
+2867,2013-01-02,Newcastle United,1,2,Everton,2022
+2868,2013-01-12,Aston Villa,0,1,Southampton,2022
+2869,2013-01-12,Everton,0,0,Swansea City,2022
+2870,2013-01-12,Fulham,1,1,Wigan Athletic,2022
+2871,2013-01-12,Norwich City,0,0,Newcastle United,2022
+2872,2013-01-12,Queens Park Rangers,0,0,Tottenham Hotspur,2022
+2873,2013-01-12,Reading,3,2,West Bromwich Albion,2022
+2874,2013-01-12,Stoke City,0,4,Chelsea,2022
+2875,2013-01-12,Sunderland,3,0,West Ham United,2022
+2876,2013-01-13,Arsenal,0,2,Manchester City,2022
+2877,2013-01-13,Manchester United,2,1,Liverpool,2022
+2878,2013-01-16,Chelsea,2,2,Southampton,2022
+2879,2013-01-19,Liverpool,5,0,Norwich City,2022
+2880,2013-01-19,Manchester City,2,0,Fulham,2022
+2881,2013-01-19,Newcastle United,1,2,Reading,2022
+2882,2013-01-19,Swansea City,3,1,Stoke City,2022
+2883,2013-01-19,West Bromwich Albion,2,2,Aston Villa,2022
+2884,2013-01-19,West Ham United,1,1,Queens Park Rangers,2022
+2885,2013-01-19,Wigan Athletic,2,3,Sunderland,2022
+2886,2013-01-20,Chelsea,2,1,Arsenal,2022
+2887,2013-01-20,Tottenham Hotspur,1,1,Manchester United,2022
+2888,2013-01-21,Southampton,0,0,Everton,2022
+2889,2013-01-23,Arsenal,5,1,West Ham United,2022
+2890,2013-01-29,Aston Villa,1,2,Newcastle United,2022
+2891,2013-01-29,Queens Park Rangers,0,0,Manchester City,2022
+2892,2013-01-29,Stoke City,2,2,Wigan Athletic,2022
+2893,2013-01-29,Sunderland,0,0,Swansea City,2022
+2894,2013-01-30,Arsenal,2,2,Liverpool,2022
+2895,2013-01-30,Everton,2,1,West Bromwich Albion,2022
+2896,2013-01-30,Fulham,3,1,West Ham United,2022
+2897,2013-01-30,Manchester United,2,1,Southampton,2022
+2898,2013-01-30,Norwich City,1,1,Tottenham Hotspur,2022
+2899,2013-01-30,Reading,2,2,Chelsea,2022
+2900,2013-02-02,Arsenal,1,0,Stoke City,2022
+2901,2013-02-02,Everton,3,3,Aston Villa,2022
+2902,2013-02-02,Fulham,0,1,Manchester United,2022
+2903,2013-02-02,Newcastle United,3,2,Chelsea,2022
+2904,2013-02-02,Queens Park Rangers,0,0,Norwich City,2022
+2905,2013-02-02,Reading,2,1,Sunderland,2022
+2906,2013-02-02,West Ham United,1,0,Swansea City,2022
+2907,2013-02-02,Wigan Athletic,2,2,Southampton,2022
+2908,2013-02-03,Manchester City,2,2,Liverpool,2022
+2909,2013-02-03,West Bromwich Albion,0,1,Tottenham Hotspur,2022
+2910,2013-02-09,Chelsea,4,1,Wigan Athletic,2022
+2911,2013-02-09,Norwich City,0,0,Fulham,2022
+2912,2013-02-09,Southampton,3,1,Manchester City,2022
+2913,2013-02-09,Stoke City,2,1,Reading,2022
+2914,2013-02-09,Sunderland,0,1,Arsenal,2022
+2915,2013-02-09,Swansea City,4,1,Queens Park Rangers,2022
+2916,2013-02-09,Tottenham Hotspur,2,1,Newcastle United,2022
+2917,2013-02-10,Aston Villa,2,1,West Ham United,2022
+2918,2013-02-10,Manchester United,2,0,Everton,2022
+2919,2013-02-11,Liverpool,0,2,West Bromwich Albion,2022
+2920,2013-02-17,Liverpool,5,0,Swansea City,2022
+2921,2013-02-23,Arsenal,2,1,Aston Villa,2022
+2922,2013-02-23,Fulham,1,0,Stoke City,2022
+2923,2013-02-23,Norwich City,2,1,Everton,2022
+2924,2013-02-23,Queens Park Rangers,0,2,Manchester United,2022
+2925,2013-02-23,Reading,0,3,Wigan Athletic,2022
+2926,2013-02-23,West Bromwich Albion,2,1,Sunderland,2022
+2927,2013-02-24,Manchester City,2,0,Chelsea,2022
+2928,2013-02-24,Newcastle United,4,2,Southampton,2022
+2929,2013-02-25,West Ham United,2,3,Tottenham Hotspur,2022
+2930,2013-03-02,Chelsea,1,0,West Bromwich Albion,2022
+2931,2013-03-02,Everton,3,1,Reading,2022
+2932,2013-03-02,Manchester United,4,0,Norwich City,2022
+2933,2013-03-02,Southampton,1,2,Queens Park Rangers,2022
+2934,2013-03-02,Stoke City,0,1,West Ham United,2022
+2935,2013-03-02,Sunderland,2,2,Fulham,2022
+2936,2013-03-02,Swansea City,1,0,Newcastle United,2022
+2937,2013-03-02,Wigan Athletic,0,4,Liverpool,2022
+2938,2013-03-03,Tottenham Hotspur,2,1,Arsenal,2022
+2939,2013-03-04,Aston Villa,0,1,Manchester City,2022
+2940,2013-03-09,Norwich City,0,0,Southampton,2022
+2941,2013-03-09,Queens Park Rangers,3,1,Sunderland,2022
+2942,2013-03-09,Reading,1,2,Aston Villa,2022
+2943,2013-03-09,West Bromwich Albion,2,1,Swansea City,2022
+2944,2013-03-10,Liverpool,3,2,Tottenham Hotspur,2022
+2945,2013-03-10,Newcastle United,2,1,Stoke City,2022
+2946,2013-03-16,Aston Villa,3,2,Queens Park Rangers,2022
+2947,2013-03-16,Everton,2,0,Manchester City,2022
+2948,2013-03-16,Manchester United,1,0,Reading,2022
+2949,2013-03-16,Southampton,3,1,Liverpool,2022
+2950,2013-03-16,Stoke City,0,0,West Bromwich Albion,2022
+2951,2013-03-16,Swansea City,0,2,Arsenal,2022
+2952,2013-03-17,Chelsea,2,0,West Ham United,2022
+2953,2013-03-17,Sunderland,1,1,Norwich City,2022
+2954,2013-03-17,Tottenham Hotspur,0,1,Fulham,2022
+2955,2013-03-17,Wigan Athletic,2,1,Newcastle United,2022
+2956,2013-03-30,Arsenal,4,1,Reading,2022
+2957,2013-03-30,Everton,1,0,Stoke City,2022
+2958,2013-03-30,Manchester City,4,0,Newcastle United,2022
+2959,2013-03-30,Southampton,2,1,Chelsea,2022
+2960,2013-03-30,Sunderland,0,1,Manchester United,2022
+2961,2013-03-30,Swansea City,1,2,Tottenham Hotspur,2022
+2962,2013-03-30,West Ham United,3,1,West Bromwich Albion,2022
+2963,2013-03-30,Wigan Athletic,1,0,Norwich City,2022
+2964,2013-03-31,Aston Villa,1,2,Liverpool,2022
+2965,2013-04-01,Fulham,3,2,Queens Park Rangers,2022
+2966,2013-04-06,Norwich City,2,2,Swansea City,2022
+2967,2013-04-06,Reading,0,2,Southampton,2022
+2968,2013-04-06,Stoke City,1,3,Aston Villa,2022
+2969,2013-04-06,West Bromwich Albion,1,2,Arsenal,2022
+2970,2013-04-07,Chelsea,2,1,Sunderland,2022
+2971,2013-04-07,Liverpool,0,0,West Ham United,2022
+2972,2013-04-07,Newcastle United,1,0,Fulham,2022
+2973,2013-04-07,Queens Park Rangers,1,1,Wigan Athletic,2022
+2974,2013-04-07,Tottenham Hotspur,2,2,Everton,2022
+2975,2013-04-08,Manchester United,1,2,Manchester City,2022
+2976,2013-04-13,Arsenal,3,1,Norwich City,2022
+2977,2013-04-13,Aston Villa,1,1,Fulham,2022
+2978,2013-04-13,Everton,2,0,Queens Park Rangers,2022
+2979,2013-04-13,Reading,0,0,Liverpool,2022
+2980,2013-04-13,Southampton,1,1,West Ham United,2022
+2981,2013-04-14,Newcastle United,0,3,Sunderland,2022
+2982,2013-04-14,Stoke City,0,2,Manchester United,2022
+2983,2013-04-16,Arsenal,0,0,Everton,2022
+2984,2013-04-17,Fulham,0,3,Chelsea,2022
+2985,2013-04-17,Manchester City,1,0,Wigan Athletic,2022
+2986,2013-04-17,West Ham United,2,2,Manchester United,2022
+2987,2013-04-20,Fulham,0,1,Arsenal,2022
+2988,2013-04-20,Norwich City,2,1,Reading,2022
+2989,2013-04-20,Queens Park Rangers,0,2,Stoke City,2022
+2990,2013-04-20,Sunderland,1,0,Everton,2022
+2991,2013-04-20,Swansea City,0,0,Southampton,2022
+2992,2013-04-20,West Bromwich Albion,1,1,Newcastle United,2022
+2993,2013-04-20,West Ham United,2,0,Wigan Athletic,2022
+2994,2013-04-21,Liverpool,2,2,Chelsea,2022
+2995,2013-04-21,Tottenham Hotspur,3,1,Manchester City,2022
+2996,2013-04-22,Manchester United,3,0,Aston Villa,2022
+2997,2013-04-27,Everton,1,0,Fulham,2022
+2998,2013-04-27,Manchester City,2,1,West Ham United,2022
+2999,2013-04-27,Newcastle United,0,6,Liverpool,2022
+3000,2013-04-27,Southampton,0,3,West Bromwich Albion,2022
+3001,2013-04-27,Stoke City,1,0,Norwich City,2022
+3002,2013-04-27,Wigan Athletic,2,2,Tottenham Hotspur,2022
+3003,2013-04-28,Arsenal,1,1,Manchester United,2022
+3004,2013-04-28,Chelsea,2,0,Swansea City,2022
+3005,2013-04-28,Reading,0,0,Queens Park Rangers,2022
+3006,2013-04-29,Aston Villa,6,1,Sunderland,2022
+3007,2013-05-04,Fulham,2,4,Reading,2022
+3008,2013-05-04,Norwich City,1,2,Aston Villa,2022
+3009,2013-05-04,Queens Park Rangers,0,1,Arsenal,2022
+3010,2013-05-04,Swansea City,0,0,Manchester City,2022
+3011,2013-05-04,Tottenham Hotspur,1,0,Southampton,2022
+3012,2013-05-04,West Bromwich Albion,2,3,Wigan Athletic,2022
+3013,2013-05-04,West Ham United,0,0,Newcastle United,2022
+3014,2013-05-05,Liverpool,0,0,Everton,2022
+3015,2013-05-05,Manchester United,0,1,Chelsea,2022
+3016,2013-05-06,Sunderland,1,1,Stoke City,2022
+3017,2013-05-07,Manchester City,1,0,West Bromwich Albion,2022
+3018,2013-05-07,Wigan Athletic,2,3,Swansea City,2022
+3019,2013-05-08,Chelsea,2,2,Tottenham Hotspur,2022
+3020,2013-05-11,Aston Villa,1,2,Chelsea,2022
+3021,2013-05-12,Everton,2,0,West Ham United,2022
+3022,2013-05-12,Fulham,1,3,Liverpool,2022
+3023,2013-05-12,Manchester United,2,1,Swansea City,2022
+3024,2013-05-12,Norwich City,4,0,West Bromwich Albion,2022
+3025,2013-05-12,Queens Park Rangers,1,2,Newcastle United,2022
+3026,2013-05-12,Stoke City,1,2,Tottenham Hotspur,2022
+3027,2013-05-12,Sunderland,1,1,Southampton,2022
+3028,2013-05-14,Arsenal,4,1,Wigan Athletic,2022
+3029,2013-05-14,Reading,0,2,Manchester City,2022
+3030,2013-05-19,Chelsea,2,1,Everton,2022
+3031,2013-05-19,Liverpool,1,0,Queens Park Rangers,2022
+3032,2013-05-19,Manchester City,2,3,Norwich City,2022
+3033,2013-05-19,Newcastle United,0,1,Arsenal,2022
+3034,2013-05-19,Southampton,1,1,Stoke City,2022
+3035,2013-05-19,Swansea City,0,3,Fulham,2022
+3036,2013-05-19,Tottenham Hotspur,1,0,Sunderland,2022
+3037,2013-05-19,West Bromwich Albion,5,5,Manchester United,2022
+3038,2013-05-19,West Ham United,4,2,Reading,2022
+3039,2013-05-19,Wigan Athletic,2,2,Aston Villa,2022
